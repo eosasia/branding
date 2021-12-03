@@ -1,0 +1,5359 @@
+[
+{
+"tokenContract": "eosio.token",
+"tokenName": "EOS",
+"tokenPriceInEOS": 1,
+"supply": 1037314683,
+"maxSupply": 10000000000,
+"projectURL": "https://eos.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eos.png",
+"percentChange24h": "-2.17",
+"marketCapInEOS": 5087198668.3686,
+"marketCapInUSD": 5087198668.3686,
+"tokenPriceInUSD": "4.77",
+"volume24hUSD": 1016301495.56,
+"high24h": 4.9042,
+"low24h": 3.9193,
+"chain": "eos",
+"description": "EOS (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
+"descriptionCN": "EOS (Enterprise Operation System)是由 Block.one公司主导开发的基于区块链智能合约平台，旨在为高性能分布式应用提供底层区块链平台服务。EOS 项目的目标是实现一个类似操作系统的支撑分布式应用程序的区块链架构。该架构可以提供账户，身份认证，数据库，异步通信以及可在数以万计的 CPU/GPU群集上进行程序调度和并行运算。EOS最终可以支持每秒执行数百万个交易，同时普通用户执行智能合约无需支付使用费用。",
+"isDefiBox": false,
+"priceATH": {},
+"priceATL": {},
+"rank": 0
+},
+{
+"tokenContract": "eosio.token",
+"tokenName": "TLOS",
+"tokenPriceInEOS": 0.208473,
+"supply": 355208371,
+"maxSupply": 10000000000,
+"projectURL": "https://telosfoundation.io/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosio.token-tlos.png",
+"percentChange24h": "-0.01",
+"marketCapInEOS": 74051354.727483,
+"marketCapInUSD": 353224962.0500939,
+"tokenPriceInUSD": 0.9944162099999999,
+"volume24hUSD": 21403.374939,
+"high24h": 1.0071091799999998,
+"low24h": 0.9350201699999999,
+"chain": "telos",
+"description": "Built on EOSIO. Delegated Proof of Stake is the future of smart-contract blockchains. We combine the blazing fast execution and scalability of EOSIO software with true decentralization that makes DPoS sustainable. Telos will have the most even money supply distribution of any blockchain. This token distribution improves governance so the network is more secure and ensures that the future of Telos is decided by its community. Telos has built the most advanced smart contract-controlled governance features of any blockchain.",
+"descriptionCN": "建立在EOSIO之上 委任权益证明（DPOS）是区块链智能合约的未来。我们结合了EOSIO软件的超快的运行速度和高扩展性，以及能让DPOS可持续发展的 - 真正的去中心化。Telos的货币供给使用了最大化权利分散分布方式。这种货币分布的方式极大减少中心化的可能并提高了管制治理能力，确保网络更安全和可持续发展。",
+"isDefiBox": false,
+"priceATH": "1.1008590800000002",
+"priceATL": "0.00927828",
+"contact": [
+{
+"telegram": " https://t.me/HelloTelos",
+"twitter": " https://twitter.com/HelloTelos"
+}
+],
+"warning": [
+{}
+],
+"rank": 1
+},
+{
+"tokenContract": "everipediaiq",
+"tokenName": "IQ",
+"tokenPriceInEOS": 0.00400837,
+"supply": 10021453885,
+"maxSupply": 21000000000,
+"projectURL": "https://everipedia.org/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/everipediaiq-iq.png",
+"percentChange24h": "4.36",
+"marketCapInEOS": 40169695.10901745,
+"marketCapInUSD": 191609445.6700132,
+"tokenPriceInUSD": 0.019119924899999998,
+"volume24hUSD": 2601.9458009999994,
+"high24h": 0.0194002101,
+"low24h": 0.018179614799999997,
+"chain": "eos",
+"description": "The Everipedia team plans to build a modern, convenient and decentralized new encyclopedia website, and this goal will be realized with the development of blockchain technology. The new developing Everipedia will based on the EOS network, which have features such as community autonomy, shielding prevent, and contribution incentives compares to the current Everipedia.The business network encyclopedia Everipedia is owned by Everipedia.Inc and has not adopted blockchain technology yet. Everipedia founded in 2014, whose name derives from\n the English words \"Everything\" and \"Encyclopedia\" .Since December 2017,Everipedia is the largest English encyclopedia with more than six million entries, including all Wikipedia English entries.\nEveripedia's requirements for the attention of entries are more generous, so it has more entries than Wikipedia.",
+"descriptionCN": "Everipedia 团队计划建设现代化的、便捷的、去中心化的新版网络百科网站，而这一目标随着区块链技术的发展将会得以实现。正在开发中的新版 Everipedia 将会基于 EOS 网络，其相比现在的 Everipedia 百科网站将具有社区自治，防止屏蔽，贡献激励等独特功能。商业网络百科全书 Everipedia 成立于 2014 年，目前尚未采用区块链技术，由 Everipedia.Inc 所有，名字来源于英文单词 “Everything” 和 “Encyclopedia” 。截至 2017 年 12 月，Everipedia 是最大的英文百科全书，有超过六百万个条目，包含了 Wikipedia 所有英文条目。Everipedia 对关注度的要求较为宽松，因此其条目的数量会多于 Wikipedia 。",
+"isDefiBox": false,
+"priceATH": "0.036933999999999995",
+"priceATL": "0.0015497599999999999",
+"contact": [
+{
+"telegram": " https://t.me/everipedia",
+"twitter": " https://twitter.com/everipedia"
+}
+],
+"warning": [
+{}
+],
+"rank": 2
+},
+{
+"tokenContract": "eosiotptoken",
+"tokenName": "TPT",
+"tokenPriceInEOS": 0.00644,
+"supply": 3466457402,
+"maxSupply": 5900000000,
+"projectURL": "https://www.tokenpocket.pro",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosiotptoken-tpt.png",
+"percentChange24h": "2.32",
+"marketCapInEOS": 22323985.66888,
+"marketCapInUSD": 106485411.64055759,
+"tokenPriceInUSD": 0.030718799999999997,
+"volume24hUSD": 4.124619,
+"high24h": 0.030899630699999996,
+"low24h": 0.0300236202,
+"chain": "eos",
+"description": "TokenPocket is a multi-currency, multi-bottom decentralized universal digital wallet, which integrates digital asset management, trading, financial services, resource leasing, node voting, market information, authority management, account management, DApp distribution and IM (instant chat) and other functions. At present, five language versions have been launched, including Chinese, English, Korean, Japanese and Spanish. They cover more than 100 countries and regions around the world.\nTPT, TokenPocket Token, is an application-oriented passport representing the rights and interests of TP users and developers in TokenPocket ecosystem, and also an important link between wallet, users and project developers.",
+"descriptionCN": "TokenPocket 是一款支持多币种、多底层的去中心化通用数字钱包，融合了数字资产管理、交易、金融服务、资源租赁、节点投票、行情资讯、权限管理、账号管理、DApp分发以及IM（即时聊天）等多种功能。目前已经上线5个语言版本，中文，英文，韩文，日文，西班牙语，用户覆盖全球一百多个国家和地区。\nTPT即TokenPocket Token，是TokenPocket生态中代表TP用户以及开发者权益的应用型通证，也是连接钱包、用户以及项目开发者的重要纽带。",
+"isDefiBox": false,
+"priceATH": "0.14145021000000002",
+"priceATL": "0.0008084",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 3
+},
+{
+"tokenContract": "volentixgsys",
+"tokenName": "VTX",
+"tokenPriceInEOS": 0.00421339,
+"supply": 2100000000,
+"maxSupply": 2100000000,
+"projectURL": "https://volentix.io/",
+"tokenImage": "https://ndi.340wan.com/eos/volentixgsys-vtx.png",
+"percentChange24h": "-1.49",
+"marketCapInEOS": 8848119,
+"marketCapInUSD": 42205527.629999995,
+"tokenPriceInUSD": 0.020097870299999997,
+"volume24hUSD": 0,
+"high24h": 0.020097870299999997,
+"low24h": 0.020097870299999997,
+"chain": "eos",
+"description": "VTX is the native unit of exchange for the Volentix Digital Assets Ecosystem. it is used to participate in staking and voting and allows access to all the Volentix incentive programs including Nodes, sharing vDex transaction fees and submitting proposals.",
+"descriptionCN": "VTX 是 Volentix 数字资产生态系统的原生交易单位。它用于参与抵押和投票，并允许访问所有 Volentix 激励计划，包括节点、共享 vDex 交易费用和提交建议。",
+"isDefiBox": false,
+"priceATH": "0.17677439999999997",
+"priceATL": "0.0059",
+"contact": [
+{
+"telegram": " https://t.me/Volentix",
+"twitter": " https://twitter.com/volentix"
+}
+],
+"warning": [
+{}
+],
+"rank": 4
+},
+{
+"tokenContract": "ihooeostoken",
+"tokenName": "HOO",
+"tokenPriceInEOS": 0.0755,
+"supply": 100000000,
+"maxSupply": 100000000,
+"projectURL": "https://www.hoo.com",
+"tokenImage": "https://ndi.340wan.com/eos/ihooeostoken-hoo.png",
+"percentChange24h": "-45.99",
+"marketCapInEOS": 7550000,
+"marketCapInUSD": 36013500,
+"tokenPriceInUSD": 0.360135,
+"volume24hUSD": 0,
+"high24h": 0.360135,
+"low24h": 0.360135,
+"chain": "eos",
+"description": "HOO ToKen (HOO) is the platform token for the Hoo ecosystem, which has been built on five blockchains EOS, ETH, BSC, HECO and TRX.",
+"descriptionCN": "HOO ToKen为虎符平台的全生态系统的平台币，简称HOO，已在EOS、ETH、BSC、HECO、TRX、五条公链上进行生态搭建。",
+"isDefiBox": false,
+"priceATH": "5.229765",
+"priceATL": "0.1505",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 5
+},
+{
+"tokenContract": "chexchexchex",
+"tokenName": "CHEX",
+"tokenPriceInEOS": 0.00682733,
+"supply": 998823004,
+"maxSupply": 998823004,
+"projectURL": "https://chintai.io/auction?ref=poweredbyyou",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/chexchexchex-chex.png",
+"percentChange24h": "0.77",
+"marketCapInEOS": 6819294.25989932,
+"marketCapInUSD": 32528033.619719755,
+"tokenPriceInUSD": 0.0325663641,
+"volume24hUSD": 2840.685255,
+"high24h": 0.032983882199999995,
+"low24h": 0.0322069923,
+"chain": "eos",
+"description": "Chintai is a fully functional decentralized resource exchange that has proved the viability of leasing digital resources. The early successes of Chintai have resulted in enhanced end user experience, lower cost barriers for developers, and novel passive income streams. The native utility token CHEX is the key ingredient to extend these benefits across the blockchain industry.",
+"descriptionCN": "Chintai 是一个功能完备的去中心化资源交易平台，Chintai 的出现证明了数字资源租赁的可行性。Chintai 的早期成功提高了终端用户体验，降低了开发人员的成本壁垒，并带来了新的被动收入流。平台代币CHEX 是将这些优势扩展到区块链行业的关键因素。",
+"isDefiBox": false,
+"priceATH": "0.1031758182",
+"priceATL": "0.0010657800000000001",
+"contact": [
+{
+"telegram": " https://t.me/ChintaiEOS",
+"twitter": " https://twitter.com/chintaieos"
+}
+],
+"warning": [
+{}
+],
+"rank": 6
+},
+{
+"tokenContract": "bitpietokens",
+"tokenName": "EETH",
+"tokenPriceInEOS": 600,
+"supply": 10640,
+"maxSupply": 100000000,
+"projectURL": "https://eosstablecoin.com",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/ethsidechain-eeth.png",
+"percentChange24h": "-14.16",
+"marketCapInEOS": 6384000,
+"marketCapInUSD": 30451679.999999996,
+"tokenPriceInUSD": 2861.9999999999995,
+"volume24hUSD": 0,
+"high24h": 2861.9999999999995,
+"low24h": 2861.9999999999995,
+"chain": "eos",
+"description": "EETH is the mapping of Ethereum on the EOS network, anchoring the ETH in 1:1, and is accepted in both directions by the cross-chain gateway operated by Bitpie.",
+"descriptionCN": "EETH是比特币在EOS网络上的映射，1:1锚定了ETH，由比特派运营的跨链网关进行双向承兑。",
+"isDefiBox": false,
+"priceATH": "999.684",
+"priceATL": "100.1241",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 7
+},
+{
+"tokenContract": "effecttokens",
+"tokenName": "EFX",
+"tokenPriceInEOS": 0.01056,
+"supply": 591256531,
+"maxSupply": 650000000,
+"projectURL": "https://effect.ai",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/effecttokens-efx.png",
+"percentChange24h": "0.28",
+"marketCapInEOS": 6243668.96736,
+"marketCapInUSD": 29782300.974307198,
+"tokenPriceInUSD": 0.0503712,
+"volume24hUSD": 616.655106,
+"high24h": 0.054854999999999994,
+"low24h": 0.0428823,
+"chain": "eos",
+"description": "Effect.AI introduces an open, decentralized network called The Effect Network, that provides services in the AI market. The network replaces several existing services and requires no fees, has a low barrier of entry and provides fast growth of the industry. This is accomplished by three platforms that run on the EOS blockchain and are fueled by a utility token called EFX. The first platform is a marketplace for tasks that require human intelligence. It allows anyone in the world to perform tasks for a fair payment and gives businesses access to a large workforce of human intelligence. The second platform is a decentralized registry of AI services described by a rich ontology. On this platform any algorithm can be accessed as a service in a unified manner and has a convenient way to receive payment. The last platform provides a decentralized, distributed computational platform that can run popular deep learning frameworks. The effect of this network will define the future relationship between humans and AI.",
+"descriptionCN": "Effect.AI引入了一个名为The Effect Network的开放，分散的网络，在AI市场中提供服务。该网络取代了几项现有服务，不需要任何费用，进入门槛低，并提供了行业的快速增长。这是通过在EOS区块链上运行的三个平台实现的，并由名为EFX的实用程序令牌提供燃料。第一个平台是需要人工智能的任务市场。它允许世界上任何人执行公平支付的任务，并使企业能够访问大量的人力资源。第二个平台是由丰富的本体描述的人工智能服务的分散注册表。在该平台上，任何算法都可以作为服务以统一的方式访问，并且具有接收付款的便利方式。最后一个平台提供了一个分散的分布式计算平台，可以运行流行的深度学习框架。这个网络的作用将决定人类与人工智能之间的未来关系。",
+"isDefiBox": false,
+"priceATH": "0.1784198",
+"priceATL": "0.009516",
+"contact": [
+{
+"telegram": " https://t.me/effectai",
+"twitter": " https://twitter.com/effectaix"
+}
+],
+"warning": [
+{}
+],
+"rank": 8
+},
+{
+"tokenContract": "soultokeneos",
+"tokenName": "SOUL",
+"tokenPriceInEOS": "0.01365384810546518",
+"supply": 331235962,
+"maxSupply": 333333333,
+"projectURL": "https://www.chainzarena.com/game/",
+"tokenImage": "https://ndi.340wan.com/eos/soultokeneos-soul.png",
+"percentChange24h": "5.85",
+"marketCapInEOS": 4522645.512215637,
+"marketCapInUSD": 21573019.093268584,
+"tokenPriceInUSD": 0.0651288554630689,
+"volume24hUSD": 0,
+"high24h": 0.06960345112757406,
+"low24h": 0.05847152303139946,
+"chain": "eos",
+"description": "SOUL is a token that can be mined through the ChainZ Arena game.  SOUL is a cross chain token (TRON/EOS/ETH).  The token can also be exchanged between the three blockchains with an initial amount of 333,333,333 on each blockchain.  ",
+"descriptionCN": "SOUL是玩家在ChainZ Arena游戏过程中可以获得代币SOUL代币总数为999,999,999个。将被分布三条链（ETH,EOS,TRX）上，每条链各333,333,333个，不同阵营的玩家挖到的是自己所在阵营链上代币，所有代币初始都是冻结在合约中，唯一方式是通过游戏内行为挖矿产出。",
+"isDefiBox": true,
+"priceATH": "16.7504",
+"priceATL": "0.009408",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 9
+},
+{
+"tokenContract": "bitpietokens",
+"tokenName": "EBTC",
+"tokenPriceInEOS": 9550.01,
+"supply": 415,
+"maxSupply": 21000000,
+"projectURL": "https://eosstablecoin.com/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/bitpietokens-ebtc.png",
+"percentChange24h": "-25.39",
+"marketCapInEOS": 3963254.15,
+"marketCapInUSD": 18904722.2955,
+"tokenPriceInUSD": 45553.547699999996,
+"volume24hUSD": 0,
+"high24h": 45553.547699999996,
+"low24h": 45553.547699999996,
+"chain": "eos",
+"description": "EBTC is the mapping of Bitcoin on the EOS network, anchoring the BTC in 1:1, and is accepted in both directions by the cross-chain gateway operated by Bitpie.",
+"descriptionCN": "EBTC是比特币在EOS网络上的映射，1:1锚定了BTC，由比特派运营的跨链网关进行双向承兑。",
+"isDefiBox": false,
+"priceATH": "9999.824999999999",
+"priceATL": "10000.23",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 10
+},
+{
+"tokenContract": "pumlhealthio",
+"tokenName": "PUML",
+"tokenPriceInEOS": 0.00768,
+"supply": 500000000,
+"maxSupply": 500000000,
+"projectURL": "https://puml.io",
+"tokenImage": "https://ndi.340wan.com/eos/pumlhealthio-puml.png",
+"percentChange24h": "7.71",
+"marketCapInEOS": 3840000,
+"marketCapInUSD": 18316800,
+"tokenPriceInUSD": 0.036633599999999995,
+"volume24hUSD": 0,
+"high24h": 0.036633599999999995,
+"low24h": 0.036633599999999995,
+"chain": "eos",
+"description": "PUML Better Health is an innovative incentivisation platform that rewards members with a digital currency for completing activity challenges like monthly step goals, gym check-ins and heart rate challenges.  It also secures and protects health and fitness data on blockchain and enables member to earn revenue from their health and fitness data.  We believe everyone should own their own data and have the ability to use this data for predictive diagnosis of lifestyle diseases, insurance discounts or to earn revenue by selling their own data.",
+"descriptionCN": "PUML Better Health是一个创新的激励平台，通过完成活动挑战（例如每月步数，健身房打卡和心率挑战）可以得到数字货币奖励。它还可以保证链上的健康数据安全，并使会员能够从其健康数据中获取收入。我们认为每个人都应该拥有自己的数据，并能够使用这些数据进行生活疾病的预测诊断，保险打折或通过出售自己的数据来获取收入。",
+"isDefiBox": false,
+"priceATH": "0.04014499999999999",
+"priceATL": "0.001315",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 11
+},
+{
+"tokenContract": "dappservices",
+"tokenName": "DAPP",
+"tokenPriceInEOS": 0.00300613,
+"supply": 1124508814,
+"maxSupply": 1124508814,
+"projectURL": "https://liquidapps.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/dappservices-dapp.png",
+"percentChange24h": "-4.50",
+"marketCapInEOS": 3380419.68102982,
+"marketCapInUSD": 16124601.87851224,
+"tokenPriceInUSD": 0.0143392401,
+"volume24hUSD": 5607.625355999999,
+"high24h": 0.015014815199999998,
+"low24h": 0.0143392401,
+"chain": "eos",
+"description": "The DAPP Token is the access token to the DAPP Network’s services such as vRAM.\nThe DAPP Network is built to support numerous use cases that continue to simplify the ability of both developers and users to interact with decentralized technologies.",
+"descriptionCN": "DAPP代币是DAPP网络服务（例如vRAM）的访问入口通证。\n DAPP网络旨在支持众多使用案例，这些使用案例将继续简化开发人员和用户与去中心化技术交互的能力。",
+"isDefiBox": false,
+"priceATH": "0.0651180699",
+"priceATL": "0.006896580000000001",
+"contact": [
+{
+"telegram": " https://t.me/LiquidAppsOfficial",
+"twitter": " https://twitter.com/LiquidAppsIO"
+}
+],
+"warning": [
+{}
+],
+"rank": 12
+},
+{
+"tokenContract": "prospectorsg",
+"tokenName": "PGL",
+"tokenPriceInEOS": 0.02928,
+"supply": 113197021,
+"maxSupply": 209098562,
+"projectURL": "https://prospectors.io/?ref=poweredbyyou",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/prospectorsg-pgl.png",
+"percentChange24h": "5.97",
+"marketCapInEOS": 3314408.77488,
+"marketCapInUSD": 15809729.856177598,
+"tokenPriceInUSD": 0.1396656,
+"volume24hUSD": 1238.0396669999998,
+"high24h": 0.14786999999999997,
+"low24h": 0.13117499999999999,
+"chain": "eos",
+"description": "The Massive Multiplayer Online Real-Time Economic Strategy powered by EOS.",
+"descriptionCN": "基于EOS的多玩家实时在线的经济策略游戏。",
+"isDefiBox": false,
+"priceATH": "0.171666",
+"priceATL": "0.0060983999999999995",
+"contact": [
+{
+"telegram": " https://t.me/prospectorsgame",
+"twitter": " https://twitter.com/prospectorsgame"
+}
+],
+"warning": [
+{}
+],
+"rank": 13
+},
+{
+"tokenContract": "eosdtnutoken",
+"tokenName": "NUT",
+"tokenPriceInEOS": 0.31,
+"supply": 9754509,
+"maxSupply": 10000000,
+"projectURL": "https://eosdt.com",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosdtnutoken-nut.png",
+"percentChange24h": "-48.33",
+"marketCapInEOS": 3023897.79,
+"marketCapInUSD": 14423992.458299998,
+"tokenPriceInUSD": 1.4787,
+"volume24hUSD": 2.854368,
+"high24h": 1.669977,
+"low24h": 1.4787,
+"chain": "eos",
+"description": " Native Utility Token (NUT) is a core framework token giving users access to a number of Equilibrium framework’s functionalities, it's the governance token for Equilibrium. NUT is envisioned as a strong incentive for the community to operate and develop its whole ecosystem.",
+"descriptionCN": "Native Utility Token（NUT）是一个核心框架代币，允许用户访问众多Equilibrium框架的功能，它是Equilibrium的主导代币。 NUT被设定为社区运营和生态系统发展的强大动力。",
+"isDefiBox": false,
+"priceATH": "9.996",
+"priceATL": "0.394092",
+"contact": [
+{
+"telegram": " https://t.me/equilibrium_eosdt_official",
+"twitter": " https://twitter.com/eosdt"
+}
+],
+"warning": [
+{
+"warning": "The NUT token was minted in limited supply. About 3% of the supply is tradable on exchanges while 97% is standing on a EOS account: eosx.io/account/aequumdomain.",
+"warningCN": "NUT代币数量有限，大约3％的供应量可供交易，而97%部分由其母公司拥有。 eosx.io/account/aequumdomain.",
+"warningSource": "https://t.me/equilibrium_eosdt_official/4432"
+}
+],
+"rank": 14
+},
+{
+"tokenContract": "token.defi",
+"tokenName": "BOX",
+"tokenPriceInEOS": 1.19781382,
+"supply": 2276491,
+"maxSupply": 5000000,
+"projectURL": "https://defibox.io",
+"tokenImage": "https://ndi.340wan.com/eos/token.defi-box.png",
+"percentChange24h": "0.21",
+"marketCapInEOS": 2726812.38090562,
+"marketCapInUSD": 13006895.056919806,
+"tokenPriceInUSD": 5.713571921399999,
+"volume24hUSD": 778.081446,
+"high24h": 5.7723111324,
+"low24h": 5.677777889099999,
+"chain": "eos",
+"description": "Defibox (https://defibox.io) is a professional one-stop DeFi application platform on EOS. It is initiated and managed by the Defibox Foundation, and get funding and support from Newdex. The project was launched on July 21, 2020, which is committed to becoming the DeFi application platform widely used by EOS users. Currently, Defibox has launched two protocols, namely Swap and USN stable coin (formerly Danchor project). We will launch more protocols in the future such as decentralized lending,  etc.",
+"descriptionCN": "Defibox（https://defibox.io）是EOS上专业的一站式DeFi应用平台，由Defibox基金会发起和管理，同时得到Newdex的资助和支持。项目已于2020年07月21日上线，致力于成为EOS用户最广泛使用的DeFi应用平台。目前Defibox已推出两个协议，分别为Swap闪兑、USN稳定币（原Danchor项目），未来还将推出更多协议，如：去中心化借贷等。",
+"isDefiBox": false,
+"priceATH": "9.997758795000001",
+"priceATL": "1.9219279999999999",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 15
+},
+{
+"tokenContract": "core.ogx",
+"tokenName": "OGX",
+"tokenPriceInEOS": 0.01600526,
+"supply": 165727941,
+"maxSupply": 165727941,
+"projectURL": "https://ogx.network/",
+"tokenImage": "https://ndi.340wan.com/eos/core.ogx-ogx.png",
+"percentChange24h": "-3.08",
+"marketCapInEOS": 2652518.78496966,
+"marketCapInUSD": 12652514.604305277,
+"tokenPriceInUSD": 0.0763450902,
+"volume24hUSD": 0,
+"high24h": 0.0763450902,
+"low24h": 0.0763450902,
+"chain": "eos",
+"description": "OGX is the basic token on Organix protocol, which can be used as collateral to mint oUSD. oUSD is the stable coin in the whole system, the system always values 1 oUSD at 1 USD. Assets can be exchanged with oUSD on the synthethic exchange of Organix system through prices supplied by an oracle, included but not limited to fiat currencies, commodities, cryptocurrencies and their inverse assets.",
+"descriptionCN": "OGX是Organix网络协议中的基础通证，可以通过超额抵押OGX生成oUSD，oUSD为系统内的稳定币，抵押铸造的价格为1USD。通过oUSD可以在Organix系统中的合成资产交易所根据不同资产的预言机价格交易不同类型的合成资产，包括但不限于加密货币，大宗商品，法定货币，某个品类的一篮子货币以及它们对应的反向资产等。",
+"isDefiBox": false,
+"priceATH": "2.99",
+"priceATL": "0.041409999999999995",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 16
+},
+{
+"tokenContract": "octtothemoon",
+"tokenName": "OCT",
+"tokenPriceInEOS": "0.01307367846725285",
+"supply": 200000000,
+"maxSupply": 200000000,
+"projectURL": "https://oraclechain.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/octtothemoon-oct.png",
+"percentChange24h": "6.09",
+"marketCapInEOS": 2614735.6934505696,
+"marketCapInUSD": 12472289.257759215,
+"tokenPriceInUSD": 0.062361446288796085,
+"volume24hUSD": 0,
+"high24h": 0.06419176127421149,
+"low24h": 0.06092334165739828,
+"chain": "eos",
+"description": "As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios, thereby delving into this immense tens billion dollars valuation market.\nOracleChain is a decentralized Oracle technology platform for multi-blockchain. It adopts the autonomous PoRD mechanism to introduce real-world data into the blockchain, and use this as infrastructure to provide services for other blockchain applications. The OracleChain will provide Oracle services for real-world data within the blockchain, as well as Oracle services for cross-chain data.Within OracleChain it can accomplish the functions of several prediction market applications, such as Augur and Gnosis, OracleChain can also support smart contract businesses that requires high-frequency access to outside data in certain scenarios.OracleChain will change the development mode of current blockchain application, build a new ecosystem, and serve the blockchain application that can truly change the real world. The mission of OracleChain is \"connecting the world with blockchain\". It aspires to become the infrastructure that connecting the real world with the blockchain world. By introducing the external data into the blockchain to achieve data interflow between the inside and outside of the chain, OracleChian will be the most efficient service platform for acquiring the external data in the blockchain world in the future.",
+"descriptionCN": "OracleChain（欧链）作为全球第一个直面区块链生态Oracle（预言机）需求的基础应用，将区块链技术服务和现实生活中的多种需求场景直接高效对接，深耕这个百亿美金估值的巨大市场。OracleChain是一个多区块链的去中心化Oracle技术平台，采用自主的PoRD机制，将现实世界数据引入区块链，并将此作为基础设施为其他区块链应用提供服务。OracleChain将在区块链内提供现实世界数据的Oracle服务，同时还可以提供跨链数据的Oracle服务。基于OracleChain除了能实现Augur、Gnosis等预测市场（Prediction Market）应用的功能之外，还能支撑对链外数据有更高频率访问需求的智能合约业务，比如智能投顾等场景。OracleChain将改变当前区块链应用的开发模式，建立全新的生态圈，服务于真正能改变现实世界的区块链应用。OracleChain的使命是“让世界与区块链互联”，立志成为链接现实世界与区块链世界的基础设施，通过把外部数据引入区块链来实现链内链外的数据互通，OracleChian将是未来区块链世界中最高效的获取链外数据的服务提供平台。",
+"isDefiBox": true,
+"priceATH": "0.06576060269028183",
+"priceATL": "0.004255392452902289",
+"contact": [
+{
+"telegram": " https://t.me/OracleChainChatCN",
+"twitter": " https://twitter.com/Oracle_Chain"
+}
+],
+"warning": [
+{}
+],
+"rank": 17
+},
+{
+"tokenContract": "token.seeds",
+"tokenName": "SEEDS",
+"tokenPriceInEOS": 0.0037,
+"supply": 3141211159,
+"maxSupply": 0,
+"projectURL": "https://joinseeds.com/",
+"tokenImage": "https://ndi.340wan.com/telos/token.seeds-seeds.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 11622481.2883,
+"marketCapInUSD": 11557583.793507203,
+"tokenPriceInUSD": 0.003679339977,
+"volume24hUSD": 7.358679953999999e-7,
+"high24h": 0.017648999999999998,
+"low24h": 0.017648999999999998,
+"chain": "telos",
+"description": "SEEDS is Changing the Game by Changing Money\nSEEDS isn’t just a better way to pay. It’s a solution to the greatest crises of our time.\nIt’s a digital currency and financial system like we’ve never had access to before. One that serves, rewards and finances the people and organisations committed to creating a healthier and more equitable planet.",
+"descriptionCN": "SEEDS通过改变金钱来改变游戏规则\nSEEDS不仅是一种更好的付款方式，也是对当今时代最大危机的一种解决方案。\n这是一种从未有过的数字货币和金融系统。为致力于创建一个更健康，更公平的星球，为人民和组织提供服务，奖励和资助。",
+"isDefiBox": false,
+"priceATH": "0.2858690031015",
+"priceATL": "0.0014107158000000002",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 18
+},
+{
+"tokenContract": "telostaskapp",
+"tokenName": "TASK",
+"tokenPriceInEOS": 0.1,
+"supply": 100000000,
+"maxSupply": 100000000,
+"projectURL": "https://telostask.io",
+"tokenImage": "https://ndi.340wan.com/telos/telostaskapp-task.png",
+"percentChange24h": "-7.58",
+"marketCapInEOS": 10000000,
+"marketCapInUSD": 9944162.1,
+"tokenPriceInUSD": 0.099441621,
+"volume24hUSD": 0,
+"high24h": 0.477,
+"low24h": 0.477,
+"chain": "telos",
+"description": "TelosTask is a peer-to-peer freelance marketplace that utilizes the blockchain technology and allow those who need tasks completed (task givers) to connect with gig workers (task takers) from anywhere in the world. The TelosTask platform allows for the completion of big and small tasks known as micro and macro gigs. The TelosTask Platform employs blockchain technology to ensure that tasks are successfully completed before payment is rendered from funds escrowed into the system. As a result, both Task Givers and Task Takers are incentivized and protected. Task Takers will be automatically compensated within seven days of completing a task, with chargeback protection for both Givers and Takers.",
+"descriptionCN": "TelosTask是一个利用区块链技术的点对点自由职业者市场，使得那些需要完成任务的人(任务创建者)可以联系到世界各地的零工(任务接受者)。TelosTask平台将微操作和宏操作称为大任务和小任务。\nTelosTask平台利用区块链技术来确保任务成功完成之后才会从系统中支付酬劳。\n因此，任务创建者和任务接受者都得到了激励和保护。任务接受者将在完成一项任务后七天内自动获得补偿，创建者和接受者都享受退款保护。",
+"isDefiBox": false,
+"priceATH": "2.0303926980000004",
+"priceATL": "0.019943720256",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 19
+},
+{
+"tokenContract": "minedfstoken",
+"tokenName": "DFS",
+"tokenPriceInEOS": 0.7201,
+"supply": 2458832,
+"maxSupply": 10000000,
+"projectURL": "https://www.defis.network/",
+"tokenImage": "https://ndi.340wan.com/eos/minedfstoken-dfs.png",
+"percentChange24h": "-7.68",
+"marketCapInEOS": 1770604.9231999998,
+"marketCapInUSD": 8445785.483663999,
+"tokenPriceInUSD": 3.4348769999999993,
+"volume24hUSD": 67.68296099999999,
+"high24h": 3.9603401999999996,
+"low24h": 3.4348769999999993,
+"chain": "eos",
+"description": "DFS token: Used for trading, community governance, liquidity incentives, dividends of protocol fees revenues, staking, issuing and generating assets, etc.\nBy integrating a series of DeFi protocols, DeFis Network will create a powerful network effect in decentralized finance field in the future. The platform coin DFS will continue to capture the value generated by these DeFi protocols. DFS holders will continue to receive dividends from protocol fees. Through smart contracts, dividends are automatically executed, so that each holder can share the dividends of DeFis Network development fairly.",
+"descriptionCN": "DFS代币用于交易、社区治理、流动性激励、协议费分红、抵押发行合成资产等。\n通过整合一系列DeFi协议，DeFis Network未来在区块链金融领域将形成强大的网络效应。而平台币DFS将会持续捕获这些DeFi协议产生的价值。DFS持有者将持续获得协议费的分红。通过智能合约自动执行分红，让每个持有者，都能公平分享到DeFis Network发展的红利。",
+"isDefiBox": false,
+"priceATH": "99.3702034",
+"priceATL": "0.10418200000000001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 20
+},
+{
+"tokenContract": "onessusblock",
+"tokenName": "VOID",
+"tokenPriceInEOS": "0.00002762455921557",
+"supply": 62500000000,
+"maxSupply": 62500000000,
+"projectURL": "https://void.market",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/onessusblock-void.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 1726534.9509731252,
+"marketCapInUSD": 8235571.716141806,
+"tokenPriceInUSD": 0.00013176914745826888,
+"volume24hUSD": 0,
+"high24h": 0.0001356365857484487,
+"low24h": 0.0001287304459445562,
+"chain": "eos",
+"description": "Void is the token that fuels The Onessus Economic Engine. An economic engine is a term invented by the founders of the Void Token, used to describe a network that can theoretically run the entire world's economy within a single system securely, and efficiently.",
+"descriptionCN": "Onessus是一个经济引擎，计划创建一个包含多种元素的经济平台。通过使用 EOS 软件，一体化的经济平台能实现丰富的功能。",
+"isDefiBox": true,
+"priceATH": "0.00028164637172672",
+"priceATL": "0.000000044218618808",
+"contact": [
+{
+"telegram": " https://t.me/joinchat/J9Wf9Q70mGR34PjlKYFPKg",
+"twitter": " https://twitter.com/onessusblock"
+}
+],
+"warning": [
+{}
+],
+"rank": 21
+},
+{
+"tokenContract": "sensegenesis",
+"tokenName": "SENSE",
+"tokenPriceInEOS": 0.000703,
+"supply": 1800000000,
+"maxSupply": 2000000000,
+"projectURL": "https://www.sense.chat",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/sensegenesis-sense.png",
+"percentChange24h": "-26.85",
+"marketCapInEOS": 1265400,
+"marketCapInUSD": 6035957.999999999,
+"tokenPriceInUSD": 0.0033533099999999995,
+"volume24hUSD": 0,
+"high24h": 0.0033533099999999995,
+"low24h": 0.0033533099999999995,
+"chain": "eos",
+"description": "SENSE Chat is a social network on chain. ",
+"descriptionCN": "Sense Chat是一个链上社交工具。",
+"isDefiBox": false,
+"priceATH": "0.01463904",
+"priceATL": "0.00184626",
+"contact": [
+{
+"telegram": " https://t.me/SenseToken",
+"twitter": " https://twitter.com/SenseChat"
+}
+],
+"warning": [
+{}
+],
+"rank": 22
+},
+{
+"tokenContract": "emanateoneos",
+"tokenName": "EMT",
+"tokenPriceInEOS": 0.0069124,
+"supply": 160328157,
+"maxSupply": 208000000,
+"projectURL": "https://emanate.live",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/emanateoneos-emt.png",
+"percentChange24h": "0.81",
+"marketCapInEOS": 1108252.3524468,
+"marketCapInUSD": 5286363.721171236,
+"tokenPriceInUSD": 0.032972148,
+"volume24hUSD": 3212.7147269999996,
+"high24h": 0.033850305,
+"low24h": 0.02385,
+"chain": "eos",
+"description": "EMANATE (EMT) TOKENS The EMANATE (EMT) token economy has been one of the primary focuses on developing the Emanate ecosystem. The EMANATE (EMT) token is central to the utility and ongoing governance of the platform. Emanate have and continue to work closely with Actuaries and Lawyers to design our token economy to be beneficial to token holders at all stages. The purchase of EMANATE (EMT) tokens is considered a to be made as an intention to participate in the future Emanate ecosystem. The tokens and token-economics are designed to also make EMANATE (EMT) tokens useful to the owner, giving token holders access to platform features, and requiring the use of EMANATE (EMT) for certain types of transactions. EMANATE (EMT) may be required for the following functions: • Artists to publish music for monetisation • For listeners to consume audio • Network node holders will likely be required to power the network; they will need to stake EMANATE (EMT) tokens and may also receive tokens as payment in return for the node operation services. The aim of the EMANATE (EMT) token is not only to utilise the services within the network but as an incentive mechanism to the broader community to provide services to the Emanate ecosystem and ultimately creating a more valuable and beneficial platform for all. This could take the form of rewards paid in return for the service of running an Emanate network node or rewards paid for other Emanate ecosystem services.",
+"descriptionCN": "EMANATE（EMT）代币经济一直是发展Emanate生态系统的主要重点之一。 EMANATE（EMT）代币是平台工具和持续治理的核心。 Emanate与保险精算师和律师密切合作，一起设计在各个阶段都对代币持有人有利的代币经济。购买EMANATE（EMT）代币被认为是参与到未来的Emanate生态系统中。代币和代币经济旨在使EMANATE（EMT）代币对持有者有用，使代币持有者能够使用平台功能，并要求在某些类型的交易中使用EMANATE（EMT）。以下功能可能需要使用EMANATE（EMT）：•艺术家发布音乐时需进行货币化•听众购买音频•网络节点持有者可能需要运转网络;他们需要抵押EMANATE（EMT）代币，并且还可以收到作为支付换取节点操作服务的代币。 EMANATE（EMT）代币的目的不仅是利用网络内的服务，还作为在更广泛社区里的激励机制，为Emanate生态系统提供服务，最终为所有人创造更有价值和更有益的平台。这可以采取奖励形式来换取运行Emanate网络节点的服务或其他Emanate生态系统服务。",
+"isDefiBox": false,
+"priceATH": "0.06876750000000001",
+"priceATL": "0.0030388",
+"contact": [
+{
+"telegram": " https://t.me/emanateofficial",
+"twitter": " https://twitter.com/EmanateOfficial"
+}
+],
+"warning": [
+{}
+],
+"rank": 23
+},
+{
+"tokenContract": "token.newdex",
+"tokenName": "DEX",
+"tokenPriceInEOS": 0.01077165,
+"supply": 87628058,
+"maxSupply": 100000000,
+"projectURL": "https://newdex.vip",
+"tokenImage": "https://ndi.340wan.com/eos/token.newdex-dex.png",
+"percentChange24h": "-1.00",
+"marketCapInEOS": 943898.7709557001,
+"marketCapInUSD": 4502397.137458689,
+"tokenPriceInUSD": 0.0513807705,
+"volume24hUSD": 4249.939302,
+"high24h": 0.05216214419999999,
+"low24h": 0.050964444899999996,
+"chain": "eos",
+"description": "Newdex platform token, the original token name is NDX, and the total supply has been reduced from 10 billion (NDX) to 100 million (DEX). It is being swapped now. After the token rename and reduction are completed, DEX will be issued in multi-chain, the total supply remains 100 million, and the token reduction rules remain unchanged. The value of Newdex platform token includes buy-back and burning, staking discounts, token airdrops, ad, self-listings, etc.",
+"descriptionCN": "Newdex平台生态通证，原通证名称为NDX，代币总量由原来100亿（NDX）缩减为1亿（DEX），目前正在兑换中，完成代币改名和缩量后，DEX代币将在多链发行，总量保持1亿，代币通缩规则保持不变。Newdex平台生态通证价值包括：回购销毁、抵押优惠、糖果空投、广告竞价、自主上币等。",
+"isDefiBox": false,
+"priceATH": "0.3852669502126595",
+"priceATL": "0.0366205078",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 24
+},
+{
+"tokenContract": "thepeostoken",
+"tokenName": "PEOS",
+"tokenPriceInEOS": 0.001449,
+"supply": 592366008,
+"maxSupply": 767962232,
+"projectURL": "https://peos.one",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/thepeostoken-peos.png",
+"percentChange24h": "16.11",
+"marketCapInEOS": 858338.3455919999,
+"marketCapInUSD": 4094273.9084738395,
+"tokenPriceInUSD": 0.00691173,
+"volume24hUSD": 20.400335999999996,
+"high24h": 0.00691173,
+"low24h": 0.005952959999999999,
+"chain": "eos",
+"description": "pEOS enables private and untraceable transactions on EOS. Leveraging ring signatures, ring confidential transactions and stealth addresses pEOS is truly private. It combines Monero's technology with EOS' performance.",
+"descriptionCN": "pEOS支持EOS上的私有和不可跟踪事务。利用环签名、环机密事务和秘密地址，pEOS是真正私有的。它结合了Monero的技术和EOS的性能。",
+"isDefiBox": false,
+"priceATH": "0.0076822",
+"priceATL": "0.0006732",
+"contact": [
+{
+"telegram": " https://t.me/pEOSone",
+"twitter": " https://twitter.com/peos_one"
+}
+],
+"warning": [
+{}
+],
+"rank": 25
+},
+{
+"tokenContract": "amzcoinvault",
+"tokenName": "AMZ",
+"tokenPriceInEOS": 0.0048,
+"supply": 172093439,
+"maxSupply": 240000000,
+"projectURL": "https://www.amzcoin.technology",
+"tokenImage": "https://ndi.340wan.com/eos/amzcoinvault-amz.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 826048.5071999999,
+"marketCapInUSD": 3940251.379343999,
+"tokenPriceInUSD": 0.022895999999999996,
+"volume24hUSD": 2910.7265039999997,
+"high24h": 0.033389999999999996,
+"low24h": 0.022895999999999996,
+"chain": "eos",
+"description": "AMZCoin is the support cryptocurrency of the Visionária group, which decentralizes commerce, empowers consumers and companies.\nAMZ lowers transfer costs and accelerates payments, while being protected by EOS and the installed network of hundreds of users.",
+"descriptionCN": "AMZ是Visionária集团支持的加密货币，该集团商业去中心化，赋能消费者和公司。\nAMZ降低了转账成本并加快了付款速度，同时受到EOS和数百个用户网络的保护。",
+"isDefiBox": false,
+"priceATH": "0.11077001552440617",
+"priceATL": "0.001602",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 26
+},
+{
+"tokenContract": "eatscience14",
+"tokenName": "EATCOIN",
+"tokenPriceInEOS": 0.0007,
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"projectURL": "https://www.eatschools.com",
+"tokenImage": "https://ndi.340wan.com/eos/eatscience14-eatcoin.png",
+"percentChange24h": "-64.72",
+"marketCapInEOS": 700000,
+"marketCapInUSD": 3338999.9999999995,
+"tokenPriceInUSD": 0.0033389999999999995,
+"volume24hUSD": 0,
+"high24h": 0.0033389999999999995,
+"low24h": 0.0033389999999999995,
+"chain": "eos",
+"description": "EATCOIN = Education And Technology Coin I have created this coin to motivate students around the world to learn and to invest in the same time. Students get this EATCOIN in the ratio 1:1 for thir grades in quizzes, homework and online quizzes on eatschools.com and teachers get EATCOIN for their courses created on eatschools.com according to the feedbacks of the students so we encourge teachers to teach and to invest. EATCOIN will be used to pay for the paid courses which will be available soon on eatschools.com and buy items from marketplace which will be created soon according to the roadmap in the white paper",
+"descriptionCN": "EATCOIN=教育和技术硬币，我创造了这个硬币，以鼓励世界各地的学生学习和投资的同时。学生在eatschool.com上的测验、家庭作业和在线测验的成绩以1:1的比例获得EATCOIN，教师根据学生的反馈在eatschool.com上创建的课程获得EATCOIN，所以我们鼓励教师进行教学和投资。EATCOIN将用于支付即将在eatschool.com上提供的付费课程，并从市场购买物品，这些物品将根据白皮书中的路线图很快创建。",
+"isDefiBox": false,
+"priceATH": "0.05744",
+"priceATL": "0.0007308400000000001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 27
+},
+{
+"tokenContract": "mkstaketoken",
+"tokenName": "KEY",
+"tokenPriceInEOS": 0.00007538,
+"supply": 9000000000,
+"maxSupply": 100000000000,
+"projectURL": "https://mykey.org/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/mkstaketoken-key.png",
+"percentChange24h": "-7.63",
+"marketCapInEOS": 678420,
+"marketCapInUSD": 3236063.4,
+"tokenPriceInUSD": 0.00035956259999999994,
+"volume24hUSD": 4.344993,
+"high24h": 0.00038927969999999994,
+"low24h": 0.00035956259999999994,
+"chain": "eos",
+"description": "Bihu (bihu.com) is the most popular crypto community platform in China, and it is also a tool for \nblockchain projects to operate their communities.",
+"descriptionCN": "币乎(bihu.com)是国内最⼤的⼀站式区块链内容社区，也是项⽬⽅社区运营的⼯具。",
+"isDefiBox": false,
+"priceATH": "0.0036993501999999998",
+"priceATL": "0.00029054",
+"contact": [
+{
+"telegram": " https://t.me/mykey_lab",
+"twitter": " https://twitter.com/mykey_lab"
+}
+],
+"warning": [
+{}
+],
+"rank": 28
+},
+{
+"tokenContract": "novusphereio",
+"tokenName": "ATMOS",
+"tokenPriceInEOS": 0.0067,
+"supply": 100000000,
+"maxSupply": 100000000,
+"projectURL": "https://discussions.app/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/novusphereio-atmos.png",
+"percentChange24h": "-39.09",
+"marketCapInEOS": 670000,
+"marketCapInUSD": 3195899.9999999995,
+"tokenPriceInUSD": 0.031959,
+"volume24hUSD": 0,
+"high24h": 0.031959,
+"low24h": 0.031959,
+"chain": "eos",
+"description": "ATMOS is a marker on the EOS block chain. It provides substitution and anonymity through the use of a delinked token system (side chain) of secret addresses, ring signatures and secret transactions. ATMOS is placed on the main chain of EOS to participate in the verification of side chains. The authenticator approves that any standard EOS token (including the EOS itself) can go out of the side chain. The verifier charges a fee to the system, such as when the token moves from the main chain to the side chain and returns.",
+"descriptionCN": "ATMOS是EOS区块链上的一个标记，它通过使用秘密地址、环签名和机密交易的脱链代币系统（侧链）提供可替代性和匿名性。 ATMOS放置与EOS主链上以参与侧链的验证。经验证者批准，任何标准EOS令牌（包括EOS本身）均可进出侧链。验证者收取向系统支付的费用，例如当令牌从主链移动到侧链并返回时。",
+"isDefiBox": false,
+"priceATH": "0.076956",
+"priceATL": "0.00152",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 29
+},
+{
+"tokenContract": "lichangtoken",
+"tokenName": "LC",
+"tokenPriceInEOS": "0.00002230551791150",
+"supply": 27593700000,
+"maxSupply": 100000000000,
+"projectURL": "http://lichang.io/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/lichang.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 615491.7695945576,
+"marketCapInUSD": 2935895.7409660392,
+"tokenPriceInUSD": 0.00010639732043785499,
+"volume24hUSD": 0,
+"high24h": 0.00010872913908514751,
+"low24h": 0.00010394371346759,
+"chain": "eos",
+"description": "Known as the latest key product developed by the core team members of the former world’s largest community EOS Gravity, Lichang (LC) focuses on the community platform and UGC (User Generated Content) platform that center around the mining activities based on the mutual development of public chains. Until recently, EOS Gravity has accumulated more than 200,000 fans worldwide,and the app has accumulated more than 160,000 registered users.\n\nThe mission of Lichang(LC) is to empower public chain ecosystem and establish a blockchain user community with the symbiosis, mutual development and mutual benefit of public chain, KOL, users and Dapp. Lichang (LC) plays the role as the mediator among public chain, KOL and community. \n\nLichang’s Partners include GRAVITY BLOCHCHAIN, GRAVITY BLOCK FUND, Huobi Eco, YuanDao Fund，Water Drop FUND, INBlockchain, etc.",
+"descriptionCN": "力场，全球最大的链赚社区。由前EOS全球最大的社区EOS引力区核心团队打造的最新重磅产品，以公链共建挖矿为核心的社群平台以及UGC(用户生成贡献)平台。引力区全球粉丝数已超过20万，力场App注册用户已经超过16万。\n力场的使命是赋能公链生态，以（贡献）行为挖矿为切入点，形成公链、KOL、用户、DAPP共生、共建、共利的区块链用户社区，力场扮演的是公链与KOL及社区的撮合者角色，一方面，为公链项目方提供治理、内容及社区服务；另一方面，为公链用户提供挖矿红利。该项目合作伙伴有GRAVITY BLOCHCHAIN、引力区资本、Huobi Eco、元道资本、水滴资本、INBlockchain等。",
+"isDefiBox": true,
+"priceATH": "0.001017389100969768",
+"priceATL": "0.000007168",
+"contact": [
+{
+"telegram": " https://t.me/lichang2019"
+}
+],
+"warning": [
+{}
+],
+"rank": 30
+},
+{
+"tokenContract": "eoshashcoins",
+"tokenName": "HASH",
+"tokenPriceInEOS": "0.02986993667251045",
+"supply": 17449425,
+"maxSupply": 199990090,
+"projectURL": "https://bethash.io/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eoshashcoins-hash.png",
+"percentChange24h": "13.92",
+"marketCapInEOS": 521213.21972172067,
+"marketCapInUSD": 2486187.0580726075,
+"tokenPriceInUSD": 0.14247959792787485,
+"volume24hUSD": 0,
+"high24h": 0.1466613890620263,
+"low24h": 0.1391939048938987,
+"chain": "eos",
+"description": "The FAIREST Satoshi-style Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
+"descriptionCN": "构建于EOS主网之上, 基于HASH开奖的分布式游戏平台, 最公平的游戏平台, 绝无暗箱操作空间.",
+"isDefiBox": true,
+"priceATH": "2.3355168119551686",
+"priceATL": "0.000001020233526943",
+"contact": [
+{
+"telegram": " https://t.me/BetHash",
+"twitter": " https://twitter.com/BetHashTeam"
+}
+],
+"warning": [
+{}
+],
+"rank": 31
+},
+{
+"tokenContract": "pizzatotoken",
+"tokenName": "PIZZA",
+"tokenPriceInEOS": 0.00937227,
+"supply": 53621180,
+"maxSupply": 220000000,
+"projectURL": "https://pizza.live",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/pizzatotoken-pizza.png",
+"percentChange24h": "0.18",
+"marketCapInEOS": 502552.1766786,
+"marketCapInUSD": 2397173.882756922,
+"tokenPriceInUSD": 0.0447057279,
+"volume24hUSD": 608.426379,
+"high24h": 0.0450276075,
+"low24h": 0.04462506719999999,
+"chain": "eos",
+"description": "PIZZA-USDE is an EOS based duo-token stablecoin system. The system issues stablecoin (USDE) by collateralizing crypto assets. With excess collateral and deployment of different smart contracts, the system neutralizes the potential risks from market fluctuations and allows the stablecoin 1:1 pegged to USD. PIZZA Token is the governance token in the PIZZA-USDE Stablecoin System.",
+"descriptionCN": "PIZZA-USDE 是一款基于 EOS 的双代币稳定币系统，通过加密货币质押合约发行与美元 1:1 锚定的稳定币 USDE，用超额质押的方式来规避市场波动风险，实现多样金融衍生品场景的质押型稳定币生态。\n稳定币 USDE 1 : 1锚定美元，是超额质押的去中心化稳定币；治理币 PIZZA 赋予持币者参与生态治理的权利。",
+"isDefiBox": false,
+"priceATH": "0.163866736",
+"priceATL": "0.00173019",
+"contact": [
+{
+"telegram": " https://t.me/PizzaUSDE"
+}
+],
+"warning": [
+{}
+],
+"rank": 32
+},
+{
+"tokenContract": "teachology14",
+"tokenName": "TEACH",
+"tokenPriceInEOS": 0.002,
+"supply": 1000000000,
+"maxSupply": 10000000000,
+"projectURL": "https://teachology.io",
+"tokenImage": "https://ndi.340wan.com/telos/teachology14-teach.png",
+"percentChange24h": "-66.67",
+"marketCapInEOS": 2000000,
+"marketCapInUSD": 1988832.42,
+"tokenPriceInUSD": 0.00198883242,
+"volume24hUSD": 0,
+"high24h": 0.00954,
+"low24h": 0.00954,
+"chain": "telos",
+"description": "TEACH = Technology Education And Courses Harmonization I have created this coin to motivate students around the world to learn and to invest in the same time. Students get this TEACH in the ratio 1:1 for their grades in quizzes, homework and online quizzes on teachology.io and teachers get TEACH for their courses created on teachology.io according to the feedbacks of the students so we encourage teachers to teach and to invest. TEACH will be used to pay for the paid courses which will be available soon on teachology.io and buy items from marketplace which will be created soon according to the roadmap in the white paper.",
+"descriptionCN": "我创造了TEACH，以此来激励世界各地的学生在同一时间学习和进行投资，在教育技术和课程协调这两方面上。学生用1：1的TEACH在teachology.io上可以获得测试和功课的成绩。教师根据学生的反馈，可得到在teachology.io上创建的课程的奖励，也就是TEACH，因此我们鼓励教师进行教学和投资。 TEACH将用于支付即将在educology.io上提供的付费课程，根据白皮书中的路线图，未来可在市场上购买商品。",
+"isDefiBox": false,
+"priceATH": "0.02213402229348",
+"priceATL": "0.00000781195632",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 33
+},
+{
+"tokenContract": "boidcomtoken",
+"tokenName": "BOID",
+"tokenPriceInEOS": 0.00012974,
+"supply": 3051297858,
+"maxSupply": 25000000000,
+"projectURL": "https://www.boid.com",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/boidcomtoken-boid.png",
+"percentChange24h": "-0.04",
+"marketCapInEOS": 395875.38409691997,
+"marketCapInUSD": 1888325.5821423081,
+"tokenPriceInUSD": 0.0006188597999999999,
+"volume24hUSD": 0,
+"high24h": 0.0006188597999999999,
+"low24h": 0.0006188597999999999,
+"chain": "eos",
+"description": "Users will be rewarded on the Boid by contributing their spare HashRate that can be assigned to academic research, such as medical research, meteorology, aerospace and mechanical learning.",
+"descriptionCN": "用户可以通过贡献自己闲置的算力在Boid上来获得奖励，这些算力可以被分配给学术研究，例如医学研究、气象学、航天航空和机械学习等领域。",
+"isDefiBox": false,
+"priceATH": "0.0007369956",
+"priceATL": "0.000058056",
+"contact": [
+{
+"telegram": " https://t.me/Boidcom_official",
+"twitter": " https://twitter.com/boidcom"
+}
+],
+"warning": [
+{}
+],
+"rank": 34
+},
+{
+"tokenContract": "tothemoonmts",
+"tokenName": "MTS",
+"tokenPriceInEOS": 0.0000039,
+"supply": 100000000000,
+"maxSupply": 100000000000,
+"projectURL": "http://mtblock.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/tothemoonmts-mts.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 390000,
+"marketCapInUSD": 1860299.9999999998,
+"tokenPriceInUSD": 0.000018602999999999998,
+"volume24hUSD": 1.5693299999999997,
+"high24h": 0.000018602999999999998,
+"low24h": 0.000010970999999999999,
+"chain": "eos",
+"description": "The MT blockchain is a fully decentralized social media platform focused on blockchain related content using blockchain technology, adopting an innovative approach that allows users to have the power to create and disseminate valued content compared to traditional social media platforms. ",
+"descriptionCN": "MT区块链,是一个基于区块链技术、专注区块链领域、完全去中心化的社交媒体平台。平台采用创新的“用户评价+代币激励”模式，相较于传统媒体平台,用户将更具创造和传播“价值内容”的动力。为平台创造价值内容的贡献者（包括社区建设者、内容提供者和传播者、内容评价者和传播者），将获得MTS（代币）奖励回报。",
+"isDefiBox": false,
+"priceATH": "0.0098917728",
+"priceATL": "0.0000018112000000000001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 35
+},
+{
+"tokenContract": "eosdactokens",
+"tokenName": "EOSDAC",
+"tokenPriceInEOS": 0.00039042,
+"supply": 994895255,
+"maxSupply": 994895255,
+"projectURL": "https://eosdac.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosdactokens-eosdac.png",
+"percentChange24h": "-0.11",
+"marketCapInEOS": 388427.0054571,
+"marketCapInUSD": 1852796.8160303668,
+"tokenPriceInUSD": 0.0018623033999999998,
+"volume24hUSD": 0,
+"high24h": 0.0018623033999999998,
+"low24h": 0.0018623033999999998,
+"chain": "eos",
+"description": "EOSDAC is a leading producer of eos.io blocks dedicated to serving the global EOS community as a growing decentralized autonomous community. Through EOS software, it is possible to make communities a revolutionary way for cooperatives. The development assistance committee is run by its token holders and board members.",
+"descriptionCN": "EOSDAC是致力于成为一个不断发展的分布式自治社区为全球EOS社区提供服务的领先EOS.IO内存块制作商。通过EOS软件，使社区成为合作社的一种革命性方式成为可能。发展援助委员会由其代币持有者和董事会成员控制运行。",
+"isDefiBox": false,
+"priceATH": "0.013556149999999998",
+"priceATL": "0.0004095",
+"contact": [
+{
+"telegram": " https://t.me/eosdacio",
+"twitter": " https://twitter.com/eosdac"
+}
+],
+"warning": [
+{}
+],
+"rank": 36
+},
+{
+"tokenContract": "token.yup",
+"tokenName": "YUP",
+"tokenPriceInEOS": 0.0427,
+"supply": 9059775,
+"maxSupply": 9315081,
+"projectURL": "https://yup.io",
+"tokenImage": "https://ndi.340wan.com/eos/token.yup-yup.png",
+"percentChange24h": "-23.75",
+"marketCapInEOS": 386852.3925,
+"marketCapInUSD": 1845285.9122249999,
+"tokenPriceInUSD": 0.203679,
+"volume24hUSD": 392.9068079999999,
+"high24h": 0.7860959999999999,
+"low24h": 0.097785,
+"chain": "eos",
+"description": "Yup is a network that rewards you for good opinions. By doing so, it creates a social consensus layer for the internet, accurately representing the agreed-upon social value of anything, from random Tweets to NFTs. It does this by interacting with the Yup Protocol, which is a decentralized semi-autonomous social consensus protocol that determines the rewards and social value of all content based on users' interactions with it.",
+"descriptionCN": "YUP是一个奖励好的意见的网络。通过这样做，它为互联网创建了一个社会共识层，准确地代表了任何东西的商定社会价值，从推文到 NFT。它通过与 Yup 协议交互来实现这一点，Yup 协议是一种去中心化的半自治社会共识协议，它根据用户与其交互来确定所有内容的奖励和社会价值。",
+"isDefiBox": false,
+"priceATH": "2.5105350000000004",
+"priceATL": "0.000401",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 37
+},
+{
+"tokenContract": "btc.ptokens",
+"tokenName": "PBTC",
+"tokenPriceInEOS": 63423.62,
+"supply": 6,
+"maxSupply": 21000000,
+"projectURL": "https://ptokens.io",
+"tokenImage": "https://ndi.340wan.com/eos/btc.ptokens-pbtc.png",
+"percentChange24h": "45.72",
+"marketCapInEOS": 380541.72000000003,
+"marketCapInUSD": 1815184.0044,
+"tokenPriceInUSD": 302530.6674,
+"volume24hUSD": 0,
+"high24h": 302530.6674,
+"low24h": 302530.6674,
+"chain": "eos",
+"description": "pTokens BTC is a tokenised version of Bitcoin available on the EOS blockchain. It is pegged 1:1 to Bitcoin and backed by a transparent tokenisation process.",
+"descriptionCN": "pTokens BTC（pBTC）是EOS链上1：1锚定比特币的代币。 pNetwork通过透明，无摩擦且安全的系统链接各个区块链网络，实现了跨链的可组合性。",
+"isDefiBox": false,
+"priceATH": "999333",
+"priceATL": "10000.05",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 38
+},
+{
+"tokenContract": "dadtoken1111",
+"tokenName": "DAD",
+"tokenPriceInEOS": 0.02998193,
+"supply": 8601274,
+"maxSupply": 10000000,
+"projectURL": "https://www.reddit.com/r/dappaccountDAO/",
+"tokenImage": "https://ndi.340wan.com/eos/dadtoken1111-dad.png",
+"percentChange24h": "5.57",
+"marketCapInEOS": 257882.79497882,
+"marketCapInUSD": 1230100.9320489713,
+"tokenPriceInUSD": 0.1430138061,
+"volume24hUSD": 414.73241999999993,
+"high24h": 0.1430138061,
+"low24h": 0.135468,
+"chain": "eos",
+"description": "DAD is a decentralized community experimenting with a proposed resource model, and and governance system not controlled by any centralized group, team, or entity, but rather by the community itself.",
+"descriptionCN": "DAD组建了一个去中心化社区，目前正在尝试一种资源模型和治理系统，该系统完全去中心化。不受任何中心化组织或者团队控制，而是由社区本身控制。",
+"isDefiBox": false,
+"priceATH": "0.7261332637504404",
+"priceATL": "0.026400000000000003",
+"contact": [
+{
+"telegram": " https://t.me/ChintaiEOS"
+}
+],
+"warning": [
+{}
+],
+"rank": 39
+},
+{
+"tokenContract": "vig111111111",
+"tokenName": "VIG",
+"tokenPriceInEOS": 0.000252,
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"projectURL": "https://vigor.ai/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/vig_token.jpg",
+"percentChange24h": "8.39",
+"marketCapInEOS": 252000,
+"marketCapInUSD": 1202040,
+"tokenPriceInUSD": 0.00120204,
+"volume24hUSD": 244.22399999999996,
+"high24h": 0.00120204,
+"low24h": 0.001109025,
+"chain": "eos",
+"description": "The VIGOR Protocol project core theme is that crypto-backed Low Volatility Token are fundamentally concerned with price jump risk and volatility risk. Our Protocol platform enables the separation and transfer of those risks. VIGOR is the low volatility token (“cash” instrument) created on our platform; it is a crypto-backed on the EOS blockchain that tracks the US dollar. The project utility token is called VIG.",
+"descriptionCN": "VIGOR协议项目的核心主题是：加密支持的低波动性代币从根本上关注价格上涨风险和波动性风险。VIGOR协议平台可降低波动风险。 VIGOR是在我们的平台上创建的稳定币（代替“现金”的工具）；它是EOS区块链上支持美元的加密货币。项目实用程序代币简称VIG。",
+"isDefiBox": false,
+"priceATH": "0.015371599999999997",
+"priceATL": "0.000272087",
+"contact": [
+{
+"telegram": " https://t.me/vigorprotocol",
+"twitter": " https://twitter.com/vigorprotocol"
+}
+],
+"warning": [
+{}
+],
+"rank": 40
+},
+{
+"tokenContract": "ploutoztoken",
+"tokenName": "PLO",
+"tokenPriceInEOS": "0.00042500072400855",
+"supply": 500000000,
+"maxSupply": 1000000000,
+"projectURL": "https://ploutoz.com",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/playeronetkn-plo.png",
+"percentChange24h": "0.20",
+"marketCapInEOS": 212500.362004275,
+"marketCapInUSD": 1013626.7267603916,
+"tokenPriceInUSD": 0.002027253453520783,
+"volume24hUSD": 0,
+"high24h": 0.0020867535548819804,
+"low24h": 0.001980503373879843,
+"chain": "eos",
+"description": "PLOUTOZ Token, also known as “PLO”, is based on the EOS public chain and is a proof of equity in the PLOUTOZ blockchain derivatives market. It can be used as a payment token for the PLOUTOZ derivatives ecosystem and for margin. It will also be used for partner funds, alliance co-establishment, community building, and for all deposits, settlements, payments, and cross-chain derivatives settlement and payment in the public chain derivatives market created by PLOUTOZ.",
+"descriptionCN": "通证“PLO” 基于EOS公链开发，是PLOUTOZ 公链生态衍生品市场的权益证明，可作为PLOUTOZ衍生品生态的支付代币，和保证金来使用。也将用于合作伙伴基金，生态联盟建设、社区建设，以及用于所有由PLOUTOZ打造的公链衍生品市场中保证金、佣金打折，清算，支付，以及跨公链衍生品的清算，支付作用。",
+"isDefiBox": true,
+"priceATH": "0.08839128",
+"priceATL": "0.00033800000000000003",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 41
+},
+{
+"tokenContract": "epraofficial",
+"tokenName": "EPRA",
+"tokenPriceInEOS": "0.00002062275967839",
+"supply": 10000000000,
+"maxSupply": 10000000000,
+"projectURL": "https://chain.pro",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/epraofficial-epra.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 206227.5967839,
+"marketCapInUSD": 983705.6366592029,
+"tokenPriceInUSD": 0.00009837056366592029,
+"volume24hUSD": 0,
+"high24h": 0.00010125775002089489,
+"low24h": 0.00009610206010129739,
+"chain": "eos",
+"description": "Build a transparent digital advertising data ecosystem platform.",
+"descriptionCN": "建设一个透明的数字广告数据生态平台。",
+"isDefiBox": true,
+"priceATH": "0.000454794",
+"priceATL": "0.0000203154008394508",
+"contact": [
+{
+"telegram": " https://t.me/ProChainTech",
+"twitter": " https://twitter.com/prochaintech"
+}
+],
+"warning": [
+{}
+],
+"rank": 42
+},
+{
+"tokenContract": "eosdmdtokens",
+"tokenName": "DMD",
+"tokenPriceInEOS": 7.62596111,
+"supply": 25000,
+"maxSupply": 30000,
+"projectURL": "https://dmd.finance/",
+"tokenImage": "https://ndi.340wan.com/eos/eosdmdtokens-dmd.png",
+"percentChange24h": "39.57",
+"marketCapInEOS": 190649.02775,
+"marketCapInUSD": 909395.8623675,
+"tokenPriceInUSD": 36.3758344947,
+"volume24hUSD": 48.55192199999999,
+"high24h": 36.3758344947,
+"low24h": 26.062326,
+"chain": "eos",
+"description": "DMD will be released in the form of Bitcoin and YFI: no founders, no investors, no pre-mining, no additional issuance and equal among all users. We hope to promote the great development of EOS DeFi community.",
+"descriptionCN": "钻石将以比特币和YFI的形式发放：没有创始人，没有投资人，没有预挖，没有增发，全民平等。我们希望推动EOS Defi社区的大发展。",
+"isDefiBox": false,
+"priceATH": "99.954555",
+"priceATL": "100.047332",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 43
+},
+{
+"tokenContract": "eosdtsttoken",
+"tokenName": "EOSDT",
+"tokenPriceInEOS": "0.21117501392067006",
+"supply": 883680,
+"maxSupply": 270000000,
+"projectURL": "https://eosdt.com",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosdtsttoken-eosdt.png",
+"percentChange24h": "99.40",
+"marketCapInEOS": 186611.13630141772,
+"marketCapInUSD": 890135.1201577624,
+"tokenPriceInUSD": 1.007304816401596,
+"volume24hUSD": 0,
+"high24h": 1.015341217426009,
+"low24h": 0.9939930208692495,
+"chain": "eos",
+"description": "EOSDT is a collateralized stablecoin backed by crypto assets, and it has a 1:1 peg to USD. It's issued via the Equilibrium framework, a smart contract platform built on the EOS blockchain, which also ensures price equilibrium for circulating EOSDT.",
+"descriptionCN": "EOSDT 是以加密资产抵押支持的稳定币，与美元以 1：1 的比例锚定。 它是通过 Equilibrium 架构发布的，这是一个建立在 EOS 上的智能合约平台，同时它让流通中的 EOSDT 价格保持平衡。",
+"isDefiBox": true,
+"priceATH": "9.00561691365385",
+"priceATL": "0.7771073016949892",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 44
+},
+{
+"tokenContract": "tagtokenmain",
+"tokenName": "TAG",
+"tokenPriceInEOS": 0.62,
+"supply": 298247,
+"maxSupply": 100000000,
+"projectURL": "https://apps.defis.network/node-pools",
+"tokenImage": "https://ndi.340wan.com/eos/tagtokenmain-tag.png",
+"percentChange24h": "-15.90",
+"marketCapInEOS": 184913.13999999998,
+"marketCapInUSD": 882035.6777999998,
+"tokenPriceInUSD": 2.9574,
+"volume24hUSD": 28.646234999999997,
+"high24h": 3.6967499999999998,
+"low24h": 2.9574,
+"chain": "eos",
+"description": "DeFis Network's harvest.",
+"descriptionCN": "大丰收农场打谷子。",
+"isDefiBox": false,
+"priceATH": "99.86077600000002",
+"priceATL": "0.504252",
+"contact": [
+{
+"telegram": "https://t.me/dfsnet"
+}
+],
+"warning": [
+{}
+],
+"rank": 45
+},
+{
+"tokenContract": "parslseed123",
+"tokenName": "SEED",
+"tokenPriceInEOS": 0.0000888,
+"supply": 1902749000,
+"maxSupply": 2000000000,
+"projectURL": "https://www.parsl.co",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/parslseed123-seed.png",
+"percentChange24h": "21.81",
+"marketCapInEOS": 168964.1112,
+"marketCapInUSD": 805958.810424,
+"tokenPriceInUSD": 0.000423576,
+"volume24hUSD": 47.69809199999999,
+"high24h": 0.000423576,
+"low24h": 0.00034773299999999997,
+"chain": "eos",
+"description": "Parsl is a platform that utilises leading edge technologies to create a supply chain that is efficient, transparent and safe.",
+"descriptionCN": "Parsl是一个利用前沿技术创建高效、透明和安全供应链的平台。",
+"isDefiBox": false,
+"priceATH": "0.001472707",
+"priceATL": "0.00008363999999999999",
+"contact": [
+{
+"telegram": " https://t.me/parslio",
+"twitter": " https://twitter.com/Parslco"
+}
+],
+"warning": [
+{}
+],
+"rank": 46
+},
+{
+"tokenContract": "yfctokenmain",
+"tokenName": "YFC",
+"tokenPriceInEOS": 15.71426936,
+"supply": 10000,
+"maxSupply": 10000,
+"projectURL": " https://www.yfc.one",
+"tokenImage": "https://ndi.340wan.com/eos/yfctokenmain-yfc.png",
+"percentChange24h": "-3.04",
+"marketCapInEOS": 157142.6936,
+"marketCapInUSD": 749570.6484719999,
+"tokenPriceInUSD": 74.95706484719999,
+"volume24hUSD": 727.275222,
+"high24h": 82.79056123829999,
+"low24h": 7.154999999999999,
+"chain": "eos",
+"description": "YFC's goal is to bulid a bridgewater associates company on the blockchain, like YFII, becoming a public money-making machine.",
+"descriptionCN": "YFC的定位，是做一个区块链上的桥水基金公司。像YFII那样，成为一台公共的赚钱机器。",
+"isDefiBox": false,
+"priceATH": "999.88028",
+"priceATL": "100.0001676344",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 47
+},
+{
+"tokenContract": "sovmintofeos",
+"tokenName": "SOV",
+"tokenPriceInEOS": 0.000697,
+"supply": 190124046,
+"maxSupply": 1000000000,
+"projectURL": "https://www.soveos.one/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/sovmintofeos-sov.png",
+"percentChange24h": "0.14",
+"marketCapInEOS": 132516.460062,
+"marketCapInUSD": 632103.51449574,
+"tokenPriceInUSD": 0.00332469,
+"volume24hUSD": 92.752173,
+"high24h": 0.00332469,
+"low24h": 0.0033199199999999996,
+"chain": "eos",
+"description": "SOV is the first variable-rate, self-deflationary cryptocurrency.  It is also the first immutable currency token on EOS. Starting at a supply of 1 billion, SOV will burn a percent of every transaction until a final supply of 21 million is achieved.",
+"descriptionCN": "SOV是第一个费率可变，自我通缩的加密货币。它也是EOS上的第一个不可变货币。从10亿发行量开始，SOV将销毁每笔交易的一小部分，直到达到2100万的流通量。",
+"isDefiBox": false,
+"priceATH": "0.00848853",
+"priceATL": "0.00012495",
+"contact": [
+{
+"telegram": " https://t.me/eossov",
+"twitter": " https://twitter.com/sovmintofeos"
+}
+],
+"warning": [
+{}
+],
+"rank": 48
+},
+{
+"tokenContract": "yfi.ptokens",
+"tokenName": "PYFI",
+"tokenPriceInEOS": 60000,
+"supply": 2,
+"maxSupply": 1000000000,
+"projectURL": "https://ptokens.io/",
+"tokenImage": "https://ndi.340wan.com/eos/yfi.ptokens-pyfi.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 120000,
+"marketCapInUSD": 572400,
+"tokenPriceInUSD": 286200,
+"volume24hUSD": 0,
+"high24h": 286200,
+"low24h": 286200,
+"chain": "eos",
+"description": "pTokens YFI (pYFI) is a 1:1 pegged tokenised representation of YFI on the EOS blockchain. The pNetwork enables cross-chain composability via a transparent, frictionless and secure system linked to a variety of blockchain networks.",
+"descriptionCN": "pTokens YFI（pYFI）是EOS链上1：1锚定以太坊的代币。pNetwork通过透明，无摩擦且安全的系统链接各个区块链网络，实现了跨链的可组合性。",
+"isDefiBox": false,
+"priceATH": "99990",
+"priceATL": "100050",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 49
+},
+{
+"tokenContract": "eosblackteam",
+"tokenName": "BLACK",
+"tokenPriceInEOS": 0.000046,
+"supply": 2100000000,
+"maxSupply": 3000000000,
+"projectURL": "https://eosblack.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosblackteam-black.png",
+"percentChange24h": "-32.35",
+"marketCapInEOS": 96600,
+"marketCapInUSD": 460781.99999999994,
+"tokenPriceInUSD": 0.00021941999999999998,
+"volume24hUSD": 14.803218,
+"high24h": 0.00032436,
+"low24h": 0.00021941999999999998,
+"chain": "eos",
+"description": "EOSBLACK is a platform for users to participate in developing DAPP. Members of the community elect the best DAPP to exhibit on the platform. When DApps receive enough sufficient votes, it will be successfully developed.",
+"descriptionCN": "EOSBLACK是一个用户参与开发DAPP的平台。社区成员选出最好的DAPP在平台上展出。获得足够票数的DAPP将成功开发。",
+"isDefiBox": false,
+"priceATH": "0.007104469999999999",
+"priceATL": "0.0001152",
+"contact": [
+{
+"telegram": " https://t.me/eosBLACK_English",
+"twitter": " https://twitter.com/EOSBLACK_IO"
+}
+],
+"warning": [
+{}
+],
+"rank": 50
+},
+{
+"tokenContract": "blockbasetkn",
+"tokenName": "BBT",
+"tokenPriceInEOS": 0.00091439,
+"supply": 100000000,
+"maxSupply": 100000000,
+"projectURL": "https://blockbase.network/",
+"tokenImage": "https://ndi.340wan.com/eos/blockbasetkn-bbt.png",
+"percentChange24h": "5.45",
+"marketCapInEOS": 91439,
+"marketCapInUSD": 436164.02999999997,
+"tokenPriceInUSD": 0.0043616403,
+"volume24hUSD": 118.193445,
+"high24h": 0.0043616403,
+"low24h": 0.00258057,
+"chain": "eos",
+"description": "BlockBase is a distributed system that applies many of blockchain related paradigms to provide secure and distributed database storage services.",
+"descriptionCN": "BlockBase是一个分布式系统，它应用了许多与区块链相关的范例来提供安全的分布式数据库存储服务。",
+"isDefiBox": false,
+"priceATH": "0.028418768",
+"priceATL": "0.00142438",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 51
+},
+{
+"tokenContract": "persiandaric",
+"tokenName": "DRIC",
+"tokenPriceInEOS": 0.05396,
+"supply": 7898711,
+"maxSupply": 1000000000,
+"projectURL": "https://areaxapp.com",
+"tokenImage": "https://ndi.340wan.com/telos/persiandaric-dric.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 426214.44556,
+"marketCapInUSD": 423834.5536010265,
+"tokenPriceInUSD": 0.0536586986916,
+"volume24hUSD": 0,
+"high24h": 0.2573892,
+"low24h": 0.2573892,
+"chain": "telos",
+"description": "In AreaX, you can use DRIC for buying boosts, participate in events, fill energy, buying avatars and some badges.\nAlso, you can get DRIC token by wining the events, daily and hourly rewards and training brain games.Also, DRIC will used in Crypto Planet game in the future.",
+"descriptionCN": "在AreaX中，您可以使用DRIC代币来购买帮助，参加活动，补充能量，购买虚拟化身和一些徽章。\n此外，您还可以通过赢得赛事，获得每日和每小时奖励和锻炼脑力游戏来获得DRIC代币。未来，DRIC也将在Crypto Planet游戏中使用。",
+"isDefiBox": false,
+"priceATH": "0.05940235595680001",
+"priceATL": "0.00024256358400000003",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 52
+},
+{
+"tokenContract": "ptitokenhome",
+"tokenName": "PTI",
+"tokenPriceInEOS": 0.000023,
+"supply": 3600000000,
+"maxSupply": 3600000000,
+"projectURL": "https://paytomat.com",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/ptitokenhome-pti.png",
+"percentChange24h": "-30.30",
+"marketCapInEOS": 82800,
+"marketCapInUSD": 394955.99999999994,
+"tokenPriceInUSD": 0.00010970999999999999,
+"volume24hUSD": 0,
+"high24h": 0.00010970999999999999,
+"low24h": 0.00010970999999999999,
+"chain": "eos",
+"description": "Paytomat is a payment system that enables local stores and online businesses to accept encrypted payments without resorting to banking systems, bank cards or centralized electronic payment solutions. Paytomat combines block chain ecosystems with retail businesses to combat risks, speed up payments in a variety of encrypted currencies.",
+"descriptionCN": "Paytomat是一种使本地商店和在线商家不借助于银行系统、银行卡或集中电子支付解决方案接受加密付款的支付系统。Paytomat将区块链生态系统与零售业联合在一起，对抗风险，提高速度并实现多种加密货币的支付。",
+"isDefiBox": false,
+"priceATH": "0.0054245100000000004",
+"priceATL": "0.000020559999999999996",
+"contact": [
+{
+"telegram": " https://t.me/paytomat",
+"twitter": " https://twitter.com/paytomat"
+}
+],
+"warning": [
+{}
+],
+"rank": 53
+},
+{
+"tokenContract": "btc.ptokens",
+"tokenName": "PBTC",
+"tokenPriceInEOS": 12700,
+"supply": 6,
+"maxSupply": 21000000,
+"projectURL": "https://ptokens.io",
+"tokenImage": "https://ndi.340wan.com/eos/btc.ptokens-pbtc.png",
+"percentChange24h": "-4.75",
+"marketCapInEOS": 76200,
+"marketCapInUSD": 363473.99999999994,
+"tokenPriceInUSD": 60578.99999999999,
+"volume24hUSD": 355.08881699999995,
+"high24h": 64974.1662752418,
+"low24h": 60578.99999999999,
+"chain": "eos",
+"description": "pTokens BTC is a tokenised version of Bitcoin available on the EOS blockchain. It is pegged 1:1 to Bitcoin and backed by a transparent tokenisation process.",
+"descriptionCN": "pTokens BTC（pBTC）是EOS链上1：1锚定比特币的代币。 pNetwork通过透明，无摩擦且安全的系统链接各个区块链网络，实现了跨链的可组合性。",
+"isDefiBox": false,
+"priceATH": "999333",
+"priceATL": "10000.05",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 54
+},
+{
+"tokenContract": "gamechaineos",
+"tokenName": "GMC",
+"tokenPriceInEOS": "0.00034926212642241",
+"supply": 200000000,
+"maxSupply": 200000000,
+"projectURL": "https://www.magiebox.cn",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/gamechaineos-gmc.png",
+"percentChange24h": "0.16",
+"marketCapInEOS": 69852.425284482,
+"marketCapInUSD": 333196.0686069791,
+"tokenPriceInUSD": 0.0016659803430348957,
+"volume24hUSD": 0,
+"high24h": 0.0017148770407340332,
+"low24h": 0.0016275615091284306,
+"chain": "eos",
+"description": "GMC (Game Magie Chain) is committed to building a new ecological general economic model of \"block Chain + Game\" whole industrial Chain, exploring the application of technology in the block Chain 3.0 era, and the derivative DAPP applications around the Game, involving block Chain games. Cross-game virtual assets trading market; Blockchain-based game distribution platform and community; Peripheral tools and services, so as to achieve ecological closed loop. GMC team believes that the dividend of \"blockchain + games\" will start from the infrastructure and developer tools to allow more games to be linked, and finally reach the climax with the emergence of a large number of hot style playable blockchain games. With the increasing of blockchain games and the corresponding Token economic model, cross-game virtual asset trading market and communities based on blockchain game distribution platform will gradually rise up and become the center of traffic collection. With the development of \"blockchain + game\" industry, peripheral tools and services have a clear and stable future. GMC will take this standard as the criterion to explore the sustainable business model of blockchain games (or blockchain games). In the chain of blocks game application fall to the ground, at present the first stage, the MC team developed the first game - Magie Cube (dynamic) rubik's Cube, is based on the EOS and chain network base on the product structure, guarantee the game process is safe and reliable, play, the algorithm is transparent (specific rules of the game will be released later versions of detailed analysis, please concern). Later will be put on the shelves guess guess, PK knowledge competition, puzzle games. At the same time, GMC official will provide the third party open access, all major game developers or industry geeks can enter, share the block chain game ecological dividend.",
+"descriptionCN": "GMC（Game Magie Chain）致力于构建“区块链+游戏”全产业链的新生态通证经济模式，探索区块链3.0时代的技术落地应用性，以及围绕游戏周边的衍生DAPP应用，涉及到区块链游戏；跨游戏虚拟资产交易市场；基于区块链的游戏分发平台、社群；周边工具与服务等，从而实现生态闭环。GMC团队认为，“区块链+游戏”的红利，将从基础设施及开发者工具开始，让更多的游戏上链，最终并以爆款具有可玩性的区块链游戏的大量出现为标志达到高潮；而随着区块链游戏以及相应Token经济模型的不断增多，跨游戏虚拟资产交易市场，以及基于区块链的游戏分发平台的社区也会逐步兴起，成为流量汇集的中心；而周边工具、服务，随着“区块链+游戏”行业的发展，则具有较为明确和稳定的未来，GMC将以此标准为准则，探索区块链游戏（或游戏区块链化）的可持续商业模式。在区块链游戏应用落地方面，目前第一阶段，MC团队开发了首款游戏——Magie Cube（魔方动力），是基于EOS公链网络底层进行产品构架，保证游戏过程安全可靠，玩法、算法公开透明（具体游戏规则将于后期发行版本中进行详尽解析，敬请关注）。后期将陆续上架猜拳竞猜、PK知识竞赛、益智类游戏。同时，GMC官方将提供第三方开放型入口，各大游戏开发厂商或行业极客均可入驻，共享区块链游戏生态红利。",
+"isDefiBox": true,
+"priceATH": "0.008564321473504296",
+"priceATL": "0.0002",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 55
+},
+{
+"tokenContract": "eosrushtoken",
+"tokenName": "RUSH",
+"tokenPriceInEOS": "0.00010260520835961",
+"supply": 662985271,
+"maxSupply": 1000000000,
+"projectURL": "https://rushdice.one/?r=poweredbyyou",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosrushtoken-rush.png",
+"percentChange24h": "0.05",
+"marketCapInEOS": 68025.7418703075,
+"marketCapInUSD": 324482.7887213667,
+"tokenPriceInUSD": 0.0004894268438753397,
+"volume24hUSD": 0,
+"high24h": 0.0005037915730456851,
+"low24h": 0.0004781402709557826,
+"chain": "eos",
+"description": "RushDice.one is a game platform based on EOS blockchain, all the games are transparent, secure and fair. Players can get RUSH token reward. RUSH holders who have staked their token will receive 100% of the house profit.",
+"descriptionCN": "rush币是基于eos公链开发的，以区块链dice，传统经典赌戏等游戏内容为核心的token币，dapp主页为 https://rushdice.one。\nrush币采用时下区块链技术最新的“游戏即挖矿，用户即股东，筹码即股权”模式运营，采取全分红的方式，将运营收益100%全部按rush币持有情况进行分红。同时，rush币即可以用于游戏本身，也是股份的标记模式。即，rush币即是筹码通证，也是股权通证。\nrush币发行总量为1000000000枚，即10亿枚，其中，3.5亿枚将通过用户挖矿释放，3亿枚通过各交易所初始发行流通，0.5亿枚作为rush币下注奖池，3亿枚为创始团队持有（官方承诺锁筹1年）。其中挖矿释放速度为每eos下注流水释放3枚rush币。\nrush币质押在账户内时，可用于股权通证，获得按比例分红收益（eos和rush收益）；非质押状态下，rush币可作为dapp筹码进行游戏；同时，rush币作为股权或筹码通证交易时，可随时在eos链上交易所，或已经上线的中心化交易所，自由交易。",
+"isDefiBox": true,
+"priceATH": "0.010576480923349106",
+"priceATL": "0.00031983237231947043",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 56
+},
+{
+"tokenContract": "yastokencode",
+"tokenName": "YAS",
+"tokenPriceInEOS": 0.00055,
+"supply": 100000000,
+"maxSupply": 100000000,
+"projectURL": "https://enumivo.org",
+"tokenImage": "https://ndi.340wan.com/eos/yastokencode-yas.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 55000,
+"marketCapInUSD": 262350,
+"tokenPriceInUSD": 0.0026235,
+"volume24hUSD": 0,
+"high24h": 0.0026235,
+"low24h": 0.0026235,
+"chain": "eos",
+"description": "YAS Network is EOS's sister chain. EIDOS and YAS can be converted in both directions. Users can transfer some EIDOS to the contract \"yasminttoken\", and the contract will return the corresponding amount of YAS. If YAS amount that is mined has exceeds 90 million, the EIDOS team will launch the YAS Network.",
+"descriptionCN": "YAS Network是EOS的姊妹链，EIDOS 与 YAS 双向兑换，用户可以将若干 EIDOS 发送至合约 yasminttoken ，合约会返回对应数量的 YAS。若已挖出的 YAS 数量超过 9 千万， EIDOS 团队将会启动 YAS Network。",
+"isDefiBox": false,
+"priceATH": "0.0376174",
+"priceATL": "0.001078",
+"contact": [
+{
+"telegram": " https://t.me/EidosEOS",
+"twitter": " https://twitter.com/EnuMivo"
+}
+],
+"warning": [
+{}
+],
+"rank": 57
+},
+{
+"tokenContract": "hirevibeshvt",
+"tokenName": "HVT",
+"tokenPriceInEOS": 0.000156,
+"supply": 350000000,
+"maxSupply": 350000000,
+"projectURL": "https://www.hirevibes.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/hirevibeshvt-hvt.png",
+"percentChange24h": "3.31",
+"marketCapInEOS": 54600,
+"marketCapInUSD": 260441.99999999997,
+"tokenPriceInUSD": 0.0007441199999999999,
+"volume24hUSD": 191.07284399999995,
+"high24h": 0.0012783599999999999,
+"low24h": 0.0006916499999999999,
+"chain": "eos",
+"description": "HireVibes connects jobseekers, employers, referrers and recruiters on a new job search platform (Dapp) that utilizes the EOS blockchain. HireVibes aims to disrupt the recruitment agency industry by leveraging peer referrals to fill open positions, creating a fair incentive model with reasonable hiring fees, and giving to a worthy cause everytime a role is filled through HireVibes. It is free to post open positions on HireVibes, and employers can set their own reward level (Minimum 6% - Max 12%). \nWhen a candidate hired through the HireVibes Dapp：\n\n1. 3.5％(9.5% if employers select 12% reward)is shared with the person hired for the role; if a peer referred the successful candidate, this 3.5% is split evenly between the referrer and hired individual.\n2. 1% is donated to a charity，the successful candidate can select which humanitarian or environmental project he/she would like to support through the HireVibes Dapp.\n3. 1.5% HVT reward to HireVibes DAC EOS Account for community voting（to burn or as bounties）",
+"descriptionCN": "HireVibes是一个构建于EOS区块链的招聘平台(Dapp)，连接求职者、雇主、推荐人及招聘人员。我们的目标是颠覆整个招聘流程，通过利用推荐人介绍来填补空缺职位，创建一个拥有合理招聘服务费用且充满激励的经济模型，每当通过HireVibes平台完成招聘时，都会为慈善事业贡献一份力量。雇主可以免费在HireVibes上发布职位信息，并设置自己的推荐奖励等级:(最低6％ - 最高12％）。当候选人通过HireVibes Dapp成功招聘：\n1. 3.5％（9.5%，如果雇主选择12%的奖励等级）的HVT奖励给应聘成功的候选人（如果有推荐人的话，这个奖励将与推荐人平分）\n2. 1%捐给慈善机构，候选人可以在HireVibes Dapp选择捐赠给哪些慈善机构\n3. 1.5％到HireVibes DAC EOS账户进行社区投票（销毁或作为奖励）",
+"isDefiBox": false,
+"priceATH": "0.00389587",
+"priceATL": "0.00024900000000000004",
+"contact": [
+{
+"telegram": " https://t.me/hirevibes_dapp",
+"twitter": " https://twitter.com/hirevibes"
+}
+],
+"warning": [
+{}
+],
+"rank": 58
+},
+{
+"tokenContract": "holdyourlimo",
+"tokenName": "LIMO",
+"tokenPriceInEOS": "0.00000484120581154",
+"supply": 10000000000,
+"maxSupply": 10000000000,
+"projectURL": "http://fydianping.com",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/holdyourlimo-limo.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 48412.0581154,
+"marketCapInUSD": 230925.517210458,
+"tokenPriceInUSD": 0.000023092551721045798,
+"volume24hUSD": 0,
+"high24h": 0.000023770320534661403,
+"low24h": 0.0000225600190817764,
+"chain": "eos",
+"description": "Limo Wallet is dedicated to creating a “converter” of EOS ecology, gradually turning traditional Internet users to blockchain users who have EOS Wallet address, can trade with EOS, and use EOS Dapps in EOS ecology. Limo is the beneficial Wallet based on EOS and application center, and it will be the largest EOS eco-user community in the future.",
+"descriptionCN": "柠檬宝钱包致力于打造EOS生态的“转换器”，把传统互联网用户逐步转化为拥有EOS钱包地址、会交易EOS、同时能够使用EOS生态内Dapp的区块链用户。柠檬宝是一款通证返利和基于EOS的钱包和应用中心，同时也将会是未来最大的EOS生态使用者社区。",
+"isDefiBox": true,
+"priceATH": "0.01351725648362043",
+"priceATL": "0.0000000030670551636",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 59
+},
+{
+"tokenContract": "eth.ptokens",
+"tokenName": "PETH",
+"tokenPriceInEOS": 499,
+"supply": 97,
+"maxSupply": 1000000000,
+"projectURL": "https://ptokens.io/",
+"tokenImage": "https://ndi.340wan.com/eos/eth.ptokens-peth.png",
+"percentChange24h": "-42.13",
+"marketCapInEOS": 48403,
+"marketCapInUSD": 230882.30999999997,
+"tokenPriceInUSD": 2380.2299999999996,
+"volume24hUSD": 86.23826100000001,
+"high24h": 4174.7864453001,
+"low24h": 2380.2299999999996,
+"chain": "eos",
+"description": "pTokens ETH (pETH) is a 1:1 pegged tokenised representation of Ethereum on the EOS blockchain. The pNetwork enables cross-chain composability via a transparent, frictionless and secure system linked to a variety of blockchain networks.",
+"descriptionCN": "pTokens ETH（pETH）是EOS链上1：1锚定以太坊的代币。pNetwork通过透明，无摩擦且安全的系统链接各个区块链网络，实现了跨链的可组合性。",
+"isDefiBox": false,
+"priceATH": "997.5",
+"priceATL": "1001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 60
+},
+{
+"tokenContract": "appicsappics",
+"tokenName": "APX",
+"tokenPriceInEOS": 0.00998,
+"supply": 4729104,
+"maxSupply": 1000000000,
+"projectURL": "https://appics.com/",
+"tokenImage": "https://ndi.340wan.com/eos/appicsappics-apx.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 47196.45791999999,
+"marketCapInUSD": 225127.10427839996,
+"tokenPriceInUSD": 0.04760459999999999,
+"volume24hUSD": 0.071073,
+"high24h": 0.04760459999999999,
+"low24h": 0.04760459999999999,
+"chain": "eos",
+"description": "The APX token is the currency of the APPICS platform, a social media app based on the EOS and STEEM blockchain. APX tokens can be used to participate in the reward-system to vote on content within the APPICS app and earn APX tokens for sharing, commenting and voting on content.",
+"descriptionCN": "APX代币是APPICS平台的货币，APPICS平台是基于EOS和STEEM区块链的社交媒体应用程序。 APX代币可用于参与奖励系统，对APPICS应用程序中的内容进行投票，对内容进行共享，评论和投票可获得APX代币。",
+"isDefiBox": false,
+"priceATH": "0.7500315",
+"priceATL": "0.0038595",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 61
+},
+{
+"tokenContract": "horustokenio",
+"tokenName": "HORUS",
+"tokenPriceInEOS": 0.000035,
+"supply": 1200000000,
+"maxSupply": 1200000000,
+"projectURL": "https://horuspay.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/horustokenio-horus.png",
+"percentChange24h": "6.06",
+"marketCapInEOS": 41999.99999999999,
+"marketCapInUSD": 200339.99999999994,
+"tokenPriceInUSD": 0.00016694999999999997,
+"volume24hUSD": 0,
+"high24h": 0.00016694999999999997,
+"low24h": 0.00016694999999999997,
+"chain": "eos",
+"description": "HorusPay is a decentralized Global Pay Portal using blockchain technology which allows global entities to exchange private, encrypted, secured data for international payroll vendors .Global payment is a common trouble issue for global enterprise. The current system is complex and flawed because it’s plagued by obscure laws and regulations, inefficient communications, and middlemen who strive to simplify global payroll, but complicate it further. When a company outsources payroll to a global payroll provider or middleman, enterprise often experiences four common problems：1）Low quality vendors with high fees；2）Inefficient, error-prone communications；3）Slow international transactions 4) Security concerns. Many global payroll providers have been hacked. Horuspay is devoted to solve problems above.",
+"descriptionCN": "Horuspay 是一个去中心化的全球薪资门户网站，通过使用区块链技术，允许全球薪酬供应商和企业（雇主）交换加密私人安全数据。全球薪酬是一个让企业头疼的问题。目前的系统复杂又有缺陷，因为它受到模糊的法律法规，低效沟通以及中间商（撮合两者）的影响。当企业将薪酬外包给薪酬供应商或中间商时，通常会遇到以下问题：1）高额费用找到低质量的供应商；2）沟通低效，容易出错；3）国际转账到账慢；4）安全顾虑，许多薪酬供应商曾被黑客攻击。Horuspay 致力解决以上问题。",
+"isDefiBox": false,
+"priceATH": "0.0008437",
+"priceATL": "0.00008204000000000001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 62
+},
+{
+"tokenContract": "krowndactokn",
+"tokenName": "KROWN",
+"tokenPriceInEOS": 0.0000123,
+"supply": 3321000000,
+"maxSupply": 3690000000,
+"projectURL": "https://dac.krown.club/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/krowndactokn-krown.png",
+"percentChange24h": "-5.38",
+"marketCapInEOS": 40848.3,
+"marketCapInUSD": 194846.391,
+"tokenPriceInUSD": 0.000058671,
+"volume24hUSD": 20.457576,
+"high24h": 0.00006200999999999998,
+"low24h": 0.000055332,
+"chain": "eos",
+"description": "KROWN DAC makes tools to activate communities. The KROWN DAC has been initiated to provide a set of equitable tools for community and product leaders as well as members within communities.",
+"descriptionCN": "KROWN DAC（Decentralized Autonomus Community，去中心化自主社区）作为一个全新的平台，旨在为社会注入活力，为大宗商品的行业领导者们乃至全社会提供公平且唾手可及的应用平台。",
+"isDefiBox": false,
+"priceATH": "0.000324415",
+"priceATL": "0.000023300000000000004",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 63
+},
+{
+"tokenContract": "pnt.ptokens",
+"tokenName": "PNT",
+"tokenPriceInEOS": 0.192,
+"supply": 199046,
+"maxSupply": 1000000000,
+"projectURL": "https://ptokens.io/",
+"tokenImage": "https://ndi.340wan.com/eos/pnt.ptokens-pnt.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 38216.832,
+"marketCapInUSD": 182294.28863999998,
+"tokenPriceInUSD": 0.91584,
+"volume24hUSD": 0,
+"high24h": 0.91584,
+"low24h": 0.91584,
+"chain": "eos",
+"description": "The pNetwork Token, or PNT, is the native utility and governance token in the network. PNT is used for staking, and also for utilities such as DAO voting, Eidoo Card, asset swaps, and DEX services. More at https://p.network/learn",
+"descriptionCN": "pNetwork代币PNT是网络中的本地使用和治理型代币。 PNT用于抵押，还用于DAO投票，Eidoo卡，资产兑换和DEX服务等。更多内容请参见https://p.network/learn",
+"isDefiBox": false,
+"priceATH": "5.550999999999999",
+"priceATL": "0.1315",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 64
+},
+{
+"tokenContract": "ltc.ptokens",
+"tokenName": "PLTC",
+"tokenPriceInEOS": 32.0001,
+"supply": 1177,
+"maxSupply": 84000000,
+"projectURL": "https://ptokens.io/",
+"tokenImage": "https://ndi.340wan.com/eos/ltc.ptokens-pltc.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 37664.1177,
+"marketCapInUSD": 179657.841429,
+"tokenPriceInUSD": 152.640477,
+"volume24hUSD": 0,
+"high24h": 152.640477,
+"low24h": 152.640477,
+"chain": "eos",
+"description": "pTokens LTC (pLTC) is a 1:1 pegged tokenised representation of Litecoin on the EOS blockchain. The pNetwork enables cross-chain composability via a transparent, frictionless and secure system linked to a variety of blockchain networks.",
+"descriptionCN": "pTokens LTC（pLTC）是EOS链上1：1锚定莱特币的代币。 pNetwork通过透明，无摩擦且安全的系统链接各个区块链网络，实现了跨链的可组合性。",
+"isDefiBox": false,
+"priceATH": "99.94",
+"priceATL": "100.13323",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 65
+},
+{
+"tokenContract": "iwedicetoken",
+"tokenName": "WE",
+"tokenPriceInEOS": "0.00173432469213662",
+"supply": 20000000,
+"maxSupply": 100000000,
+"projectURL": "https://wedice.one",
+"tokenImage": "https://ndi.340wan.com/eos/iwedicetoken-we.png",
+"percentChange24h": "0.81",
+"marketCapInEOS": 34686.4938427324,
+"marketCapInUSD": 165454.57562983353,
+"tokenPriceInUSD": 0.008272728781491677,
+"volume24hUSD": 0,
+"high24h": 0.008515534238390804,
+"low24h": 0.008081953065356648,
+"chain": "eos",
+"description": "WeDice is an innovative profit-sharing dice game that entitles each owner of a dice number to sharing profit derived from corresponding rolling dice bets.",
+"descriptionCN": "矿工利益最大化的领养骰子竞猜游戏。",
+"isDefiBox": true,
+"priceATH": "0.17684259924914128",
+"priceATL": "0.000005829609531823201",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 66
+},
+{
+"tokenContract": "gravyhftdefi",
+"tokenName": "GRV",
+"tokenPriceInEOS": 0.1602,
+"supply": 157864,
+"maxSupply": 1000000,
+"projectURL": "https://www.gravydefi.com/",
+"tokenImage": "https://ndi.340wan.com/eos/gravyhftdefi-grv.png",
+"percentChange24h": "-0.06",
+"marketCapInEOS": 25289.8128,
+"marketCapInUSD": 120632.40705599998,
+"tokenPriceInUSD": 0.764154,
+"volume24hUSD": 75.657924,
+"high24h": 0.7651079999999999,
+"low24h": 0.764154,
+"chain": "eos",
+"description": "The GRAVY DeFi Project is the most innovative project in the DeFi space. GRAVY is a high frequency trading (HFT) arbitrage strategy implemented on the EOS mainnet that mines for profitable trades. In order for GRAVY to mine the EOS mainnet for arbitrage opportunities it uses CPU resources to monitor the mainnet. GRAVY is powered by miners who are rewarded with GRV which is the protocol token for GRAVY. The GRV token can earn staking rewards which are paid out in EOS from arbitrage trading profits.   ",
+"descriptionCN": "GRAVY DeFi计划是DeFi空间中最具创新性的计划。GRAVY是一种在EOS主网络上实施的高频交易(HFT)套利策略，用于挖掘有利可图的交易。为了挖掘EOS主网络的套利机会，GRVY使用CPU资源对主网络进行监控。GRAVY由获得GRV奖励的矿工提供动力，GRV是GRAVY的协议代币。GRV代币可以从套利交易利润中获得在EOS中支付的立桩奖励。",
+"isDefiBox": false,
+"priceATH": "9.998912301711817",
+"priceATL": "0.5879340000000001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 67
+},
+{
+"tokenContract": "telosdacdrop",
+"tokenName": "TLOSDAC",
+"tokenPriceInEOS": 0.00067,
+"supply": 180000000,
+"maxSupply": 500000000,
+"projectURL": "https://telosdac.io/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/telosdacdrop-tlosdac.png",
+"percentChange24h": "4.69",
+"marketCapInEOS": 120600,
+"marketCapInUSD": 119926.59492599999,
+"tokenPriceInUSD": 0.0006662588607,
+"volume24hUSD": 0,
+"high24h": 0.0031958999999999998,
+"low24h": 0.0031958999999999998,
+"chain": "telos",
+"description": "TelosDAC is a community owned block producer on various EOSIO blockchains.  We are owned through an airdrop to the Telos community based on the original snapshot.  The TlosDAC token will be used by members to exercise their stake in the BP through custodian elections, support for worker proposals and project selection.   ",
+"descriptionCN": "TelosDAC是EOSIO区块链上拥有节点的社区。我们根据快照空投到Telos社区。会员将使用TlosDAC令牌通过托管在节点抵押，支持提议和项目选择。",
+"isDefiBox": false,
+"priceATH": "0.0027948462300000005",
+"priceATL": "0.0000094063176",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 68
+},
+{
+"tokenContract": "dbctokenmain",
+"tokenName": "DBC",
+"tokenPriceInEOS": "19.42263991600889739",
+"supply": 1000,
+"maxSupply": 1000,
+"projectURL": "https://dbc.yfc.one/",
+"tokenImage": "https://ndi.340wan.com/eos/dbctokenmain-dbc.png",
+"percentChange24h": "10013.64",
+"marketCapInEOS": 19422.6399160089,
+"marketCapInUSD": 92645.99239936244,
+"tokenPriceInUSD": 92.64599239936243,
+"volume24hUSD": 0,
+"high24h": 99.92472994495797,
+"low24h": 100.13643488128206,
+"chain": "eos",
+"description": "DBC Chinese Cabbage: 909 EMD mining accident commemorative token\nDue to there are many users from DFS in the loss user list.The neighborhood committee of DFS suggests to give some Chinese cabbage (DBC) to each victim.This is just to express DFS’s care for everyone.",
+"descriptionCN": "DBC 大白菜 : 909翡翠矿难纪念币\n由于亏损用户名单里，有很多来自大丰收农场的用户。大丰收农场居委会大妈建议，给每个受害者，发点大白菜慰问一波。仅以此表达大丰收农场对大家的关怀之心。",
+"isDefiBox": true,
+"priceATH": "994.121926754403",
+"priceATL": "0.7217346290399412",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 69
+},
+{
+"tokenContract": "pixeos1token",
+"tokenName": "PIXEOS",
+"tokenPriceInEOS": 0.0000074,
+"supply": 2547184442,
+"maxSupply": 3959505148,
+"projectURL": "https://pixeos.io/",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/pixeos1token-pixeos.png",
+"percentChange24h": "13.85",
+"marketCapInEOS": 18849.1648708,
+"marketCapInUSD": 89910.516433716,
+"tokenPriceInUSD": 0.000035298,
+"volume24hUSD": 0,
+"high24h": 0.000035298,
+"low24h": 0.000035298,
+"chain": "eos",
+"description": "Integral to the complex smart economy that runs beneath the surface of the pixEOS platform are PIXEOS Tokens.",
+"descriptionCN": "PIXEOS 代币是pixEOS平台下复合智能经济的整合体。",
+"isDefiBox": false,
+"priceATH": "0.000518035",
+"priceATL": "0.000002959",
+"contact": [
+{
+"telegram": " https://t.me/PIXEOS",
+"twitter": " https://twitter.com/eos_pix"
+}
+],
+"warning": [
+{}
+],
+"rank": 70
+},
+{
+"tokenContract": "iteosithbxmf",
+"tokenName": "ITB",
+"tokenPriceInEOS": "0.00001811378062618",
+"supply": 1000000000,
+"maxSupply": 10000000000,
+"projectURL": "https://www.mouse123.cn",
+"tokenImage": "https://ndi.340wan.com/eos/iteosithbxmf-itb.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 18113.78062618,
+"marketCapInUSD": 86402.73358687859,
+"tokenPriceInUSD": 0.0000864027335868786,
+"volume24hUSD": 0,
+"high24h": 0.00008893866287454381,
+"low24h": 0.0000844102177179988,
+"chain": "eos",
+"description": "ITB coin is the center of economic development under the future of mouse science and technology. It is a project developed by young people. It has the value of future regional ecology. ITB coin creates value at the beginning. ",
+"descriptionCN": "ITB币是小老鼠科技创立未来下经济开发为中心，是一项由年轻人开发出项目，有未来区域生态的价值的货币，ITB币的初心创造价值！",
+"isDefiBox": true,
+"priceATH": "0.0016002507977711336",
+"priceATL": "0.0000062364466867911",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 71
+},
+{
+"tokenContract": "dolphintoken",
+"tokenName": "DOP",
+"tokenPriceInEOS": 0.0066,
+"supply": 2630418,
+"maxSupply": 6000000,
+"projectURL": "https://dolphinswap.io/",
+"tokenImage": "https://ndi.340wan.com/eos/dolphintoken-dop.png",
+"percentChange24h": "-4.35",
+"marketCapInEOS": 17360.7588,
+"marketCapInUSD": 82810.81947599999,
+"tokenPriceInUSD": 0.031481999999999996,
+"volume24hUSD": 22.077468,
+"high24h": 0.03243599999999999,
+"low24h": 0.031481999999999996,
+"chain": "eos",
+"description": "DOP is the governance token of the DolphinSwap platform, which will be deeply bound to the DolphinSwap business. DOP tokens will not be raised or reserved. 100% is generated by mining, and 85% of the tokens generated by mining are awarded to participants and liquidity providers, 10% of DOP will be allocated to the developer fund for the long-term development of DolphinSwap, and 5% will be allocated to Diamond Vault to reward the funding provider of Diamond machine gun pool. Diamond will make a lot of linkage with DolphinSwap and will be an important part of the EFi ecology.",
+"descriptionCN": "DOP是DolphinSwap平台的管理代币，它将与DolphinSwap业务紧密结合。DOP代币不做众筹或保留。100％挖矿产生，挖矿产生的代币中有85％授予参与者和流动性提供者，DOP的10％将分配给长期开发DolphinSwap的开发者基金会，而5％将分配给Diamond Vault作为回馈，奖励Diamond机枪池的资金提供者。钻石将与DolphinSwap产生众多关联，并将成为EFi生态的重要组成部分。",
+"isDefiBox": false,
+"priceATH": "9.972285",
+"priceATL": "0.00936",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 72
+},
+{
+"tokenContract": "challengedac",
+"tokenName": "CHL",
+"tokenPriceInEOS": 0.0000117,
+"supply": 1388614803,
+"maxSupply": 1388614803,
+"projectURL": "http://challengedapp.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/challengedac-chl.png",
+"percentChange24h": "-29.09",
+"marketCapInEOS": 16246.7931951,
+"marketCapInUSD": 77497.20354062699,
+"tokenPriceInUSD": 0.000055808999999999994,
+"volume24hUSD": 0.049130999999999994,
+"high24h": 0.000078705,
+"low24h": 0.000055808999999999994,
+"chain": "eos",
+"description": "The challenge is a user-friendly blockchain App that allows users to create and fulfill geo-specific time-sensitive tasks for real blockchain rewards.\nA challenge is a selected place and time a player has to be in order to unlock the challenge and receive their EOS blockchain rewards.\nThe Challenge application uses geolocation on user’s smartphones to verify the requirements and reward winners.\nChallenge is free to download and first-time users will receive CHL tokens just for downloading. The app is currently downloadable in the apple\napp Store ",
+"descriptionCN": "Challenge是一个友好的区块链应用程序，允许用户创建和实现位置精确的精准时间任务，来实现真正的区块链奖励。为解锁Challenge并获得他们的EOS奖励，一个玩家必须选择一项Challenge上挑选的地点和时间。Challenge应用程序使用用户智能手机上的地理位置来确认要求并奖励获胜者。Challenge可以免费下载，初次使用的用户只需下载即可获得CHL代币。目前可在苹果商店中下载。",
+"isDefiBox": false,
+"priceATH": "0.00036176",
+"priceATL": "0.000018318",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 73
+},
+{
+"tokenContract": "link.ptokens",
+"tokenName": "PLINK",
+"tokenPriceInEOS": 9,
+"supply": 1747,
+"maxSupply": 1000000000,
+"projectURL": "https://ptokens.io/",
+"tokenImage": "https://ndi.340wan.com/eos/link.ptokens-plink.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 15723,
+"marketCapInUSD": 74998.70999999999,
+"tokenPriceInUSD": 42.92999999999999,
+"volume24hUSD": 0,
+"high24h": 42.92999999999999,
+"low24h": 42.92999999999999,
+"chain": "eos",
+"description": "pTokens LINK (pLINK) is a 1:1 pegged tokenised representation of LINK on the EOS blockchain. The pNetwork enables cross-chain composability via a transparent, frictionless and secure system linked to a variety of blockchain networks.",
+"descriptionCN": "pTokens LINK（LINK）是EOS链上1：1锚定LINK的代币。 pNetwork通过透明，无摩擦且安全的系统链接各个区块链网络，实现了跨链的可组合性。",
+"isDefiBox": false,
+"priceATH": "98.28",
+"priceATL": "10.01",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 74
+},
+{
+"tokenContract": "core.ogx",
+"tokenName": "OBTC",
+"tokenPriceInEOS": 5000,
+"supply": 3,
+"maxSupply": 3,
+"projectURL": "https://ogx.network",
+"tokenImage": "https://ndi.340wan.com/eos/core.ogx-obtc.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 15000,
+"marketCapInUSD": 71550,
+"tokenPriceInUSD": 23849.999999999996,
+"volume24hUSD": 0,
+"high24h": 23849.999999999996,
+"low24h": 23849.999999999996,
+"chain": "eos",
+"description": "OBTC is generated through the over-collateralization of basic token OGX in the Organix network protocol. The Organix network protocol uses an oracle to obtain the BTC spot price in mainstream Exchanges, so that the OBTC and BTC prices are always consistent.",
+"descriptionCN": "OBTC是通过Organix网络协议中基础通证OGX超额抵押铸造而来，Organix网络协议使用预言机获取主流交易所中BTC现货的价格，使OBTC和BTC价格始终保持一致。",
+"isDefiBox": false,
+"priceATH": "99720",
+"priceATL": "100520",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 75
+},
+{
+"tokenContract": "tbdtttbbbddd",
+"tokenName": "TBD",
+"tokenPriceInEOS": "0.00062705010983652",
+"supply": 21000000,
+"maxSupply": 21000000,
+"projectURL": "http://www.vwwiksf.cn/",
+"tokenImage": "https://ndi.340wan.com/eos/tbdtttbbbddd-tbd.png",
+"percentChange24h": "0.29",
+"marketCapInEOS": 13168.052306566919,
+"marketCapInUSD": 62811.609502324194,
+"tokenPriceInUSD": 0.0029910290239202,
+"volume24hUSD": 0,
+"high24h": 0.003078816039297313,
+"low24h": 0.002922053511838183,
+"chain": "eos",
+"description": "TBD（The Big  In July 2020, based on the decentralized blockchain application network, Beidou chain initiated the mining consensus mechanism on DAPP chain. In July 2020, only 21 million pieces were issued globally, of which 2 million were crowdfunding, 3 million were reserved for development and node reward, and the remaining 16 million pieces were completely dependent on the mining output of node mining, creating a TBD value network, and connecting with the actual application scenario of Beidou commercial, TBD (Beidou) Bucket chain is a new generation of token which can really generate profits and has continuous cash flow.     \"",
+"descriptionCN": "TBD（The Big Dipper）北斗链2020年7月基于去中心化的区块链应用网络，首创DAPP链上挖矿共识机制，2020年7月全球发行总量仅2100万枚，其中200万众筹，300万保留供开发及节点奖励，其余1600万枚完全依靠节点矿工挖矿产出，打造TBD价值网络，同时接通北斗商用实际应用场景，TBD（北斗链）是真正能够产生利润、有持续现金流的新一代通证。",
+"isDefiBox": true,
+"priceATH": "0.9866999999999999",
+"priceATL": "0.0000982472628783984",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 76
+},
+{
+"tokenContract": "muye11111111",
+"tokenName": "LDSR",
+"tokenPriceInEOS": 0.0000118,
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"projectURL": "http://ldsr.org.cn/",
+"tokenImage": "https://ndi.340wan.com/eos/muye11111111-ldsr.png",
+"percentChange24h": "-41.00",
+"marketCapInEOS": 11800,
+"marketCapInUSD": 56285.99999999999,
+"tokenPriceInUSD": 0.000056285999999999996,
+"volume24hUSD": 4.729455,
+"high24h": 0.00017648999999999999,
+"low24h": 0.000056285999999999996,
+"chain": "eos",
+"description": "LDSR token serves as dividend certificate of the entire ecosystem on Libra Chain.\nLDSR is committed to creating an ecological application blockchain project \"Built by everyone and shared by everyone\"!",
+"descriptionCN": "LDSR通证作为天秤链整个生态下的收益分红权益证明,生态收益根据LDSR百分百分红。\n致力于打造“人人共建、人人共享”的生态应用区块链项目！",
+"isDefiBox": false,
+"priceATH": "0.010377599999999999",
+"priceATL": "0.000033336",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 77
+},
+{
+"tokenContract": "eidosonecoin",
+"tokenName": "EIDOS",
+"tokenPriceInEOS": 0.0000118,
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"projectURL": "https://enumivo.org",
+"tokenImage": "https://ndi.340wan.com/eos/eidosonecoin-eidos.png",
+"percentChange24h": "-29.76",
+"marketCapInEOS": 11800,
+"marketCapInUSD": 56285.99999999999,
+"tokenPriceInUSD": 0.000056285999999999996,
+"volume24hUSD": 0,
+"high24h": 0.000056285999999999996,
+"low24h": 0.000056285999999999996,
+"chain": "eos",
+"description": "EIDOS token is coming to EOS chain. 800M EIDOS out of 1,000M will be given for free on an airdrop that will run for about 15 months. Tokenize your free EOS CPU and NET instead of letting it go to waste. \nEIDOS airdrop miner, newbie can also get airdrop by script: \nHttps://tp-lab.tokenpocket.pro/eidos/index.html",
+"descriptionCN": "EIDOS 是一种与 EOS的 CPU 和带宽资源相转换的代币。目前在EOS的REX上，有大量EOS抵押，导致大量CPU与带宽资源闲置，EIDOS的出现是希望可以通过某种方式让这些闲置资源代币化，流通起来，缓解资源浪费。EIDOS 代币总量10亿，其中 8 亿会以空投形式发放，空投持续15个月。\nEIDOS空投矿机，小白也能脚本撸空投：\nhttps://tp-lab.tokenpocket.pro/eidos/index.html",
+"isDefiBox": false,
+"priceATH": "0.001270092",
+"priceATL": "0.000034087",
+"contact": [
+{
+"telegram": " https://t.me/EidosEOS",
+"twitter": " https://twitter.com/EnuMivo"
+}
+],
+"warning": [
+{}
+],
+"rank": 78
+},
+{
+"tokenContract": "mkr.ptokens",
+"tokenName": "PMKR",
+"tokenPriceInEOS": 625.0042,
+"supply": 17,
+"maxSupply": 1000000000,
+"projectURL": "https://ptokens.io/",
+"tokenImage": "https://ndi.340wan.com/eos/mkr.ptokens-pmkr.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 10625.071399999999,
+"marketCapInUSD": 50681.59057799999,
+"tokenPriceInUSD": 2981.2700339999997,
+"volume24hUSD": 0,
+"high24h": 2981.2700339999997,
+"low24h": 2981.2700339999997,
+"chain": "eos",
+"description": "pTokens MKR (pMKR) is a 1:1 pegged tokenised representation of MKR on the EOS blockchain. The pNetwork enables cross-chain composability via a transparent, frictionless and secure system linked to a variety of blockchain networks.",
+"descriptionCN": "pTokens MKR（pMKR）是EOS链上1：1锚定MKR的代币。 pNetwork通过透明，无摩擦且安全的系统链接各个区块链网络，实现了跨链的可组合性。",
+"isDefiBox": false,
+"priceATH": "9944.1",
+"priceATL": "10007.6",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 79
+},
+{
+"tokenContract": "frogfrogcoin",
+"tokenName": "FROG",
+"tokenPriceInEOS": "0.00001029710843399",
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"projectURL": "https://www.catchthefrog.com",
+"tokenImage": "https://ndi.340wan.com/eos/frogfrogcoin-frog.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 10297.10843399,
+"marketCapInUSD": 49117.2072301323,
+"tokenPriceInUSD": 0.000049117207230132296,
+"volume24hUSD": 0,
+"high24h": 0.000050558802410890905,
+"low24h": 0.00004798452530239341,
+"chain": "eos",
+"description": "The FROG token is the token to benefit users for playing CatchTheFrog and other DApps in the CatchTheFrog.com - space. During the period of distribution every single game will result in an instant payout of FROG. Users can stake FROG in order to benefit from 50% of the house profit.",
+"descriptionCN": "FROG令牌是一种使用户在catchftprog.com空间中玩catchftprog和其他dapp的令牌。在分配期间，每一个游戏都会导致立即支付FROG。用户可以购买FROG的股份，以从房屋利润的50%中获益。",
+"isDefiBox": true,
+"priceATH": "0.00034883739415175676",
+"priceATL": "0.000019395501027904003",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 80
+},
+{
+"tokenContract": "lord",
+"tokenName": "GEM",
+"tokenPriceInEOS": 0.0009,
+"supply": 50510805,
+"maxSupply": 500000000,
+"projectURL": "https://gemslab.io",
+"tokenImage": "https://ndi.340wan.com/telos/lord-gem.png",
+"percentChange24h": "-10.00",
+"marketCapInEOS": 45459.7245,
+"marketCapInUSD": 45205.886944934144,
+"tokenPriceInUSD": 0.0008949745889999999,
+"volume24hUSD": 0.0019842481612718996,
+"high24h": 0.00477,
+"low24h": 0.0035775,
+"chain": "telos",
+"description": "GEM is a utility token for all Gemslab games. Starting with Angry Warlord, you can use your GEM token to upgrade your players and buy new abilities in the game.",
+"descriptionCN": "GEM是所有Gemslab游戏的实用性代币。从Angry Warlord开始，您可以使用GEM代币升级玩家等级和购买游戏中的新功能。",
+"isDefiBox": false,
+"priceATH": "0.0034896769511",
+"priceATL": "0.000019231520000000002",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 81
+},
+{
+"tokenContract": "metpacktoken",
+"tokenName": "MPT",
+"tokenPriceInEOS": 0.00000688,
+"supply": 1243062901,
+"maxSupply": 1800000000,
+"projectURL": "http://www.metpacktoken.org",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/metpacktoken-mpt.png",
+"percentChange24h": "-31.20",
+"marketCapInEOS": 8552.27275888,
+"marketCapInUSD": 40794.3410598576,
+"tokenPriceInUSD": 0.000032817599999999996,
+"volume24hUSD": 0,
+"high24h": 0.000032817599999999996,
+"low24h": 0.000032817599999999996,
+"chain": "eos",
+"description": "MPT aims to revolutionize the metal packaging supply chain, by making it more cost-effective, eliminating or reducing the economic advantages of other less recyclable packaging materials.",
+"descriptionCN": "MPT旨在改革金属包装供应链，使其更具成本效益，消除或减少其他不可回收包装材料的经济优势。",
+"isDefiBox": false,
+"priceATH": "0.00037272",
+"priceATL": "0.0000028",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 82
+},
+{
+"tokenContract": "trybenetwork",
+"tokenName": "TRYBE",
+"tokenPriceInEOS": 0.00000826,
+"supply": 1000000000,
+"maxSupply": 2000000000,
+"projectURL": "https://trybe.one",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/trybenetwork-trybe.png",
+"percentChange24h": "-88.23",
+"marketCapInEOS": 8260,
+"marketCapInUSD": 39400.2,
+"tokenPriceInUSD": 0.000039400199999999996,
+"volume24hUSD": 0,
+"high24h": 0.000039400199999999996,
+"low24h": 0.000039400199999999996,
+"chain": "eos",
+"description": "TRYBE is the community's tokens knowledge sharing network. You can educate, learn, or socialize on any of these fields, such as encrypting assets, developing, starting a business, or marketing, and get paid for your contributions.",
+"descriptionCN": "TRYBE是社区的代币化知识共享网络。可以在上面进行与加密资产、开发、创业或市场行销等有关的任何事情上进行教育、学习或社交，并为您的贡献获得报酬。",
+"isDefiBox": false,
+"priceATH": "0.0005552733",
+"priceATL": "0.0000016371",
+"contact": [
+{
+"telegram": " https://t.me/joinchat/Hxm9sw07YSmPfvgb4J2_Pg",
+"twitter": " https://twitter.com/trybe_social"
+}
+],
+"warning": [
+{}
+],
+"rank": 83
+},
+{
+"tokenContract": "ethsidechain",
+"tokenName": "EETH",
+"tokenPriceInEOS": "0.00000143303479232",
+"supply": 5012000001,
+"maxSupply": 10000000000,
+"projectURL": "http://anyos.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/ethsidechain-eeth.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 7182.370380540875,
+"marketCapInUSD": 34259.90671517997,
+"tokenPriceInUSD": 0.000006835575959366399,
+"volume24hUSD": 0,
+"high24h": 0.0000070362008302912,
+"low24h": 0.000006677942132211201,
+"chain": "eos",
+"description": "EOS side chain, realize EOS ecology and ether square ecology interworking.",
+"descriptionCN": "EOS侧链，实现EOS生态和以太坊生态互通。",
+"isDefiBox": true,
+"priceATH": "0.0000205783796177152",
+"priceATL": "0.0000031803256128114004",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 84
+},
+{
+"tokenContract": "eosreeltoken",
+"tokenName": "ER",
+"tokenPriceInEOS": "0.00003824215350892",
+"supply": 186915329,
+"maxSupply": 5000000000,
+"projectURL": "https://eosreel.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/eosreeltoken-er.png",
+"percentChange24h": "0.02",
+"marketCapInEOS": 7148.044704788287,
+"marketCapInUSD": 34096.17324184013,
+"tokenPriceInUSD": 0.0001824150722375484,
+"volume24hUSD": 0,
+"high24h": 0.00018776897372879721,
+"low24h": 0.00017820843535156723,
+"chain": "eos",
+"description": "EOSreel Game token.",
+"descriptionCN": "EOSreel 游戏通证。",
+"isDefiBox": true,
+"priceATH": "0.0030499999999999998",
+"priceATL": "0.0000014895761893272002",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 85
+},
+{
+"tokenContract": "eosiopowcoin",
+"tokenName": "POW",
+"tokenPriceInEOS": 0.00126,
+"supply": 5028650,
+"maxSupply": 21000000,
+"projectURL": "https://www.eospow.org",
+"tokenImage": "https://ndi.340wan.com/eos/eosiopowcoin-pow.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 6336.099,
+"marketCapInUSD": 30223.192229999997,
+"tokenPriceInUSD": 0.006010199999999999,
+"volume24hUSD": 21.711132,
+"high24h": 0.006010199999999999,
+"low24h": 0.006010199999999999,
+"chain": "eos",
+"description": "“POW” is a completely decentralized, trustless, open-source project without a developer allocation. Every single “POW” has been or will need to be mined. No “POW” were given free or pre-mined. “POW” uses the exact same minting schedule as Bitcoin and also uses dynamic difficulty to incentivize miners. The “POW” contract is keyless and is therefore immutable. Only 21 million POW will ever be minted. ",
+"descriptionCN": "“ POW”是一个完全去中心化的开源项目，无需开发人员。 每个“ POW”都需要被挖掘， “POW”不可免费或预先挖掘。 “ POW”使用与比特币完全相同的铸造时间表，还用动态来激励矿工。 “ POW”合约是无密钥的，因此是不可变的。 只有2100万POW将被铸造。",
+"isDefiBox": false,
+"priceATH": "0.08357830000000001",
+"priceATL": "0.00318",
+"contact": [
+{
+"telegram": " https://t.me/eospowcommunity"
+}
+],
+"warning": [
+{}
+],
+"rank": 86
+},
+{
+"tokenContract": "svxmintofeos",
+"tokenName": "SVX",
+"tokenPriceInEOS": 0.0000372,
+"supply": 169286895,
+"maxSupply": 333333333,
+"projectURL": "https://sovdex.github.io/sovdexbeta/",
+"tokenImage": "https://ndi.340wan.com/eos/svxmintofeos-svx.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 6297.472494000001,
+"marketCapInUSD": 30038.94379638,
+"tokenPriceInUSD": 0.000177444,
+"volume24hUSD": 2.4870779999999995,
+"high24h": 0.000177444,
+"low24h": 0.000177444,
+"chain": "eos",
+"description": "SVX is the native utility token of SOVDEX, a new algorithmic exchange offering instant liquidity, and 11 SOV trading pairs.  You earn SVX by burn mining or trade mining on SOVDEX.  SVX can be staked for up to 75% off trading fees on SOVDEX and up to a 50% mining effeciency bonus.  The SOVDEX team will also be adding more utility and unique trading products in the future including SVX leasing.      ",
+"descriptionCN": "SVX是SOVDEX的本机实用程序令牌，SOVDEX是一种提供即时流动性的新算法交易所，具有11个SOV交易对。您可以通过在SOVDEX上进行挖矿或交易挖矿来赚取SVX。 SVX可以在SOVDEX上获得高达75％的交易费折扣，以及高达50％的采矿效率红利。 SOVDEX团队还将在将来增加更多实用程序和独特的交易产品，包括SVX租赁。",
+"isDefiBox": false,
+"priceATH": "0.00269",
+"priceATL": "0.00008228",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 87
+},
+{
+"tokenContract": "consortiumlv",
+"tokenName": "GOVRN",
+"tokenPriceInEOS": 0.0000321,
+"supply": 185330941,
+"maxSupply": 350000000,
+"projectURL": "https://consortium.live",
+"tokenImage": "https://ndi.340wan.com/eos/consortiumlv-govrn.png",
+"percentChange24h": "372.06",
+"marketCapInEOS": 5949.1232061,
+"marketCapInUSD": 28377.317693096997,
+"tokenPriceInUSD": 0.00015311699999999998,
+"volume24hUSD": 0.04817699999999999,
+"high24h": 0.00015311699999999998,
+"low24h": 0.000032436,
+"chain": "eos",
+"description": "GOVRN token will be used in DAC governance and will be sole utility token of Consortium dApp moving forward. ",
+"descriptionCN": "GOVRN代币将用于DAC治理中，并将成为Consortium dApp向前发展的唯一实用代币。",
+"isDefiBox": false,
+"priceATH": "0.000566973",
+"priceATL": "0.0000071519999999999995",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 88
+},
+{
+"tokenContract": "dapplinkseos",
+"tokenName": "DLX",
+"tokenPriceInEOS": "0.00000218681455698",
+"supply": 2012656148,
+"maxSupply": 10000000000,
+"projectURL": "https://www.dapplinks.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/dapplinkseos-dlx.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 4401.305762641693,
+"marketCapInUSD": 20994.228487800872,
+"tokenPriceInUSD": 0.000010431105436794599,
+"volume24hUSD": 0,
+"high24h": 0.000010737259474771798,
+"low24h": 0.0000101905558355268,
+"chain": "eos",
+"description": "Refine the Blockchain Ecosystem and advance an all-win cooperation.The circular business model ensures a close connection among Dapp developers, various Media, and Dapp users.",
+"descriptionCN": "支持多链的去中心化应用赋能平台,基于跨多链区块链智能合约技术的基础上，DApplinks利用DAppLinks SDK及DAppLinks Browser 与去中心化钱包相结合，赋能各流量渠道，将为DApp市场带来颠覆性改变。",
+"isDefiBox": true,
+"priceATH": "0.00018507000000000002",
+"priceATL": "0.000002815544127396",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 89
+},
+{
+"tokenContract": "stablecoin.z",
+"tokenName": "EZAR",
+"tokenPriceInEOS": 0.07,
+"supply": 254360,
+"maxSupply": 1000000000000,
+"projectURL": "https://ezar.co.za",
+"tokenImage": "https://ndi.340wan.com/telos/stablecoin.z-ezar.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 17805.2,
+"marketCapInUSD": 17705.779502292,
+"tokenPriceInUSD": 0.0696091347,
+"volume24hUSD": 0,
+"high24h": 0.3339,
+"low24h": 0.3339,
+"chain": "telos",
+"description": "EZAR is a full reserve backed South African Rand backed stable coin running on the Telos blockchain. It was created to provide a simple pathway from South African Rand to Telos and Telos tokens. It serves as the fiat onramp / offramp for Telos blockchain projects in Southern Africa and may be used in combination with other tokens in cross border transferrs.",
+"descriptionCN": "EZAR是运行在Telos链上的全储备式南非兰特支持的稳定币。创建它是为了提供从南非兰特到Telos和Telos代币的简单途径。它可以用作在南部非洲的Telos链项目的法币，并可以与跨境传送中的其他代币结合使用。",
+"isDefiBox": false,
+"priceATH": "0.5468074140220001",
+"priceATL": "0.026998498019999997",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 90
+},
+{
+"tokenContract": "fastecoadmin",
+"tokenName": "FAST",
+"tokenPriceInEOS": "0.00000171420391163",
+"supply": 1816774867,
+"maxSupply": 4228821091,
+"projectURL": "https://www.superhero.fasteco.io",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/fastecoadmin-fast.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 3114.322583562473,
+"marketCapInUSD": 14855.318723592995,
+"tokenPriceInUSD": 0.000008176752658475098,
+"volume24hUSD": 0,
+"high24h": 0.0000083918362038234,
+"low24h": 0.0000079992568710354,
+"chain": "eos",
+"description": "FASTWIN platform is an online guessing platform based on EOS.IO block chain technology. Players do not need to use personal information registration, and make bets through the encrypted currency EOS to ensure privacy.",
+"descriptionCN": "FASTWIN平台是基于EOS.IO区块链技术开发的[区块链+金融]在线竞猜平台，玩家无需使用个人信息注册，通过加密货币EOS进行投注，隐私性得以保障。",
+"isDefiBox": true,
+"priceATH": "0.000071",
+"priceATL": "0.000003836",
+"contact": [
+{
+"telegram": " https://t.me/fastwineos",
+"twitter": " https://twitter.com/FastECO2019"
+}
+],
+"warning": [
+{}
+],
+"rank": 91
+},
+{
+"tokenContract": "weedcashntwk",
+"tokenName": "WEED",
+"tokenPriceInEOS": "0.00264820199224060",
+"supply": 1124614,
+"maxSupply": 420000000,
+"projectURL": " https://weedcash.network/",
+"tokenImage": "https://ndi.340wan.com/eos/weedcashntwk-weed.png",
+"percentChange24h": "1.23",
+"marketCapInEOS": 2978.2050353016703,
+"marketCapInUSD": 14206.038018388967,
+"tokenPriceInUSD": 0.012631923502987662,
+"volume24hUSD": 0,
+"high24h": 0.013002671781901348,
+"low24h": 0.012340621283841197,
+"chain": "eos",
+"description": "WeedCash is a Steem-Engine and EOSIO token for cannabis enthusiasts with a robust blockchain social media DAPP and distributed legalization technology utilizing multiple DPOS chains and tipit.io social media cryptocurrency software for mass media penetration. Weedcash was the first token to have Steem-Engine.com's SCOTbot system and EOS WEED tokens can be deposited for WEEDCASH SCOT token on Steem-Engine.com",
+"descriptionCN": "WeedCash是Steem-Engine和EOSIO代币，具有强大的区块链社交媒体DAPP和分布式合法化技术，该技术利用多个DPOS链和tipit.io社交媒体加密货币软件进行大众媒体渗透。 Weedcash是第一个启用Steem-Engine.com的SCOTbot系统的代币。",
+"isDefiBox": true,
+"priceATH": "0.11628",
+"priceATL": "0.006534",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 92
+},
+{
+"tokenContract": "lmtokenowner",
+"tokenName": "LMC",
+"tokenPriceInEOS": "0.00001738467511497",
+"supply": 150364367,
+"maxSupply": 1000000000,
+"projectURL": "http://luckyminer.one/",
+"tokenImage": "https://ndi.340wan.com/eos/lmtokenowner-lmc.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 2614.035669163116,
+"marketCapInUSD": 12468.950141908063,
+"tokenPriceInUSD": 0.00008292490029840689,
+"volume24hUSD": 0,
+"high24h": 0.0000853587548145027,
+"low24h": 0.00008101258603576019,
+"chain": "eos",
+"description": "Lucky Miner platform Token, generated by the platform game, play game is mining, LMC has Lucky Miner dividend rights, permanent and effective, the platform pledges and regular dividends. With the expansion of the platform, the dividend rights do not change, LMC is Lucky Miner Platform equity.",
+"descriptionCN": "Lucky Miner平台Token，由用户游戏中产生，游戏即挖矿，LMC拥有Lucky Miner分红权利，永久有效，平台质押后定期分红，随着平台的扩大，分红权利不发生变动，LMC即Lucky Miner平台股权。",
+"isDefiBox": true,
+"priceATH": "0.0011250400000000001",
+"priceATL": "0.0000006600259082857999",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 93
+},
+{
+"tokenContract": "hbgdefitoken",
+"tokenName": "HBG",
+"tokenPriceInEOS": "0.00126129342459554",
+"supply": 1862823,
+"maxSupply": 5000000,
+"projectURL": "https://hbg.finance/",
+"tokenImage": "https://ndi.340wan.com/eos/hbgdefitoken-hbg.png",
+"percentChange24h": "0.59",
+"marketCapInEOS": 2349.566401085338,
+"marketCapInUSD": 11207.431733177062,
+"tokenPriceInUSD": 0.006016369635320725,
+"volume24hUSD": 0,
+"high24h": 0.006192950714764102,
+"low24h": 0.005877627358615217,
+"chain": "eos",
+"description": "Hamburger Finance (hereinafter referred to as hbg.finance) is committed to using blockchain technology to build a decentralized financial system with symmetric information, fair transactions and no trust costs. In the traditional financial field, information is asymmetric. Big whales continuously suck the funds of ordinary financial participants through opaque transactions. In traditional lending, various P2Ps continue to fail, and the security of funds cannot be guaranteed. Blockchain technology has brought new revolution to traditional finance, and hbg.finance will build a completely decentralized financial network without trust costs; code is the law, and all information is open and transparent. Therefore, we can create reliable currencies, implement fair transactions, and conduct secure and trustworthy lending, so that everyone in the world can enjoy this new financial system, which is hbg.finance. EOS's first aggregation + transaction DeFi platform.",
+"descriptionCN": "Hamburger Finance(以下简称为hbg.finance) 致力于使用区块链技术构建一个信息对称、交易公平、 不需信任成本的去中心化金融体系。 在传统金融领域中信息是不对称的，大庄家通过不透明的交易不断的蚕⻝普通金融参与者的资金，在传统借贷中，各种P2P不断爆雷，资金安全无法得到保障。区块链技术为传统的金融带来了新的革命，而 hbg.finance将建立一个完全去中心化的金融网络，无需信任成本、代码即法律、所有信息都是公开和透明的。因此我们可以创造出可靠的货币、实现公平的交易、进行无需信任的安全借贷，让世界上每个人都可以享受这种新的金融体系，这就是hbg.finance。 EOS首个聚合+交易DeFi平台。",
+"isDefiBox": true,
+"priceATH": "1.2961",
+"priceATL": "0.004813892650435125",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 94
+},
+{
+"tokenContract": "sqrlwalletio",
+"tokenName": "SQRL",
+"tokenPriceInEOS": 0.00005,
+"supply": 221471161,
+"maxSupply": 355208371,
+"projectURL": "https://sqrlwallet.io",
+"tokenImage": "https://ndi.340wan.com/telos/sqrlwalletio-sqrl.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 11073.55805,
+"marketCapInUSD": 11011.72562729599,
+"tokenPriceInUSD": 0.0000497208105,
+"volume24hUSD": 0,
+"high24h": 0.0002385,
+"low24h": 0.0002385,
+"chain": "telos",
+"description": "The SQRL token provides free CPU and NET to Telos users, as well as VIP status for consuming (or purchasing) various quantities of SQRL tokens within the wallet.",
+"descriptionCN": "SQRL代币为Telos用户提供免费的CPU和NET以及VIP状态，以便在钱包内消耗（或购买）多种数量的SQRL代币。",
+"isDefiBox": false,
+"priceATH": "0.0009338729400000002",
+"priceATL": "0.0000031188276000000003",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 95
+},
+{
+"tokenContract": "revelation21",
+"tokenName": "HEART",
+"tokenPriceInEOS": 0.005,
+"supply": 1603299,
+"maxSupply": 2100000000,
+"projectURL": "https://steemit.com/@steemchurch",
+"tokenImage": "https://ndi.340wan.com/telos/revelation21-heart.png",
+"percentChange24h": "-16.67",
+"marketCapInEOS": 8016.495,
+"marketCapInUSD": 7971.73257538395,
+"tokenPriceInUSD": 0.0049720810499999995,
+"volume24hUSD": 0,
+"high24h": 0.02385,
+"low24h": 0.02385,
+"chain": "telos",
+"description": "The Beatitude Heart is the blessing of SteemChurch and a symbol of freedom. Those who do carry the seal shall drink daily from the heart spring, though all may share in the blessings. The poor in spirit, the mourners, the meek, the righteous, the merciful, the pure and the peacemakers are all encouraged to partake, exchange and rejoice. For where your treasure is, there your heart will be also.",
+"descriptionCN": "Beatitude Heart是Steem教堂的祝福，是自由的象征。那些带着印章的人每天都要饮用心泉，所有人都可以分享祝福。精神上的穷人，哀悼者，温柔的人，正义的人，仁慈的人，纯洁的人和热爱和平的人，都鼓励他们去分享，交流和获得欢乐。对于你的宝藏所在的地方，你的心也会在哪里。",
+"isDefiBox": false,
+"priceATH": "0.05826011040000001",
+"priceATL": "0.0008559801036000001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 96
+},
+{
+"tokenContract": "felixtokenio",
+"tokenName": "FLX",
+"tokenPriceInEOS": "0.00000130530073342",
+"supply": 1189000100,
+"maxSupply": 10000000000,
+"projectURL": "https://felixball.io",
+"tokenImage": "https://ndi.340wan.com/eos/felixtokenio-flx.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 1552.0027025664533,
+"marketCapInUSD": 7403.052891241981,
+"tokenPriceInUSD": 0.0000062262844984134,
+"volume24hUSD": 0,
+"high24h": 0.0000064090266010922014,
+"low24h": 0.0000060827014177372005,
+"chain": "eos",
+"description": "Felix promotes profit sharing, fairness and justice.\n80% of the platform's daily income will be transferred to the dividend pool, and players who stake FLX tokens can share 3% of the accumulated dividend everyday.",
+"descriptionCN": "Felix提倡利润共享、公平公正。\n平台每日收益的80%将转至分红池中，持有FLX代币的玩家可每日共享分红池中的3%。",
+"isDefiBox": true,
+"priceATH": "0.0203756",
+"priceATL": "0.0000056258461610402",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 97
+},
+{
+"tokenContract": "tobetiotoken",
+"tokenName": "TOB",
+"tokenPriceInEOS": "0.00000064021946543",
+"supply": 2359504840,
+"maxSupply": 10000000000,
+"projectURL": "https://tobet.one",
+"tokenImage": "https://ndi.340wan.com/eos/tobetiotoken-tob.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 1510.6009273442976,
+"marketCapInUSD": 7205.5664234322985,
+"tokenPriceInUSD": 0.0000030538468501010995,
+"volume24hUSD": 0,
+"high24h": 0.0000031434775752613,
+"low24h": 0.0000029834227089038,
+"chain": "eos",
+"description": "Gaming game platform based on EOS blockchain",
+"descriptionCN": "基于EOS的游戏平台。",
+"isDefiBox": true,
+"priceATH": "0.0000451805959873294",
+"priceATL": "0.0000000226509578304",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 98
+},
+{
+"tokenContract": "freeamttoken",
+"tokenName": "AMT",
+"tokenPriceInEOS": 0.0000014,
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"projectURL": "https://enumivo.org",
+"tokenImage": "https://ndi.340wan.com/eos/freeamttoken-amt.png",
+"percentChange24h": "5.26",
+"marketCapInEOS": 1400,
+"marketCapInUSD": 6677.999999999999,
+"tokenPriceInUSD": 0.000006677999999999999,
+"volume24hUSD": 0.18459899999999999,
+"high24h": 0.000006677999999999999,
+"low24h": 0.000006344099999999999,
+"chain": "eos",
+"description": "AMT token is an anti mining token, it competes with cpu mining on EOS chain buy encouraging you to stake your EOS into REX. Every second 18 AMT are minted to an airdrop pool and 2 AMT are given to the EIDOS team. You can get your share of the mining pool by sending any EOS to airdroptorex and you will get AMT received = (pool) x (your rex) / (total rex). You will also instantly get your EOS back. You can only claim after 24 hours you last claimed.",
+"descriptionCN": "AMT代币是一种反挖矿代币，它与EOS链上的cpu挖矿竞争，鼓励您将EOS抵押到REX池中。每秒有18个AMT被挖到一个空投池中，其中2个AMT分配给EIDOS团队。您可以通过将任意EOS发送到airdroptorex来获得矿池的份额，并且您收到的AMT =（池中）x（您的REX）/（总的REX），您还将立即获得返还的EOS。您只能在上次领取的24小时后领取。",
+"isDefiBox": false,
+"priceATH": "0.0005502",
+"priceATL": "0.0000058995",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 99
+},
+{
+"tokenContract": "okkkkkkkkkkk",
+"tokenName": "YT",
+"tokenPriceInEOS": "0.00000068896877409",
+"supply": 2000000000,
+"maxSupply": 2000000000,
+"projectURL": "https://yt.tongsa.live/mobile/passport/reg?invite=QZLXMY",
+"tokenImage": "https://monitor.api.eosasia.one/public/icons/okkkkkkkkkkk-yt.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 1377.93754818,
+"marketCapInUSD": 6572.762104818599,
+"tokenPriceInUSD": 0.0000032863810524092997,
+"volume24hUSD": 0,
+"high24h": 0.0000033828366807818996,
+"low24h": 0.0000032105944872594003,
+"chain": "eos",
+"description": "\nYT card began in October 2017, experienced a number of application switching, is currently operating a game \"eight Jun Tu \", pet nurturance point-to-point trading, revenue accumulation, later will be more applications, so that YT value to get more cash.",
+"descriptionCN": "YT通证始于2017年10月，经历多个应用切换，目前正在运营一款游戏《八骏图》，宠物养成点对点交易，收益累计，后期还会出更多应用，让YT价值得到更多提现。",
+"isDefiBox": true,
+"priceATH": "0.0000272688",
+"priceATL": "0.00000017409074047050002",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 100
+},
+{
+"tokenContract": "setcontracts",
+"tokenName": "SET",
+"tokenPriceInEOS": "0.00007300681403944",
+"supply": 16000000,
+"maxSupply": 1000000000,
+"projectURL": "http://dappv2.adset.xyz",
+"tokenImage": "https://ndi.340wan.com/eos/setcontracts-set.png",
+"percentChange24h": "0.03",
+"marketCapInEOS": 1168.1090246310398,
+"marketCapInUSD": 5571.880047490059,
+"tokenPriceInUSD": 0.00034824250296812875,
+"volume24hUSD": 0,
+"high24h": 0.00035846345693365037,
+"low24h": 0.00034021175342379036,
+"chain": "eos",
+"description": "SET is a digital advertising DAPP based on blockchain technology, which has the advantages of relatively decentralized, non-tamperable, transparent and open blockchain technology. It solves the common problems of fraud, behavior tracking, and disclosure of user privacy in the traditional advertising industry. SET's goal is to advertise easily on the blockchain area and become the digital advertising platform with the highest conversion rate in the industry. At the same time, SET is also a digital asset investment strategy platform. Users can pay SET token to follow and copy investment portfolios and strategies released by professional traders, and they can also earn SET token by sharing their own investment portfolios and strategies.",
+"descriptionCN": "SET是基于区块链技术的数字广告DAPP，拥有相对的去中心化、不可篡改、透明公开等区块链技术的优点。解决传统广告业中常见的欺诈、行为追踪、泄露用户隐私的问题。SET目标是让链圈币圈没有难投放的广告，做业内转化率最高的数字广告平台。同时SET也是数字资产投资策略平台，用户可以通过花费SET通证来关注和复制专业交易者发布的投资组合和策略，也可通过分享自己的投资组合及策略来赚取SET通证。",
+"isDefiBox": true,
+"priceATH": "0.051706199999999994",
+"priceATL": "0.0000003714919956696",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 101
+},
+{
+"tokenContract": "woolfintoken",
+"tokenName": "WOOL",
+"tokenPriceInEOS": "0.00071722152791304",
+"supply": 1550000,
+"maxSupply": 3000000,
+"projectURL": "https://wool.finance/",
+"tokenImage": "https://ndi.340wan.com/eos/woolfintoken-wool.png",
+"percentChange24h": "0.33",
+"marketCapInEOS": 1111.693368265212,
+"marketCapInUSD": 5302.7773666250605,
+"tokenPriceInUSD": 0.0034211466881452005,
+"volume24hUSD": 0,
+"high24h": 0.003521557702053026,
+"low24h": 0.0033422523200747666,
+"chain": "eos",
+"description": "WOOL will be distributed in the spirit of BTC and YFI: no pre-mine, no founder, no VC interests, no tricks.",
+"descriptionCN": "WOOL 将以致敬BTC及YFI的方式进行分发，没有预挖，没有创始人，没有VC，没有任何套路。",
+"isDefiBox": true,
+"priceATH": "1.4740000000000002",
+"priceATL": "0.0011624167964183606",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 102
+},
+{
+"tokenContract": "issue.newdex",
+"tokenName": "ETH",
+"tokenPriceInEOS": "1073.89719743621958514",
+"supply": 1,
+"maxSupply": 1000000,
+"projectURL": "https://ethereum.org/",
+"tokenImage": "https://ndi.340wan.com/eos/eth_usdt.png",
+"percentChange24h": "500436.09",
+"marketCapInEOS": 1073.8971974362196,
+"marketCapInUSD": 5122.489631770767,
+"tokenPriceInUSD": 5122.489631770767,
+"volume24hUSD": 0,
+"high24h": 5272.835239411839,
+"low24h": 5004.360940052782,
+"chain": "eos",
+"description": "The Ethereum white paper was released by Vitalik Buterin in late 2013 after proposals to include a scripting language to enable decentralized applications (dApps) on the Bitcoin blockchain failed to gain traction. Ether is the native currency of the Ethereum blockchain and is used to compensate nodes for performing computations in the Turing-complete instruction set of the Ethereum Virtual Machine (EVM). These instructions form the backbone of smart contracts and digital asset ownership which are recorded and issued upon the Ethereum blockchain. \n\nThe development and governance of Ethereum relies upon the use of open-source Ethereum Improvement Proposals (EIPs) whereby developers and the wider public can submit proposals to improve or change standards to the Ethereum platform. These proposals can affect all aspects of the Ethereum ecosystem, from core code changes and ERC token standards through to public informational resources. \n\nInterestingly, the current Ethereum (ETH) blockchain is a fork of the original Ethereum chain after a flaw in the DAO smart contract resulted in the theft of around 3.5 million ETH in 2016. The proposal to reverse the theft was approved by 97% of stakeholders, which resulted in a hard fork with Ethereum (ETH) blockchain reversing the theft, whilst the Ethereum Classic (ETC) chain continued unchanged from the original (preserving the concept of immutability of blockchains). ",
+"descriptionCN": "以太坊是一个以区块链为基础的，开源的公开的分布式计算平台，运行拥有智能合约（脚本）的系统。它通过以状态转换为基础的程序执行单元来支持一个改良过的中本聪共识版本。\n\n以太币是加密货币，它的区块链是由以太坊生成。以太币用来奖励那些贡献算力的矿工。以太坊提供了一个去中心化的图灵完备的虚拟机器，以太虚拟机（EVM）可以利用一个国际网络执行脚本。Gas是一个内部的交易定价机制，可以减少垃圾邮件以及在网络上实现资源配置。",
+"isDefiBox": true,
+"priceATH": "854.53488403691",
+"priceATL": "11842.375455650059",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 103
+},
+{
+"tokenContract": "baccaratoken",
+"tokenName": "BAP",
+"tokenPriceInEOS": "0.00000599639057263",
+"supply": 100000000,
+"maxSupply": 999999999,
+"projectURL": "https://www.bap.bet/home",
+"tokenImage": "https://ndi.340wan.com/eos/baccaratoken-bap.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 599.639057263,
+"marketCapInUSD": 2860.27830314451,
+"tokenPriceInUSD": 0.0000286027830314451,
+"volume24hUSD": 0,
+"high24h": 0.000029442277711613302,
+"low24h": 0.000027943180068455802,
+"chain": "eos",
+"description": "Redefine the meaning of professional poker gaming platform in the blockchain world.",
+"descriptionCN": "EOS平台最专业，制作最精良的游戏平台Poker Pro。",
+"isDefiBox": true,
+"priceATH": "0.027814951501894197",
+"priceATL": "0.00000030041091859980004",
+"contact": [
+{
+"telegram": " https://t.me/eospokerpro",
+"twitter": " https://twitter.com/pokerprotwt"
+}
+],
+"warning": [
+{}
+],
+"rank": 104
+},
+{
+"tokenContract": "telokandaone",
+"tokenName": "KANDA",
+"tokenPriceInEOS": 0.00019,
+"supply": 14824037,
+"maxSupply": 1000000000,
+"projectURL": "https://telokanda.com",
+"tokenImage": "https://ndi.340wan.com/telos/telokandaone-kanda.png",
+"percentChange24h": "-85.38",
+"marketCapInEOS": 2816.56703,
+"marketCapInUSD": 2800.8399111835565,
+"tokenPriceInUSD": 0.0001889390799,
+"volume24hUSD": 0,
+"high24h": 0.0009063,
+"low24h": 0.0009063,
+"chain": "telos",
+"description": "Telokanda is a Telos Smart Contract + EOSIO + Steem based social advertising platform where users can buy &amp; sell ads and get rewarded for taking actions on other user’s ads using Discord Telegram Twitter and other social media blockchain bots and tools. Telos Peg + SQRL &amp; Newdex Telos Trading zone Listing coming Soon.",
+"descriptionCN": "Telokanda是基于Telos智能合约+ EOSIO + Steem的社交广告平台，用户可以使用Discord Telegram Twitter和其他社交媒体区块链机器人和工具买卖广告，并因对其他用户的广告采取行动而获得奖励。 Telos Peg + SQRL和Newdex Telos交易区即将上市。",
+"isDefiBox": false,
+"priceATH": "0.0628326",
+"priceATL": "0.0000075",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 105
+},
+{
+"tokenContract": "linzongsheng",
+"tokenName": "TEA",
+"tokenPriceInEOS": "0.00000039938659063",
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"projectURL": "http://www.zzwhfz.com",
+"tokenImage": "https://ndi.340wan.com/eos/linzongsheng-tea.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 399.38659063,
+"marketCapInUSD": 1905.0740373050999,
+"tokenPriceInUSD": 0.0000019050740373051,
+"volume24hUSD": 0,
+"high24h": 0.0000019609881599933,
+"low24h": 0.0000018611415123358,
+"chain": "eos",
+"description": "TEA is a tea pass card issued on the basis of block chain 3.0 EOS main network. It is committed to building a new tea lover ecosystem. On-line small program Mall can use TEA to pay, off-line plans to share resources with a number of tea chain brands with more than 100 entity stores nationwide, joining the TEA ecological super node, the future purse holders of TEA will enjoy TEA tea cultural ecosphere of rights and interests, enjoy the services of the TEA super node!",
+"descriptionCN": "TEA是基于区块链3.0 EOS主网发行的茶叶通证，致力于构建茶行业茶友新生态。在线上小程序微商城可以用TEA支付，线下计划跟拥有全国100家以上实体店的多家茶叶连锁品牌洽谈资源权益共享，加入TEA生态超级节点，未来钱包持有TEA的人将享有TEA茶文化生态圈的各项权益，享受TEA超级节点的各项服务！",
+"isDefiBox": true,
+"priceATH": "0.0000068533599593067",
+"priceATL": "0.000000001524079347",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 106
+},
+{
+"tokenContract": "efraimeosdev",
+"tokenName": "CRG",
+"tokenPriceInEOS": "0.00000819589851508",
+"supply": 42500000,
+"maxSupply": 800000000,
+"projectURL": "http://charityalfa.io",
+"tokenImage": "https://ndi.340wan.com/eos/efraimeosdev-crg.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 348.3256868909,
+"marketCapInUSD": 1661.5135264695928,
+"tokenPriceInUSD": 0.000039094435916931596,
+"volume24hUSD": 0,
+"high24h": 0.00004024186170904281,
+"low24h": 0.0000381928870802728,
+"chain": "eos",
+"description": "The aim of Charity Alfa is to provide a charity system to the world, which is based on the modern tehcnology called blockchain, and connect the needy with donators and investors.\nWe would like to ensure that the investors make a profitable donation so that it will be attractive for them to donate regurarly.\nTo give a tool that brings to life a new concept, called the Investment Charity based on the CRG Token.\nThe aim of Charity Alfa is to provide a charity system to the world, which is based on the modern tehcnology called blockchain, and connect the needy with donators and investors.\nWe would like to ensure that the investors make a profitable donation so that it will be attractive for them to donate regurarly.\nTo give a tool that brings to life a new concept, called the Investment Charity based on the CRG Token.\n",
+"descriptionCN": "Charity Alfa 的目的是给全世界提供一种使用现代化区块链技术把贫困者和捐赠者和\n投资者连在一起的捐助和投资用具。它给投资者提供有利可图的捐赠方式 让捐助\n更具有吸引力。\n提供的这个用具引发了一个新的概念，这就是捐助投资，它的基础就是CRG替代货\n币。",
+"isDefiBox": true,
+"priceATH": "0.000255248",
+"priceATL": "0.00001023481279818",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 107
+},
+{
+"tokenContract": "ramupthemoon",
+"tokenName": "RUTM",
+"tokenPriceInEOS": "0.00095983331675085",
+"supply": 349339,
+"maxSupply": 100000000,
+"projectURL": "https://github.com/baromjon/ramupthemoon",
+"tokenImage": "https://ndi.340wan.com/eos/ramupthemoon-rutm.png",
+"percentChange24h": "0.45",
+"marketCapInEOS": 335.3072110404252,
+"marketCapInUSD": 1599.4153966628282,
+"tokenPriceInUSD": 0.004578404920901554,
+"volume24hUSD": 0,
+"high24h": 0.004712781585246674,
+"low24h": 0.004472823256058961,
+"chain": "eos",
+"description": null,
+"descriptionCN": "EOS账户向EOS RAM挖矿合约地址ramupthemoon发送0.0001个RUTM，它将立即发送1.0001个RUTM代币给您，完成一次挖矿，每次挖矿都会生成1个新的RUTM代币。0.25 RUTM将发送到合约发布帐户，同时发起转账帐户将占用1KB RAM，占用的1KB RAM可以回收。",
+"isDefiBox": true,
+"priceATH": "0.05669746683408857",
+"priceATL": "0.00026469056333030644",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 108
+},
+{
+"tokenContract": "core.ogx",
+"tokenName": "OETH",
+"tokenPriceInEOS": 300,
+"supply": 1,
+"maxSupply": 1,
+"projectURL": "https://ogx.network",
+"tokenImage": "https://ndi.340wan.com/eos/core.ogx-oeth.png",
+"percentChange24h": "-55.56",
+"marketCapInEOS": 300,
+"marketCapInUSD": 1430.9999999999998,
+"tokenPriceInUSD": 1430.9999999999998,
+"volume24hUSD": 0,
+"high24h": 1430.9999999999998,
+"low24h": 1430.9999999999998,
+"chain": "eos",
+"description": "OETH is generated through the over-collateralization of basic token OGX in the Organix network protocol. The Organix network protocol uses an oracle to obtain the ETH spot price in mainstream Exchanges, so that the OETH and ETH prices are always consistent.",
+"descriptionCN": "OETH是通过Organix网络协议中基础通证OGX超额抵押铸造而来，Organix网络协议使用预言机获取主流交易所中ETH现货的价格，使OETH和ETH价格始终保持一致。",
+"isDefiBox": false,
+"priceATH": "9993.57",
+"priceATL": "1000",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 109
+},
+{
+"tokenContract": "eoswramtoken",
+"tokenName": "WRAM",
+"tokenPriceInEOS": "0.00118803067652698",
+"supply": 252194,
+"maxSupply": 10000000000,
+"projectURL": "https://crl.finance/wram",
+"tokenImage": "https://ndi.340wan.com/eos/eoswramtoken-wram.png",
+"percentChange24h": "0.55",
+"marketCapInEOS": 299.61420843604515,
+"marketCapInUSD": 1429.1597742399351,
+"tokenPriceInUSD": 0.005666906327033694,
+"volume24hUSD": 0,
+"high24h": 0.005833230621747471,
+"low24h": 0.005536222952615726,
+"chain": "eos",
+"description": "Using EOS to buy RAM and mint wRAM, you can burn wRAM at any time and sell RAM in swap for EOS. For every RAM transaction, the EOS system will charge 0.5% fee. Minting wRAM will charge additional 0.5% fee.",
+"descriptionCN": "使用EOS购买RAM并铸造wRAM币，可随时销毁wRAM币卖出RAM换回EOS，每一笔RAM的买卖，EOS系统都将收取0.5%的手续费。铸造wRAM将额外收取0.5%的手续费。",
+"isDefiBox": true,
+"priceATH": "4.139058599999999",
+"priceATL": "0.0018019999999999998",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 110
+},
+{
+"tokenContract": "gemtokencode",
+"tokenName": "GEM",
+"tokenPriceInEOS": "0.01110648090926688",
+"supply": 24424,
+"maxSupply": 30000,
+"projectURL": "http://gemswap.network",
+"tokenImage": "https://ndi.340wan.com/eos/gemtokencode-gem.png",
+"percentChange24h": "5.18",
+"marketCapInEOS": 271.2646897279343,
+"marketCapInUSD": 1293.9325700022464,
+"tokenPriceInUSD": 0.05297791393720302,
+"volume24hUSD": 0,
+"high24h": 0.05453282126450039,
+"low24h": 0.05175620103718367,
+"chain": "eos",
+"description": "GEM is a social experiment based on EOS DeFi. Its goal is EOS's YFI, no pre-mining, no IEO and no team reservations, relying on community and secure smart contract entirely. We hope to promote EOS ecological development via GEM.",
+"descriptionCN": "宝石GEM是一个基于EOS Defi建設的社会实验，其定位是EOS的YFI，零预挖，零私募，零团队预留，完全依靠社区与安全的智能合约。我们希望通过宝石(GEM)推动EOS生态发展。",
+"isDefiBox": true,
+"priceATH": "95.249492",
+"priceATL": "0.03455838182416505",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 111
+},
+{
+"tokenContract": "rabbitstoken",
+"tokenName": "RAB",
+"tokenPriceInEOS": "0.00965151669003749",
+"supply": 20316,
+"maxSupply": 21000,
+"projectURL": "https://www.rabbits.finance",
+"tokenImage": "https://ndi.340wan.com/eos/rabbitstoken-rab.png",
+"percentChange24h": "4.50",
+"marketCapInEOS": 196.08021307480163,
+"marketCapInUSD": 935.3026163668037,
+"tokenPriceInUSD": 0.04603773461147882,
+"volume24hUSD": 0,
+"high24h": 0.04738894694808408,
+"low24h": 0.0449760677755747,
+"chain": "eos",
+"description": "The first Yield Farm to adopt TVI mode on EOS，No founders，No vc，equality for everone.",
+"descriptionCN": "第一个在EOS上采用TVI模式的良品农场，没有创始人，没有vc，人人平等。",
+"isDefiBox": true,
+"priceATH": "9.967968",
+"priceATL": "0.019329000000000002",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 112
+},
+{
+"tokenContract": "playnwingems",
+"tokenName": "GEM",
+"tokenPriceInEOS": "0.00019641698921362",
+"supply": 605529,
+"maxSupply": 100000000,
+"projectURL": "https://gemslab.io",
+"tokenImage": "https://ndi.340wan.com/eos/playnwingems-gem.png",
+"percentChange24h": "0.09",
+"marketCapInEOS": 118.9361830615341,
+"marketCapInUSD": 567.3255932035175,
+"tokenPriceInUSD": 0.0009369090385489673,
+"volume24hUSD": 0,
+"high24h": 0.0009644074170388742,
+"low24h": 0.0009153031697354692,
+"chain": "eos",
+"description": "GEM is a utility token for all Gemslab games. Starting with Angry Warlord, you can use your GEM token to upgrade your players and buy new abilities in the game.",
+"descriptionCN": "GEM是所有Gemslab游戏的使用代币。从Angry Warlord开始，您可以使用GEM代币升级玩家等级和购买游戏中的新功能。",
+"isDefiBox": true,
+"priceATH": "0.0345582",
+"priceATL": "0.00047030523569976696",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 113
+},
+{
+"tokenContract": "defindinvest",
+"tokenName": "DEFI",
+"tokenPriceInEOS": "0.00000034766071314",
+"supply": 334201488,
+"maxSupply": 9907305517,
+"projectURL": "https://defind.io",
+"tokenImage": "https://ndi.340wan.com/eos/defindinvest-defi.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 116.18872765052916,
+"marketCapInUSD": 554.220230893024,
+"tokenPriceInUSD": 0.0000016583416016777999,
+"volume24hUSD": 0,
+"high24h": 0.0000017070141015174,
+"low24h": 0.0000016200989232324002,
+"chain": "eos",
+"description": "DeFind is a dividend game based on EOS. DEFI has officially opened the lock-up benefit. Lock-up users can exchange a certain amount of DEFI every week for EOS at 0.0015EOS, depending on the lock-up amount, participation website: h5.defind.io",
+"descriptionCN": "DeFind是基于EOS的分红游戏，DEFI已正式开启锁仓福利，锁仓用户每周都能将一定数量的DEFI，按每个0.0015EOS直接兑换成EOS，具体数量取决于锁仓量，参与地址：h5.defind.io",
+"isDefiBox": true,
+"priceATH": "0.1506497985639318",
+"priceATL": "0.0000000070582449786",
+"contact": [
+{
+"telegram": " https://t.me/defind"
+}
+],
+"warning": [
+{}
+],
+"rank": 114
+},
+{
+"tokenContract": "mooncaktoken",
+"tokenName": "YMC",
+"tokenPriceInEOS": "0.00257857056174693",
+"supply": 30000,
+"maxSupply": 30000,
+"projectURL": "http://mooncake.network/",
+"tokenImage": "https://ndi.340wan.com/eos/mooncaktoken-ymc.png",
+"percentChange24h": "1.20",
+"marketCapInEOS": 77.3571168524079,
+"marketCapInUSD": 368.99344738598563,
+"tokenPriceInUSD": 0.012299781579532855,
+"volume24hUSD": 0,
+"high24h": 0.012660781458177426,
+"low24h": 0.012016138817740694,
+"chain": "eos",
+"description": "Mooncake is a social experiment based on EOS DeFi. By providing swap liquidity mining, no pre-mining, no private sale and no reservation, we hope to promote the ecological development of EOS through Mooncake's globalized and aggregated DeFi architecture.",
+"descriptionCN": "月饼Mooncake是一个基于EOS Defi建设的社会实验，通过提供swap流通性挖矿，团队零预挖，零私募，零预留，我们希望通过Mooncake全域化聚合型DeFi架构推动EOS生态发展。",
+"isDefiBox": true,
+"priceATH": "9.107999999999999",
+"priceATL": "0.002428194743866284",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 115
+},
+{
+"tokenContract": "coralfitoken",
+"tokenName": "CRL",
+"tokenPriceInEOS": "0.00336507831092393",
+"supply": 22347,
+"maxSupply": 30000,
+"projectURL": " https://crl.finance/",
+"tokenImage": "https://ndi.340wan.com/eos/coralfitoken-crl.png",
+"percentChange24h": "1.57",
+"marketCapInEOS": 75.19940501421706,
+"marketCapInUSD": 358.70116191781534,
+"tokenPriceInUSD": 0.016051423543107145,
+"volume24hUSD": 0,
+"high24h": 0.016522534506636495,
+"low24h": 0.015681264928905515,
+"chain": "eos",
+"description": "CRL will be released in the form of Bitcoin and YFI: no founders, no investors, no pre-mining, no additional issuance and equal among all users. Developers simply love DeFi and programming, and want to make their own contributions to the ecology, because I firmly believe and hope that everyone believes, that EOS is the best battlefield for DeFi.",
+"descriptionCN": "珊瑚将以比特币和YFI的形式发放: 没有创始人，没有投资人，没有预挖，没有增发，全民平等。开发者只是单纯的热爱Defi也热爱编程，想为生态做出自己的微薄贡献，因为我坚信也希望让大家都相信EOS才是Defi的最佳战场。",
+"isDefiBox": true,
+"priceATH": "99.97775300000002",
+"priceATL": "0.009595966502031626",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 116
+},
+{
+"tokenContract": "eosbuttonbtn",
+"tokenName": "BTN",
+"tokenPriceInEOS": "0.00000002215527598",
+"supply": 3000000000,
+"maxSupply": 3000000000,
+"projectURL": "https://eosbutton.io",
+"tokenImage": "https://ndi.340wan.com/eos/eosbuttonbtn-btn.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 66.46582794,
+"marketCapInUSD": 317.04199927379995,
+"tokenPriceInUSD": 1.056806664246e-7,
+"volume24hUSD": 0,
+"high24h": 1.0878240506180001e-7,
+"low24h": 1.0324358606680001e-7,
+"chain": "eos",
+"description": "BTN inspired by The Button's block chain games.",
+"descriptionCN": "BTN灵感源自The Button的区块链游戏。",
+"isDefiBox": true,
+"priceATH": "0.000008597365851545999",
+"priceATL": "0.0000000007111767312",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 117
+},
+{
+"tokenContract": "milktokencde",
+"tokenName": "MILK",
+"tokenPriceInEOS": "0.00004120491147579",
+"supply": 660215,
+"maxSupply": 3000000,
+"projectURL": "https://cows.network/",
+"tokenImage": "https://ndi.340wan.com/eos/milktokencde-milk.png",
+"percentChange24h": "0.02",
+"marketCapInEOS": 27.204100629988694,
+"marketCapInUSD": 129.76356000504606,
+"tokenPriceInUSD": 0.00019654742773951827,
+"volume24hUSD": 0,
+"high24h": 0.00020231611534612893,
+"low24h": 0.00019201488747718143,
+"chain": "eos",
+"description": "MILK is a liquidity mining project on EOS. It has been audited by the security company, and the private key has been signed with BPs and famous wallets. The project has no pre-mining, no IEO and no VC investment, and it is a community-based project.",
+"descriptionCN": "MILK是EOS上的流动性挖矿项目COW养奶牛产出的，已经通过了安全公司的安全审计，私钥已经多签给超级节点和著名钱包。项目没有预挖，没有私募，没有VC投资，是社区型项目。",
+"isDefiBox": true,
+"priceATH": "9.544710640436607",
+"priceATL": "0.00012483613820717522",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 118
+},
+{
+"tokenContract": "cowtokencode",
+"tokenName": "COW",
+"tokenPriceInEOS": "0.00005847895382109",
+"supply": 293389,
+"maxSupply": 300000,
+"projectURL": "https://cows.network/",
+"tokenImage": "https://ndi.340wan.com/eos/cowtokencode-cow.png",
+"percentChange24h": "0.03",
+"marketCapInEOS": 17.157081782615773,
+"marketCapInUSD": 81.83928010307723,
+"tokenPriceInUSD": 0.0002789446097265993,
+"volume24hUSD": 0,
+"high24h": 0.0002871316632615519,
+"low24h": 0.00027251192480627943,
+"chain": "eos",
+"description": "COW is a liquidity mining project on EOS. It has been audited by the security company, and the private key has been signed with BPs and famous wallets. The project has no pre-mining, no IEO and no VC investment, and it is a community-based project.",
+"descriptionCN": "COW是EOS上的流动性挖矿项目，已经通过了安全公司的安全审计，私钥已经多签给超级节点和著名钱包。项目没有预挖，没有私募，没有VC投资，是社区型项目。",
+"isDefiBox": true,
+"priceATH": "8.578142344392893",
+"priceATL": "0.00019456538918544004",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 119
+},
+{
+"tokenContract": "issue.newdex",
+"tokenName": "LGBTQ",
+"tokenPriceInEOS": "0.00000462572471185",
+"supply": 1225636,
+"maxSupply": 1000000000,
+"projectURL": "https://www.lgbtqnetwork.space",
+"tokenImage": "https://ndi.340wan.com/eos/issue.newdex-lgbtq.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 5.669454732932986,
+"marketCapInUSD": 27.043299076090342,
+"tokenPriceInUSD": 0.0000220647068755245,
+"volume24hUSD": 0,
+"high24h": 0.000022712308335183502,
+"low24h": 0.000021555877157221003,
+"chain": "eos",
+"description": "Social networking dating app with support for LGBTQ users from around the world.",
+"descriptionCN": "社交网络约会应用程序，支持来自世界各地的LGBTQ用户。",
+"isDefiBox": true,
+"priceATH": "0.016291160407230294",
+"priceATL": "0.0000017539434216634001",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 120
+},
+{
+"tokenContract": "yupyupxtoken",
+"tokenName": "YUPX",
+"tokenPriceInEOS": "0.00918760914838577",
+"supply": "0",
+"maxSupply": "0",
+"projectURL": "https://yup.io",
+"tokenImage": "https://ndi.340wan.com/eos/yupyupxtoken-yupx.png",
+"percentChange24h": "4.28",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 0.04382489563780012,
+"volume24hUSD": 0,
+"high24h": 0.04511116091857414,
+"low24h": 0.04281425863147769,
+"chain": "eos",
+"description": "Yup rewards valuable opinions across the web. Rate anything, earn rewards for accuracy, and gain status in topics that interest you. It integrates with every site and platform, providing a universal influence metric.\nIt does this by interacting with the Yup Protocol, which is a decentralized semi-autonomous social consensus protocol that determines the rewards and social value of all content based on users’ interactions with it.",
+"descriptionCN": "Yup会在网络上奖励一些有价值的建议。对任何内容进行评分，因准确性获得奖励，获得您感兴趣的话题的关注。它与每个站点和平台融合，提供了一个通用的影响力指标。它通过与Yup协议进行互动来实现这一目标，Yup协议是一种去中心化的半自治社会共识协议，该协议根据用户与之的互动来确定所有内容的奖励和社会价值。",
+"isDefiBox": true,
+"priceATH": "0.13193406737081964",
+"priceATL": "0.004596121916694653",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 121
+},
+{
+"tokenContract": "ridlridlcoin",
+"tokenName": "RIDL",
+"tokenPriceInEOS": "0.00001074103475628",
+"supply": 750000000,
+"maxSupply": 1500000000,
+"projectURL": "https://get-scatter.com",
+"tokenImage": "https://ndi.340wan.com/eos/ridlridlcoin-ridl.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 8055.77606721,
+"marketCapInUSD": 38426.051840591696,
+"tokenPriceInUSD": 0.00005123473578745559,
+"volume24hUSD": 0,
+"high24h": 0.0000527384806533348,
+"low24h": 0.0000500532219642648,
+"chain": "eos",
+"description": "Scatter is an EOS digital asset storage tool.",
+"descriptionCN": "Scatter是一款EOS数字资产储存工具。",
+"isDefiBox": true,
+"priceATH": "0.0006440352284225277",
+"priceATL": "0.0000026891795755712997",
+"contact": [
+{}
+],
+"warning": [
+{}
+],
+"rank": 122
+},
+6745194511.019876,
+{
+"tokenContract": "elliottkelly",
+"tokenName": "DOWN",
+"tokenPriceInEOS": "0.42381816933704419",
+"supply": 100000000,
+"maxSupply": 100000000,
+"tokenImage": "https://ndi.340wan.com/eos/elliottkelly-down.png",
+"percentChange24h": "193.97",
+"marketCapInEOS": 42381816.93370442,
+"marketCapInUSD": 202161266.77377006,
+"tokenPriceInUSD": 2.0216126677377004,
+"volume24hUSD": 0,
+"high24h": 3.0542207429210655,
+"low24h": 1.9397033408248159,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "3.0542207429210655",
+"priceATL": "0.9330452130804306",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "mboxexlbbnft",
+"tokenName": "BB",
+"tokenPriceInEOS": "0.26151681360020673",
+"supply": 100000000,
+"maxSupply": 100000000,
+"tokenImage": "https://ndi.340wan.com/eos/mboxexlbbnft-bb.png",
+"percentChange24h": "121.87",
+"marketCapInEOS": 26151681.360020675,
+"marketCapInUSD": 124743520.0872986,
+"tokenPriceInUSD": 1.247435200872986,
+"volume24hUSD": 0,
+"high24h": 1.2840475547770152,
+"low24h": 1.2186683513769634,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "4.045371798995742",
+"priceATL": "0.35101889926922825",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "gaimin14eosw",
+"tokenName": "GMRX",
+"tokenPriceInEOS": "0.00214685689063194",
+"supply": 5000000000,
+"maxSupply": 5000000000,
+"tokenImage": "https://ndi.340wan.com/eos/gaimin14eosw-gmrx.png",
+"percentChange24h": "0.94",
+"marketCapInEOS": 10734284.453159701,
+"marketCapInUSD": 51202536.84157177,
+"tokenPriceInUSD": 0.010240507368314354,
+"volume24hUSD": 0,
+"high24h": 0.010445284007875174,
+"low24h": 0.009376251331746292,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "2.2236000000000002",
+"priceATL": "0.00000009677793978",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "apx",
+"tokenName": "APX",
+"tokenPriceInEOS": 0.22213,
+"supply": 211544753,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/telos/apx-apx.png",
+"percentChange24h": "122.13",
+"marketCapInEOS": 46990435.98389,
+"marketCapInUSD": 46728051.25734751,
+"tokenPriceInUSD": 0.22088967272729998,
+"volume24hUSD": 0,
+"high24h": 1.0595601,
+"low24h": 1.0595601,
+"chain": "telos",
+"description": "The APX token is the currency of the APPICS platform, a social media dApp and NFT marketplace based on the EOS.IO blockchain. APX tokens can be earned through content creation  and participation in the reward-system, by voting on content within the app. APX tokens can be spent inside the app or the NFT marketplace, where you can also mint NFTs using the APX token. Furthermore, APX tokens can be staked in order to increase voting weight, which enables users to earn even more rewards. The APX token is under Swiss law an approved utility token.",
+"descriptionCN": "APX令牌是APPICS平台，社交媒体dApp和基于EOS.IO区块链的NFT市场的货币。通过对应用程序中的内容进行投票，可以通过内容创建和参与奖励系统来赚取APX令牌。 APX令牌可以在应用程序或NFT市场中消费，您也可以在其中使用APX令牌创建NFT。此外，可以放样APX令牌以增加投票权重，这使用户可以获得更多奖励。 APX令牌是受瑞士法律批准的公用事业令牌。",
+"isDefiBox": false,
+"priceATH": "164.193",
+"priceATL": "0.006597779655399999",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "pink.bank",
+"tokenName": "PKEY",
+"tokenPriceInEOS": "0.00007699456203523",
+"supply": 100000000000,
+"maxSupply": 100000000000,
+"tokenImage": "https://ndi.340wan.com/eos/pink.bank-pkey.png",
+"percentChange24h": "0.04",
+"marketCapInEOS": 7699456.203523001,
+"marketCapInUSD": 36726406.09080471,
+"tokenPriceInUSD": 0.00036726406090804706,
+"volume24hUSD": 0,
+"high24h": 0.00037804329959297933,
+"low24h": 0.00035879465908417185,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.022195674092111",
+"priceATL": "0.000039869598555358395",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "creosissuer1",
+"tokenName": "CR",
+"tokenPriceInEOS": "1.44997466358876181",
+"supply": 5000000,
+"maxSupply": 5000000,
+"tokenImage": "https://ndi.340wan.com/eos/creosissuer1-cr.png",
+"percentChange24h": "675.69",
+"marketCapInEOS": 7249873.317943809,
+"marketCapInUSD": 34581895.72659197,
+"tokenPriceInUSD": 6.916379145318393,
+"volume24hUSD": 0,
+"high24h": 7.119375598220821,
+"low24h": 6.75688193232363,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "9.990325432126568",
+"priceATL": "1.3754010163499777",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "jb2o3keeq.tp",
+"tokenName": "ORC",
+"tokenPriceInEOS": "0.00545464761409071",
+"supply": 880000000,
+"maxSupply": 880000000,
+"tokenImage": "https://ndi.340wan.com/eos/jb2o3keeq.tp-orc.png",
+"percentChange24h": "2.54",
+"marketCapInEOS": 4800089.900399825,
+"marketCapInUSD": 22896428.82490716,
+"tokenPriceInUSD": 0.026018669119212683,
+"volume24hUSD": 0,
+"high24h": 0.026782319785185384,
+"low24h": 0.02541865788166271,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.07832873973834259",
+"priceATL": "0.012109317703281377",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "whaleextoken",
+"tokenName": "WAL",
+"tokenPriceInEOS": "0.00041363079458835",
+"supply": 9840800162,
+"maxSupply": 10000000000,
+"tokenImage": "https://ndi.340wan.com/eos/whaleextoken-wal.png",
+"percentChange24h": "0.19",
+"marketCapInEOS": 4070457.9903932232,
+"marketCapInUSD": 19416084.614175674,
+"tokenPriceInUSD": 0.0019730188901864293,
+"volume24hUSD": 0,
+"high24h": 0.0020309272014287986,
+"low24h": 0.001927519502781711,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.02401204903543524",
+"priceATL": "0.000015931013550933",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "crytonsource",
+"tokenName": "CRYPAY",
+"tokenPriceInEOS": "0.00575626526376277",
+"supply": 553144000,
+"maxSupply": 1014378579143,
+"tokenImage": "https://ndi.340wan.com/eos/crytonsource-crypay.png",
+"percentChange24h": "2.74",
+"marketCapInEOS": 3184043.593058794,
+"marketCapInUSD": 15187887.938890446,
+"tokenPriceInUSD": 0.02745738530814841,
+"volume24hUSD": 0,
+"high24h": 0.02945160045888395,
+"low24h": 0.027399822655510785,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.14814895111524798",
+"priceATL": "0.014305234337114394",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "mltcontract1",
+"tokenName": "MLT",
+"tokenPriceInEOS": "0.01949500301054358",
+"supply": 150134603,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/mltcontract1-mlt.png",
+"percentChange24h": "9.20",
+"marketCapInEOS": 2926874.537471765,
+"marketCapInUSD": 13961191.54374032,
+"tokenPriceInUSD": 0.09299116436029287,
+"volume24hUSD": 0,
+"high24h": 0.10471635662276602,
+"low24h": 0.09202403279014724,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.3534610242976016",
+"priceATL": "0.05668869987052675",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "bbctokencode",
+"tokenName": "BBC",
+"tokenPriceInEOS": "0.00001642101298506",
+"supply": 100000000000,
+"maxSupply": 1000000000000,
+"tokenImage": "https://ndi.340wan.com/eos/bbctokencode-bbc.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 1642101.2985059998,
+"marketCapInUSD": 7832823.193873619,
+"tokenPriceInUSD": 0.00007832823193873619,
+"volume24hUSD": 0,
+"high24h": 0.0000806271737566446,
+"low24h": 0.00007652192051037959,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0003318847427943292",
+"priceATL": "0.0000528756618118932",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "zntzcontract",
+"tokenName": "ZNL",
+"tokenPriceInEOS": "0.00115021696193319",
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/zntzcontract-znl.png",
+"percentChange24h": "0.54",
+"marketCapInEOS": 1150216.96193319,
+"marketCapInUSD": 5486534.908421316,
+"tokenPriceInUSD": 0.005486534908421315,
+"volume24hUSD": 0,
+"high24h": 0.005647565283091963,
+"low24h": 0.005360011042608665,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.06361178992942383",
+"priceATL": "0.004422123527684403",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "pink.bank",
+"tokenName": "PINK",
+"tokenPriceInEOS": "0.00037410790969628",
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/pink.bank-pink.png",
+"percentChange24h": "0.18",
+"marketCapInEOS": 374107.90969627997,
+"marketCapInUSD": 1784494.7292512553,
+"tokenPriceInUSD": 0.0017844947292512555,
+"volume24hUSD": 0,
+"high24h": 0.0018385724815596822,
+"low24h": 0.0017695304128634045,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.00944399775881691",
+"priceATL": "0.000224317353984215",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "token.sx",
+"tokenName": "SXEOS",
+"tokenPriceInEOS": "0.000015590947941679865",
+"supply": 12828946004,
+"maxSupply": 461168601842739,
+"tokenImage": "https://ndi.340wan.com/eos/token.sx-sxeos.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": null,
+"marketCapInUSD": 954073.5977370829,
+"tokenPriceInUSD": 0.00007436882168181295,
+"volume24hUSD": 0,
+"high24h": 0.00007655155439364814,
+"low24h": 0.00007265381740822818,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0015483519322808403",
+"priceATL": "0.00004864375757804118",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "capitaltatch",
+"tokenName": "TCN",
+"tokenPriceInEOS": "0.12266208636662439",
+"supply": 441376,
+"maxSupply": 1000000,
+"tokenImage": "https://ndi.340wan.com/eos/capitaltatch-tcn.png",
+"percentChange24h": "57.47",
+"marketCapInEOS": 54140.1010321552,
+"marketCapInUSD": 258248.2819233803,
+"tokenPriceInUSD": 0.5850981519687982,
+"volume24hUSD": 0,
+"high24h": 0.595558373940837,
+"low24h": 0.5746824128563768,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "1.2676227602444043",
+"priceATL": "0.362033500001166",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "loveddbtc333",
+"tokenName": "NDEAD",
+"tokenPriceInEOS": "0.00730584264606200",
+"supply": 7000000,
+"maxSupply": 7000000,
+"tokenImage": "https://ndi.340wan.com/eos/loveddbtc333-ndead.png",
+"percentChange24h": "3.40",
+"marketCapInEOS": 51140.898522434,
+"marketCapInUSD": 243942.08595201015,
+"tokenPriceInUSD": 0.034848869421715736,
+"volume24hUSD": 0,
+"high24h": 0.04032938450967994,
+"low24h": 0.03404522673064892,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.2870944395526868",
+"priceATL": "0.022745908358544415",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "eoscccdotcom",
+"tokenName": "CCC",
+"tokenPriceInEOS": "0.00000366177828046",
+"supply": 9427342847,
+"maxSupply": 10000000000,
+"tokenImage": "https://ndi.340wan.com/eos/eoscccdotcom-ccc.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 34520.83927959454,
+"marketCapInUSD": 164664.40336366594,
+"tokenPriceInUSD": 0.000017466682397794198,
+"volume24hUSD": 0,
+"high24h": 0.0000179793313570586,
+"low24h": 0.000017063886786943603,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.00039471193087603414",
+"priceATL": "0.0000026909064355782",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "vigortoken11",
+"tokenName": "VIGOR",
+"tokenPriceInEOS": "0.21555692168827431",
+"supply": 148012,
+"maxSupply": 100000000000,
+"tokenImage": "https://ndi.340wan.com/eos/vigortoken11-vigor.png",
+"percentChange24h": "101.94",
+"marketCapInEOS": 31905.01109292486,
+"marketCapInUSD": 152186.90291325157,
+"tokenPriceInUSD": 1.0282065164530683,
+"volume24hUSD": 0,
+"high24h": 1.0397564117469766,
+"low24h": 1.019413144914429,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "1.175298407494508",
+"priceATL": "0.4948456648053909",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "nblocktokens",
+"tokenName": "NBL",
+"tokenPriceInEOS": "0.00000593514565751",
+"supply": 5000000000,
+"maxSupply": 500000000000,
+"tokenImage": "https://ndi.340wan.com/eos/nblocktokens-nbl.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 29675.728287550002,
+"marketCapInUSD": 141553.2239316135,
+"tokenPriceInUSD": 0.000028310644786322698,
+"volume24hUSD": 0,
+"high24h": 0.000029141565178374103,
+"low24h": 0.0000276577787639966,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0019475508113365912",
+"priceATL": "0.0000104789246017872",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "stardustbank",
+"tokenName": "GONE",
+"tokenPriceInEOS": "0.00120966992475059",
+"supply": 24191907,
+"maxSupply": 24191907,
+"tokenImage": "https://ndi.340wan.com/eos/stardustbank-gone.png",
+"percentChange24h": "0.56",
+"marketCapInEOS": 29264.22232026327,
+"marketCapInUSD": 139590.3404676558,
+"tokenPriceInUSD": 0.005770125541060314,
+"volume24hUSD": 0,
+"high24h": 0.005939479330525397,
+"low24h": 0.005637061849337749,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.01737086011941847",
+"priceATL": "0.00268546723294631",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "mqxblljn4syn",
+"tokenName": "SHIL",
+"tokenPriceInEOS": "0.00000021928664902",
+"supply": 105000000000,
+"maxSupply": 105000000000,
+"tokenImage": "https://ndi.340wan.com/eos/mqxblljn4syn-shil.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 23025.0981471,
+"marketCapInUSD": 109829.718161667,
+"tokenPriceInUSD": 0.0000010459973158253999,
+"volume24hUSD": 0,
+"high24h": 0.0000010672271826003,
+"low24h": 0.0000010128877130178,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0000034452860281696",
+"priceATL": "0.0000007016044234254",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "lrc.ptokens",
+"tokenName": "PLRC",
+"tokenPriceInEOS": "0.10150435365189556",
+"supply": 139285,
+"maxSupply": 1500000000,
+"tokenImage": "https://ndi.340wan.com/eos/lrc.ptokens-plrc.png",
+"percentChange24h": "47.30",
+"marketCapInEOS": 14138.033898404272,
+"marketCapInUSD": 67438.42169538837,
+"tokenPriceInUSD": 0.4841757669195418,
+"volume24hUSD": 0,
+"high24h": 0.4983863764308072,
+"low24h": 0.47301028801783324,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "3.310499011149646",
+"priceATL": "0.09975771087652875",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "usdcoinchain",
+"tokenName": "LIBRA",
+"tokenPriceInEOS": "0.00000114300405717",
+"supply": 10000000000,
+"maxSupply": 10000000000,
+"tokenImage": "https://ndi.340wan.com/eos/usdcoinchain-libra.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 11430.040571700001,
+"marketCapInUSD": 54521.293527009,
+"tokenPriceInUSD": 0.0000054521293527009,
+"volume24hUSD": 0,
+"high24h": 0.0000057186859676408,
+"low24h": 0.000005354913327955,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.00010259962606545421",
+"priceATL": "0.0000036360972943746",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "norsealexsam",
+"tokenName": "NAS",
+"tokenPriceInEOS": "0.00983584452975048",
+"supply": 1000000,
+"maxSupply": 1000000,
+"tokenImage": "https://ndi.340wan.com/eos/norsealexsam-nas.png",
+"percentChange24h": "4.58",
+"marketCapInEOS": 9835.844529750479,
+"marketCapInUSD": 46916.97840690978,
+"tokenPriceInUSD": 0.04691697840690978,
+"volume24hUSD": 0,
+"high24h": 0.048293996641074866,
+"low24h": 0.04583503550863723,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.13180709133055174",
+"priceATL": "0.011817555028463008",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "eoshubtokens",
+"tokenName": "HUB",
+"tokenPriceInEOS": 0.0064,
+"supply": 1251000,
+"maxSupply": 4000000,
+"projectURL": null,
+"tokenImage": "https://ndi.340wan.com/eos/eoshubtokens-hub.png",
+"percentChange24h": "14.29",
+"marketCapInEOS": 8006.400000000001,
+"marketCapInUSD": 38190.528,
+"tokenPriceInUSD": 0.030528,
+"volume24hUSD": 0,
+"high24h": 0.030528,
+"low24h": 0.030528,
+"chain": "eos",
+"description": "HUB is the token of eHUB network protocol. As a decentralized cross-chain asset protocol, the governance power belongs to the entire eHUB community. HUB is mainly used to govern the future development of eHUB network protocol.",
+"descriptionCN": "HUB是eHUB网络协议的代币，作为去中心化跨链资产协议，治理权属于整个eHUB社区，HUB代币主要用于治理eHUB网络协议的未来发展。",
+"isDefiBox": false,
+"priceATH": "2.25679",
+"priceATL": "0.018963999999999998",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "okkkkkkkkkkk",
+"tokenName": "BANANA",
+"tokenPriceInEOS": "0.00000846287296499",
+"supply": 777777777,
+"maxSupply": 777777777,
+"tokenImage": "https://ndi.340wan.com/eos/okkkkkkkkkkk-banana.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 6582.234521743321,
+"marketCapInUSD": 31397.25866871564,
+"tokenPriceInUSD": 0.0000403679040430023,
+"volume24hUSD": 0,
+"high24h": 0.0000415527062581009,
+"low24h": 0.000039436988016853404,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0001208782514866208",
+"priceATL": "0.0000162281465632458",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "grapetoken33",
+"tokenName": "GMT",
+"tokenPriceInEOS": "0.00107148595455881",
+"supply": 3007040,
+"maxSupply": 100000000,
+"tokenImage": "https://ndi.340wan.com/eos/grapetoken33-gmt.png",
+"percentChange24h": "0.50",
+"marketCapInEOS": 3222.0011247965244,
+"marketCapInUSD": 15368.94536527942,
+"tokenPriceInUSD": 0.005110988003245524,
+"volume24hUSD": 0,
+"high24h": 0.005260996036883757,
+"low24h": 0.004993124548244056,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "4.146579450896631",
+"priceATL": "0.003343036178223488",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "lorefreelfee",
+"tokenName": "LFEE",
+"tokenPriceInEOS": "0.00003545178750625",
+"supply": 75000000,
+"maxSupply": 100000000,
+"tokenImage": "https://ndi.340wan.com/eos/lorefreelfee-lfee.png",
+"percentChange24h": "0.02",
+"marketCapInEOS": 2658.8840629687497,
+"marketCapInUSD": 12682.876980360936,
+"tokenPriceInUSD": 0.0001691050264048125,
+"volume24hUSD": 0,
+"high24h": 0.0001740682766556875,
+"low24h": 0.000165205329779125,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.1838879244279704",
+"priceATL": "0.00000043401296243460006",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "nblabtokenss",
+"tokenName": "SLT",
+"tokenPriceInEOS": "0.00005343080111392",
+"supply": 46345000,
+"maxSupply": 100000000000000,
+"tokenImage": "https://ndi.340wan.com/eos/nblabtokenss-slt.png",
+"percentChange24h": "0.02",
+"marketCapInEOS": 2476.2504776246224,
+"marketCapInUSD": 11811.714778269448,
+"tokenPriceInUSD": 0.0002548649213133984,
+"volume24hUSD": 0,
+"high24h": 0.0002675787821309488,
+"low24h": 0.0002489875331908672,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.005894434891355346",
+"priceATL": "0.000124530163216672",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "aircoin.eos",
+"tokenName": "AC",
+"tokenPriceInEOS": "0.00000221571879448",
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/aircoin.eos-ac.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 2215.71879448,
+"marketCapInUSD": 10568.978649669598,
+"tokenPriceInUSD": 0.0000105689786496696,
+"volume24hUSD": 0,
+"high24h": 0.0000108791792808968,
+"low24h": 0.0000103252495822768,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.5182849936948298",
+"priceATL": "0.000000737986554756",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "pink.bank",
+"tokenName": "TIIP",
+"tokenPriceInEOS": "0.00000000021107936",
+"supply": 10000000000000,
+"maxSupply": 10000000000000,
+"tokenImage": "https://ndi.340wan.com/eos/pink.bank-tiip.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 2110.7936,
+"marketCapInUSD": 10068.485471999998,
+"tokenPriceInUSD": 1.0068485471999999e-9,
+"volume24hUSD": 0,
+"high24h": 1.1209686138e-9,
+"low24h": 9.836298176e-10,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0000029126411555205",
+"priceATL": "0.0000000000005203602",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "yfieos.do",
+"tokenName": "YFIII",
+"tokenPriceInEOS": "0.00150123897605055",
+"supply": 1000000,
+"maxSupply": 1000000,
+"tokenImage": "https://ndi.340wan.com/eos/yfieos.do-yfiii.png",
+"percentChange24h": "0.70",
+"marketCapInEOS": 1501.23897605055,
+"marketCapInUSD": 7160.909915761123,
+"tokenPriceInUSD": 0.007160909915761123,
+"volume24hUSD": 0,
+"high24h": 0.007371083372408201,
+"low24h": 0.006995773628395563,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.021635071291086713",
+"priceATL": "0.0047632820826852456",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "godoffinance",
+"tokenName": "BLESS",
+"tokenPriceInEOS": "0.15124702308102170",
+"supply": 7777,
+"maxSupply": 7777,
+"tokenImage": "https://ndi.340wan.com/eos/godoffinance-bless.png",
+"percentChange24h": "70.48",
+"marketCapInEOS": 1176.2480985011057,
+"marketCapInUSD": 5610.703429850274,
+"tokenPriceInUSD": 0.7214483000964734,
+"volume24hUSD": 0,
+"high24h": 0.7426228833278166,
+"low24h": 0.7048111275575611,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "2.1719072514434714",
+"priceATL": "0.38469747374925484",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "hashbabycoin",
+"tokenName": "BABY",
+"tokenPriceInEOS": "0.00000222405511881",
+"supply": 411488885,
+"maxSupply": 500000000,
+"projectURL": null,
+"tokenImage": "https://ndi.340wan.com/eos/hashbabycoin-baby.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 915.1739610176694,
+"marketCapInUSD": 4365.379794054283,
+"tokenPriceInUSD": 0.000010608742916723698,
+"volume24hUSD": 0,
+"high24h": 0.0000109201106333571,
+"low24h": 0.0000103640968536546,
+"chain": "eos",
+"description": "BABY is the token used in the community, mainly for content consumption and service consumption.",
+"descriptionCN": "BABY是社区内寄出货币，主要用于内容消费、服务消费。",
+"isDefiBox": true,
+"priceATH": "0.000054443053465526",
+"priceATL": "0.00000031222463884560005",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "eosteawallet",
+"tokenName": "TLBC",
+"tokenPriceInEOS": "0.00000008422125282",
+"supply": 10000000000,
+"maxSupply": 10000000000,
+"tokenImage": "https://ndi.340wan.com/eos/eosteawallet-tlbc.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 842.2125282,
+"marketCapInUSD": 4017.353759513999,
+"tokenPriceInUSD": 4.0173537595139995e-7,
+"volume24hUSD": 0,
+"high24h": 4.1352635134619996e-7,
+"low24h": 3.924710381412e-7,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.2637329878349404",
+"priceATL": "0.0000000078343043859",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "hashbabycoin",
+"tokenName": "HBS",
+"tokenPriceInEOS": "0.00005720848858459",
+"supply": 11762054,
+"maxSupply": 190000000,
+"projectURL": null,
+"tokenImage": "https://ndi.340wan.com/eos/hashbabycoin-hbs.png",
+"percentChange24h": "0.03",
+"marketCapInEOS": 672.8893319903311,
+"marketCapInUSD": 3209.6821135938794,
+"tokenPriceInUSD": 0.0002728844905484943,
+"volume24hUSD": 0,
+"high24h": 0.0002808936789503369,
+"low24h": 0.0002665915568041894,
+"chain": "eos",
+"description": "HBS is a certificate of interest for Haxi Baby. Holding HBS, you will earn dividends from the community.",
+"descriptionCN": "HBS是哈希宝贝的权益证明，持有HBS，将获得社区盈利分红。",
+"isDefiBox": true,
+"priceATH": "0.0002877586975804877",
+"priceATL": "0.000006438585469981",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "norsealexsam",
+"tokenName": "NE",
+"tokenPriceInEOS": "0.00001754862133245",
+"supply": 10000000,
+"maxSupply": 10000000,
+"tokenImage": "https://ndi.340wan.com/eos/norsealexsam-ne.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 175.4862133245,
+"marketCapInUSD": 837.0692375578649,
+"tokenPriceInUSD": 0.00008370692375578649,
+"volume24hUSD": 0,
+"high24h": 0.0000861637307423295,
+"low24h": 0.000081776575409217,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.001658296917818472",
+"priceATL": "0.0000278167874378337",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "denniseos.tp",
+"tokenName": "ILINK",
+"tokenPriceInEOS": "0.00002575963639618",
+"supply": 5000000,
+"maxSupply": 5000000,
+"tokenImage": "https://ndi.340wan.com/eos/denniseos.tp-ilink.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 128.7981819809,
+"marketCapInUSD": 614.367328048893,
+"tokenPriceInUSD": 0.00012287346560977858,
+"volume24hUSD": 0,
+"high24h": 0.0001264798147052438,
+"low24h": 0.00012003990560619882,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.7795389918138732",
+"priceATL": "0.0000803700655560816",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "tcapitalnote",
+"tokenName": "TCN",
+"tokenPriceInEOS": "0.00011960650449298",
+"supply": 1000000,
+"maxSupply": 1000000,
+"tokenImage": "https://ndi.340wan.com/eos/tcapitalnote-tcn.png",
+"percentChange24h": "0.06",
+"marketCapInEOS": 119.60650449298001,
+"marketCapInUSD": 570.5230264315146,
+"tokenPriceInUSD": 0.0005705230264315146,
+"volume24hUSD": 0,
+"high24h": 0.0005872679370605319,
+"low24h": 0.0005573663109372869,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0022539981971838293",
+"priceATL": "0.0001158617109199918",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "carrotstoken",
+"tokenName": "CRT",
+"tokenPriceInEOS": "0.00019971320049610",
+"supply": 574977,
+"maxSupply": 2100000,
+"tokenImage": "https://ndi.340wan.com/eos/carrotstoken-crt.png",
+"percentChange24h": "0.09",
+"marketCapInEOS": 114.83049688164608,
+"marketCapInUSD": 547.7414701254518,
+"tokenPriceInUSD": 0.0009526319663663969,
+"volume24hUSD": 0,
+"high24h": 0.000980591814435851,
+"low24h": 0.000930663514311826,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.04470351558065213",
+"priceATL": "0.0007623698153407658",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "chickentoken",
+"tokenName": "CHK",
+"tokenPriceInEOS": "0.00511795888311547",
+"supply": 20682,
+"maxSupply": 21000,
+"tokenImage": "https://ndi.340wan.com/eos/chickentoken-chk.png",
+"percentChange24h": "2.38",
+"marketCapInEOS": 105.84962562059415,
+"marketCapInUSD": 504.9027142102341,
+"tokenPriceInUSD": 0.024412663872460792,
+"volume24hUSD": 0,
+"high24h": 0.02512917811609696,
+"low24h": 0.02384968839531809,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "2.4731107736103595",
+"priceATL": "0.01631205861004253",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "okkkkkkkkkkk",
+"tokenName": "DW",
+"tokenPriceInEOS": "0.00000009715346220",
+"supply": 1000000000,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/okkkkkkkkkkk-dw.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 97.15346219999999,
+"marketCapInUSD": 463.4220146939999,
+"tokenPriceInUSD": 4.6342201469399993e-7,
+"volume24hUSD": 0,
+"high24h": 4.77023499402e-7,
+"low24h": 4.52735133852e-7,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0000019756935232125",
+"priceATL": "0.000000303118802064",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "yaocoretoken",
+"tokenName": "YAO",
+"tokenPriceInEOS": "0.00000312551012439",
+"supply": 29192209,
+"maxSupply": 21000000000,
+"tokenImage": "https://ndi.340wan.com/eos/yaocoretoken-yao.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 91.24054478280888,
+"marketCapInUSD": 435.21739861399834,
+"tokenPriceInUSD": 0.000014908683293340298,
+"volume24hUSD": 0,
+"high24h": 0.0000153462547107549,
+"low24h": 0.0000145648771796574,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.000123388122843155",
+"priceATL": "0.000005468596434073201",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "huangheeos.e",
+"tokenName": "JCB",
+"tokenPriceInEOS": "0.00080910750229154",
+"supply": 100000,
+"maxSupply": 100000,
+"tokenImage": "https://ndi.340wan.com/eos/huangheeos.e-jcb.png",
+"percentChange24h": "0.38",
+"marketCapInEOS": 80.91075022915399,
+"marketCapInUSD": 385.9442785930645,
+"tokenPriceInUSD": 0.003859442785930645,
+"volume24hUSD": 0,
+"high24h": 0.003972717836251461,
+"low24h": 0.003770440960678576,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.024789493465453095",
+"priceATL": "0.0012628145455769284",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "chgtokencode",
+"tokenName": "CHG",
+"tokenPriceInEOS": "0.00002762012717744",
+"supply": 1464840,
+"maxSupply": 2100000,
+"tokenImage": "https://ndi.340wan.com/eos/chgtokencode-chg.png",
+"percentChange24h": "0.01",
+"marketCapInEOS": 40.45906709460121,
+"marketCapInUSD": 192.98975004124776,
+"tokenPriceInUSD": 0.00013174800663638879,
+"volume24hUSD": 0,
+"high24h": 0.0001356148244412304,
+"low24h": 0.0001287097926468704,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.11726148052160504",
+"priceATL": "0.0000861747967936128",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "enjoytravel2",
+"tokenName": "EEE",
+"tokenPriceInEOS": "0.00003605442227817",
+"supply": 1000000,
+"maxSupply": 1000000,
+"tokenImage": "https://ndi.340wan.com/eos/enjoytravel2-eee.png",
+"percentChange24h": "0.02",
+"marketCapInEOS": 36.05442227817,
+"marketCapInUSD": 171.9795942668709,
+"tokenPriceInUSD": 0.0001719795942668709,
+"volume24hUSD": 0,
+"high24h": 0.00017702721338581473,
+"low24h": 0.00016801360781627223,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.20197571327619324",
+"priceATL": "0.00008905442302707991",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "ooxx.n",
+"tokenName": "SB",
+"tokenPriceInEOS": "0.00000000126562017",
+"supply": 21300000000,
+"maxSupply": 21300000000,
+"tokenImage": "https://ndi.340wan.com/eos/ooxx.n-sb.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 26.957709621,
+"marketCapInUSD": 128.58827489216998,
+"tokenPriceInUSD": 6.0370082108999995e-9,
+"volume24hUSD": 0,
+"high24h": 6.2141950347000004e-9,
+"low24h": 5.8977899922000005e-9,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0000017144703867240001",
+"priceATL": "0.0000000005652747816000001",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "chainclashtk",
+"tokenName": "CCB",
+"tokenPriceInEOS": "0.00000026566003529",
+"supply": 100000000,
+"maxSupply": 100000000,
+"tokenImage": "https://ndi.340wan.com/eos/chainclashtk-ccb.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 26.566003529000003,
+"marketCapInUSD": 126.71983683333,
+"tokenPriceInUSD": 0.0000012671983683333,
+"volume24hUSD": 0,
+"high24h": 0.0000013043907732739002,
+"low24h": 0.0000012379757644514002,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0002036855838483472",
+"priceATL": "0.0000011449947520999",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "sars.run",
+"tokenName": "SARS",
+"tokenPriceInEOS": "0.00000000007315946",
+"supply": 300000000000,
+"maxSupply": 300000000000,
+"tokenImage": "https://ndi.340wan.com/eos/sars.run-sars.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 21.947837999999997,
+"marketCapInUSD": 104.69118725999998,
+"tokenPriceInUSD": 3.4897062419999995e-10,
+"volume24hUSD": 0,
+"high24h": 3.5921294859999997e-10,
+"low24h": 3.409230836e-10,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.27510504865173774",
+"priceATL": "0.00000000022825751519999998",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "eosvactokens",
+"tokenName": "VAC",
+"tokenPriceInEOS": "0.00046604069912147",
+"supply": 45280,
+"maxSupply": 100000,
+"tokenImage": "https://ndi.340wan.com/eos/eosvactokens-vac.png",
+"percentChange24h": "0.22",
+"marketCapInEOS": 21.102322856220162,
+"marketCapInUSD": 100.65808002417016,
+"tokenPriceInUSD": 0.0022230141348094116,
+"volume24hUSD": 0,
+"high24h": 0.0022882598326864176,
+"low24h": 0.00217174965790605,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.08063493996098524",
+"priceATL": "0.001491000063298176",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "echechechech",
+"tokenName": "ECH",
+"tokenPriceInEOS": "0.00000007354346240",
+"supply": 210228557,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/echechechech-ech.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 15.460935977135756,
+"marketCapInUSD": 73.74866461093755,
+"tokenPriceInUSD": 3.50802315648e-7,
+"volume24hUSD": 0,
+"high24h": 3.61098400384e-7,
+"low24h": 3.4271253478399994e-7,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0001599974143211216",
+"priceATL": "0.000000269904507008",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "proofoftoken",
+"tokenName": "GRP",
+"tokenPriceInEOS": "0.00004879091203578",
+"supply": 131349,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/proofoftoken-grp.png",
+"percentChange24h": "0.02",
+"marketCapInEOS": 6.408637504987667,
+"marketCapInUSD": 30.56920089879117,
+"tokenPriceInUSD": 0.0002327326504106706,
+"volume24hUSD": 0,
+"high24h": 0.0002395633780956798,
+"low24h": 0.0002273656500867348,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "9.994520145083817",
+"priceATL": "0.000157218667003164",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "liulong13141",
+"tokenName": "BTCN",
+"tokenPriceInEOS": "0.00000005947716922",
+"supply": 99999999,
+"maxSupply": 99999999,
+"tokenImage": "https://ndi.340wan.com/eos/liulong13141-btcn.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 5.947716862522831,
+"marketCapInUSD": 28.3706094342339,
+"tokenPriceInUSD": 2.8370609717939996e-7,
+"volume24hUSD": 0,
+"high24h": 2.920329008702e-7,
+"low24h": 2.7716360856520003e-7,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.003045812223233833",
+"priceATL": "0.00000018556876796640002",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "tonartstoken",
+"tokenName": "CT",
+"tokenPriceInEOS": "0.00000000159830107",
+"supply": 610400000,
+"maxSupply": 10000000000,
+"tokenImage": "https://ndi.340wan.com/eos/tonartstoken-ct.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 0.9756029731279999,
+"marketCapInUSD": 4.6536261818205595,
+"tokenPriceInUSD": 7.623896103899999e-9,
+"volume24hUSD": 0,
+"high24h": 7.8476582537e-9,
+"low24h": 7.4480829862e-9,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.001048986812809784",
+"priceATL": "0.0000000049866993384",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "tokencrafter",
+"tokenName": "COINQST",
+"tokenPriceInEOS": "0.00010000000000000",
+"supply": 1000,
+"maxSupply": 1000000000,
+"tokenImage": "https://ndi.340wan.com/eos/tokencrafter-coinqst.png",
+"percentChange24h": "0.05",
+"marketCapInEOS": 0.1,
+"marketCapInUSD": 0.477,
+"tokenPriceInUSD": 0.000477,
+"volume24hUSD": 0,
+"high24h": 0.000491,
+"low24h": 0.00046600000000000005,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.001436",
+"priceATL": "0.00022200000000000003",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "freecoinsone",
+"tokenName": "FCO",
+"tokenPriceInEOS": "0.00000000002720809",
+"supply": 2230810175,
+"maxSupply": 10000000000,
+"tokenImage": "https://ndi.340wan.com/eos/freecoinsone-fco.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 0.060696084014315754,
+"marketCapInUSD": 0.2895203207482861,
+"tokenPriceInUSD": 1.2978258929999998e-10,
+"volume24hUSD": 0,
+"high24h": 1.3359172190000002e-10,
+"low24h": 1.267896994e-10,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.037257548369468124",
+"priceATL": "0.0000000000848892408",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "emerald11111",
+"tokenName": "EMD",
+"tokenPriceInEOS": "0.00000171024731697",
+"supply": 2021,
+"maxSupply": 10000,
+"tokenImage": "https://ndi.340wan.com/eos/emerald11111-emd.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 0.00345640982759637,
+"marketCapInUSD": 0.016487074877634685,
+"tokenPriceInUSD": 0.0000081578797019469,
+"volume24hUSD": 0,
+"high24h": 0.0000083973143263227,
+"low24h": 0.0000079697524970802,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "269.57711159238573",
+"priceATL": "0.0000037967490436734002",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "bosibc.io",
+"tokenName": "TLOS",
+"tokenPriceInEOS": "0.00000000000000000",
+"supply": "0",
+"maxSupply": "0",
+"tokenImage": "https://ndi.340wan.com/eos/bosibc.io-tlos.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 0,
+"volume24hUSD": 0,
+"high24h": 0,
+"low24h": 0,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.01827124585245114",
+"priceATL": "0.01558110860044077",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "bosibc.io",
+"tokenName": "BOS",
+"tokenPriceInEOS": "0.00022673940678580",
+"supply": "0",
+"maxSupply": "0",
+"tokenImage": "https://ndi.340wan.com/eos/bosibc.io-bos.png",
+"percentChange24h": "0.11",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 0.0010815469703682658,
+"volume24hUSD": 0,
+"high24h": 0.001113290487318278,
+"low24h": 0.0010566056356218281,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.005307957514803455",
+"priceATL": "0.0009275054746016206",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "milktokencdx",
+"tokenName": "MILK",
+"tokenPriceInEOS": "0.06555727001971090",
+"supply": "0",
+"maxSupply": "0",
+"tokenImage": "https://ndi.340wan.com/eos/milktokencdx-milk.png",
+"percentChange24h": "30.55",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 0.31270817799402095,
+"volume24hUSD": 0,
+"high24h": 0.3218861957967805,
+"low24h": 0.30549687829185285,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.9414023974830485",
+"priceATL": "0.1455371394437582",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "eosiotipcoin",
+"tokenName": "TIP",
+"tokenPriceInEOS": "0.00000000000082981",
+"supply": "0",
+"maxSupply": "0",
+"tokenImage": "https://ndi.340wan.com/eos/eosiotipcoin-tip.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 3.9581936999999994e-12,
+"volume24hUSD": 0,
+"high24h": 4.0743671e-12,
+"low24h": 3.8669146e-12,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.0000000000119160716",
+"priceATL": "0.0000000000018421782000000003",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "effecttokens",
+"tokenName": "NFX",
+"tokenPriceInEOS": "0.00000000000000000",
+"supply": 9018130,
+"maxSupply": 20000000000,
+"tokenImage": "https://ndi.340wan.com/eos/effecttokens-nfx.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 0,
+"marketCapInUSD": 0,
+"tokenPriceInUSD": 0,
+"volume24hUSD": 0,
+"high24h": 0,
+"low24h": 0,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": 0,
+"priceATL": 0,
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "issue.newdex",
+"tokenName": "BTC",
+"tokenPriceInEOS": "248690.63772048844839446",
+"supply": 0,
+"maxSupply": 10000,
+"projectURL": "https://bitcoin.org/",
+"tokenImage": "https://ndi.340wan.com/eos/btc_usdt.png",
+"percentChange24h": "115889837.18",
+"marketCapInEOS": 0,
+"marketCapInUSD": 0,
+"tokenPriceInUSD": 1186254.3419267298,
+"volume24hUSD": 0,
+"high24h": 1221071.0312075983,
+"low24h": 1158898.3717774763,
+"chain": "eos",
+"description": "The theory behind Bitcoin was first described by Satoshi Nakomoto in a paper “Bitcoin: A Peer to Peer Electronic Cash System”published to a cryptographic mailing list on the 31st of October 2008. In this paper, Satoshi described the protocol (Proof of Work) that would solve the “double-spend”problem inherent in non-physical (digital) forms of currency. The first or Genesis block was mined by Satoshi on the 3rd of January 2009, with the text “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks” written into the coinbase of the block to act both as a timestamp and a rebuke to the economic instability caused by the widespread practice of fractional reserve banking. \n\nThe total supply of Bitcoins is capped at 21 million coins (roughly 18 million are currently in circulation), with each coin being divisible to the 8th decimal place, with a single unit of the smallest division (0.00000001 BTC) being known colloquially as a Satoshi (or sat). The software to run miners and wallets is open source and decentralized, meaning that the network is accessible to anyone with a computer and an internet connection. Transactions are validated and written into the blockchain by miners selected via the Proof of Work (SHA-256) protocol. The difficulty of the Proof of Work algorithm is adjusted every 2016 blocks (roughly 2 weeks) to maintain an average block time of roughly 10 minutes. \n\nNew Bitcoins are created (minted) as a reward to the miner that mined the valid block, with the reward currently sitting at 12.5 Bitcoins per block. This block reward is halved every 210,000 blocks (roughly 4 years) until it reaches zero. This block reward serves as an economic incentive for the miners to continue securing the Bitcoin network.\nThe total supply of Bitcoins is capped at 21 million coins (roughly 18 million are currently in circulation), with each coin being divisible to the 8th decimal place, with a single unit of the smallest division (0.00000001 BTC) being known colloquially as a Satoshi (or sat). The software to run miners and wallets is open source and decentralized, meaning that the network is accessible to anyone with a computer and an internet connection. Transactions are validated and written into the blockchain by miners selected via the Proof of Work (SHA-256) protocol. The difficulty of the Proof of Work algorithm is adjusted every 2016 blocks (roughly 2 weeks) to maintain an average block time of roughly 10 minutes. ",
+"descriptionCN": "比特币（BitCoin）的概念最初由中本聪在2009年提出，根据中本聪的思路设计发布的开源软件以及建构其上的P2P网络。比特币是一种P2P形式的数字货币。点对点的传输意味着一个去中心化的支付系统。\n\n与大多数货币不同，比特币不依靠特定货币机构发行，它依据特定算法，通过大量的计算产生，比特币经济使用整个P2P网络中众多节点构成的分布式数据库来确认并记录所有的交易行为，并使用密码学的设计来确保货币流通各个环节安全性。P2P的去中心化特性与算法本身可以确保无法通过大量制造比特币来人为操控币值。基于密码学的设计可以使比特币只能被真实的拥有者转移或支付。这同样确保了货币所有权与流通交易的匿名性。比特币与其他虚拟货币最大的不同，是其总数量非常有限，具有极强的稀缺性。该货币系统曾在4年内只有不超过1050万个，之后的总数量将被永久限制在2100万个。",
+"isDefiBox": true,
+"priceATH": "99984.27517172696",
+"priceATL": "10013.447695254572",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "token.bank",
+"tokenName": "SXTB",
+"tokenPriceInEOS": "0.41133720930232559",
+"supply": "0",
+"maxSupply": "0",
+"tokenImage": "https://ndi.340wan.com/eos/token.bank-sxtb.png",
+"percentChange24h": "191.68",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 1.962078488372093,
+"volume24hUSD": 0,
+"high24h": 2.0196656976744185,
+"low24h": 1.9168313953488374,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "5.9068023255813955",
+"priceATL": "0.11983176099914074",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "sugartokensb",
+"tokenName": "SUGAR",
+"tokenPriceInEOS": "0.00000067711179171",
+"supply": "0",
+"maxSupply": "0",
+"tokenImage": "https://ndi.340wan.com/eos/sugartokensb-sugar.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 0.0000032298232464566996,
+"volume24hUSD": 0,
+"high24h": 0.0000033246188972961004,
+"low24h": 0.0000031553409493686,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "0.6717483804954889",
+"priceATL": "0.0000014430426064730003",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "bosibc.io",
+"tokenName": "WAX",
+"tokenPriceInEOS": "0.13749552308043830",
+"supply": "0",
+"maxSupply": "0",
+"tokenImage": "https://ndi.340wan.com/eos/bosibc.io-wax.png",
+"percentChange24h": "64.07",
+"marketCapInEOS": "0",
+"marketCapInUSD": "0",
+"tokenPriceInUSD": 0.6558536450936906,
+"volume24hUSD": 0,
+"high24h": 0.6751030183249521,
+"low24h": 0.6407291375548425,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": "1.1990453293600953",
+"priceATL": "0.02981987737189649",
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+},
+{
+"tokenContract": "okkkkkkkkkkk",
+"tokenName": "CGC",
+"tokenPriceInEOS": "0.00000000000000000",
+"supply": 55514,
+"maxSupply": 55514,
+"tokenImage": "https://ndi.340wan.com/eos/okkkkkkkkkkk-cgc.png",
+"percentChange24h": "0.00",
+"marketCapInEOS": 0,
+"marketCapInUSD": 0,
+"tokenPriceInUSD": 0,
+"volume24hUSD": 0,
+"high24h": 0,
+"low24h": 0,
+"chain": "eos",
+"isDefiBox": true,
+"priceATH": 0,
+"priceATL": 0,
+"contact": [
+{}
+],
+"warning": [
+{}
+]
+}
+]
